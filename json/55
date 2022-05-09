@@ -1,0 +1,64 @@
+{
+  "name": "BHGCTest2 #55",
+  "description": "Testing test test",
+  "image": "https://bhgc-dev.github.io/test/images/55.png",
+  "attributes": [
+    {
+      "trait_type": "backgrounds",
+      "value": "background white"
+    },
+    {
+      "trait_type": "bodies",
+      "value": "body fantail"
+    },
+    {
+      "trait_type": "tails",
+      "value": "tail kiwi"
+    },
+    {
+      "trait_type": "chests",
+      "value": "chest kiwi"
+    },
+    {
+      "trait_type": "legs",
+      "value": "legs tomtit spats"
+    },
+    {
+      "trait_type": "wings",
+      "value": "wing tomtit"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eye black"
+    },
+    {
+      "trait_type": "wattles",
+      "value": "wattle fantail"
+    },
+    {
+      "trait_type": "beaks",
+      "value": "corvid blood"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "glasses none"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes scarf pink"
+    },
+    {
+      "trait_type": "sketchy",
+      "value": "not sketchy"
+    },
+    {
+      "trait_type": "hats",
+      "value": "wizard blue"
+    }
+  ],
+  "dna": "5f5ae2d81b06d77147816ce465f8902209cf52ee",
+  "edition": 55,
+  "external_url": "https://BHGC.no",
+  "date": 1652054007233,
+  "compiler": "HashLips Art Engine - BHGC Modified"
+}

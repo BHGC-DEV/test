@@ -1,0 +1,64 @@
+{
+  "name": "BHGCTest2 #22",
+  "description": "Testing test test",
+  "image": "https://bhgc-dev.github.io/test/images/22.png",
+  "attributes": [
+    {
+      "trait_type": "backgrounds",
+      "value": "background blue"
+    },
+    {
+      "trait_type": "bodies",
+      "value": "body tomtit"
+    },
+    {
+      "trait_type": "tails",
+      "value": "tail fantail"
+    },
+    {
+      "trait_type": "chests",
+      "value": "chest kiwi"
+    },
+    {
+      "trait_type": "legs",
+      "value": "legs fantail"
+    },
+    {
+      "trait_type": "wings",
+      "value": "wing fantail"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eye white"
+    },
+    {
+      "trait_type": "wattles",
+      "value": "wattle tomtit"
+    },
+    {
+      "trait_type": "beaks",
+      "value": "fantail scold"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "aviators"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "tie blue"
+    },
+    {
+      "trait_type": "sketchy",
+      "value": "not sketchy"
+    },
+    {
+      "trait_type": "hats",
+      "value": "pirate blue gold pink"
+    }
+  ],
+  "dna": "9311e9222623559393d0fa7c561ca94007f2222f",
+  "edition": 22,
+  "external_url": "https://BHGC.no",
+  "date": 1652054010834,
+  "compiler": "HashLips Art Engine - BHGC Modified"
+}
