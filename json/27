@@ -1,6 +1,6 @@
 {
-  "name": "Balduin",
-  "description": "Balduin is the rounded Bird of all. It has a widish camels, and a ray shaped like a patient. It loves to eat drinks, although it will feast on nearly anything. It is beastlike and jerky. You must be wicker around it, or you may end up as it`s meal!",
+  "name": "Jakobe",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Jakobe’s. \n\nThis bird's full name is Jakobe W Isabella, but everyone calls it Jakobe. It is the most female bird in Seaview. \n\nIt loves to eat creamy although it will consume nearly anything.\n\nJakobe is a Capricorn with a blood type of Oleaginous who revels in persons and pencils. However, Jakobe eschews rooms. By day, Jakobe is a simple Caulker. By night, it enjoys amateur radio. \n\nJakobe’s secret is that it enjoys the taste of rain. It has a hat that causes excessive yawning. The hat’s name is Corine. \n",
   "image": "https://bhgc-dev.github.io/test/images/27.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "tie red"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "wizard wizzard"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "No"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 1
+    },
+    {
+      "trait_type": "Heart",
+      "value": 3
+    },
+    {
+      "trait_type": "Magic",
+      "value": 2
+    },
+    {
+      "trait_type": "Size",
+      "value": 2
+    },
+    {
+      "trait_type": "Speed",
+      "value": 2
     }
   ],
   "dna": "df52983c1fa47c8880386d2a241378967685a56f",
   "edition": 27,
   "external_url": "https://BHGC.no",
   "date": 1652054011968,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

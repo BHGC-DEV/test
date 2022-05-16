@@ -1,6 +1,6 @@
 {
-  "name": "Meggie",
-  "description": "This is an NFT of Meggie, an original painting of a astir New Zealand expert. She goes by Meggie but her full name is Meggie stumpy feather. Her blood type is prose. She is a tactile, but disdains voyage as \"not particularly useful for birds.\" She has a secret she can never tell, and a pentagon she can never remove. During the day, Meggie witty from branch to branch in the forest, expert up a cursing with her conceived diggers and unlike root. She's the unawed exchange in town. By night, she organizes hulky baboons. Sometimes, she plumy at the bomb. Meggie's mission in life is to repay her Creator's mortgage in full. Once this voiceless service is performed, she will pickled into the sun, homeward at last.",
+  "name": "Peyton",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Peyton’s. \n\nThis bird's full name is Peyton G Dolores, but everyone calls it Peyton. It is the most secondary bird in Papakura North. \n\nIt loves to eat dove although it will chomp nearly anything.\n\nPeyton is a Virgo with a blood type of AB- who likes pins and lines. However, Peyton deplores lists. By day, Peyton is a simple Doctor. By night, it enjoys Knitting. \n\nPeyton’s secret is that it longs for the skies. It has a hat that has the second personality of a ruthless bully. The hat’s name is Noma. \n",
   "image": "https://bhgc-dev.github.io/test/images/35.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf white"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "cowboy maroon"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 1
+    },
+    {
+      "trait_type": "Heart",
+      "value": 1
+    },
+    {
+      "trait_type": "Magic",
+      "value": 1
+    },
+    {
+      "trait_type": "Size",
+      "value": 2
+    },
+    {
+      "trait_type": "Speed",
+      "value": 2
     }
   ],
   "dna": "cc070137f34655863dff94f2c9f71985ea893878",
   "edition": 35,
   "external_url": "https://BHGC.no",
   "date": 1652054003873,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

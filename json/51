@@ -1,6 +1,6 @@
 {
-  "name": "Toiboid",
-  "description": "This is an NFT of Toiboid, an original painting of a fozy New Zealand smile. He goes by Toiboid but his full name is Toiboid damaged watch. His blood type is bagel. He is an increased, but disdains battery as \"not particularly useful for birds.\" He has a secret he can never tell, and a camp he can never remove. During the day, Toiboid socko from branch to branch in the forest, stateside up a doddered with his often liers and shredded effect. He's the blaring wall in town. By night, he organizes snidest stretches. Sometimes, he kilted at the cylinder. Toiboid's mission in life is to repay his Creator's mortgage in full. Once this combust service is performed, he will cloistral into the sun, dusky at last.",
+  "name": "Kayley",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Kayley’s. \n\nThis bird's full name is Kayley A Loretta, but everyone calls it Kayley. It is the most lumbering bird in Nireaha-Tiraumea. \n\nIt loves to eat toppings although it will partake of nearly anything.\n\nKayley is a Aquarius with a blood type of Zoinks who delights in clarinets and carrots. However, Kayley antipathizes twigs. By day, Kayley is a simple Bingo Caller. By night, it enjoys Knitting. \n\nKayley’s secret is that it is assembling a small low-yield nuclear device. It has a hat that screams and screams and screams and screams. The hat’s name is Carmella. \n",
   "image": "https://bhgc-dev.github.io/test/images/51.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf black red stripes"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "cowboy black"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Miscellaneous"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 2
+    },
+    {
+      "trait_type": "Heart",
+      "value": 5
+    },
+    {
+      "trait_type": "Magic",
+      "value": 4
+    },
+    {
+      "trait_type": "Size",
+      "value": 2
+    },
+    {
+      "trait_type": "Speed",
+      "value": 5
     }
   ],
   "dna": "0ced7a95873fb52c921becf3b770cbb25cf465d2",
   "edition": 51,
   "external_url": "https://BHGC.no",
   "date": 1652054011543,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "M"
 }

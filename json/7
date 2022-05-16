@@ -1,6 +1,6 @@
 {
-  "name": "Archambault",
-  "description": "This is an NFT of Archambault, an original painting of a downstate New Zealand head. He goes by Archambault but his full name is Archambault convinced joke. His blood type is gore-tex. He is an unstarched, but disdains turnover as \"not particularly useful for birds.\" He has a secret he can never tell, and a support he can never remove. During the day, Archambault unblocked from branch to branch in the forest, accrued up a unsought with his sister rolls and turdine shark. He's the unraised swan in town. By night, he organizes excused cyclones. Sometimes, he pockmarked at the behavior. Archambault's mission in life is to repay his Creator's mortgage in full. Once this former service is performed, he will flitting into the sun, pan at last.",
+  "name": "Bryson",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Bryson’s. \n\nThis bird's full name is Bryson B Houston, but everyone calls it Bryson. It is the most tiny bird in Mangawhai. \n\nIt loves to eat thuringer although it will destroy nearly anything.\n\nBryson is a Leo with a blood type of Biff who delights in jars and vests. However, Bryson loathes snails. By day, Bryson is a simple Repairer. By night, it enjoys Yo-yoing. \n\nBryson’s secret is that it doesn't stop, never gives up, holds its head high and reaches the top. It has a hat that fades out, again. The hat’s name is Bertie. \n",
   "image": "https://bhgc-dev.github.io/test/images/7.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf pink"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "pirate blue gold pink"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "No"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 4
+    },
+    {
+      "trait_type": "Heart",
+      "value": 2
+    },
+    {
+      "trait_type": "Magic",
+      "value": 5
+    },
+    {
+      "trait_type": "Size",
+      "value": 5
+    },
+    {
+      "trait_type": "Speed",
+      "value": 1
     }
   ],
   "dna": "2b4d2a1dddb2dd6d37012bcd01700ac6e4a3fc2c",
   "edition": 7,
   "external_url": "https://BHGC.no",
   "date": 1652054002380,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

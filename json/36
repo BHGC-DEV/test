@@ -1,6 +1,6 @@
 {
-  "name": "Marlon",
-  "description": "This is an NFT of Marlon, an original painting of a galliard New Zealand trumpet. He goes by Marlon but his full name is Marlon rollneck george. His blood type is possibility. He is an oblate, but disdains lawyer as \"not particularly useful for birds.\" He has a secret he can never tell, and a texture he can never remove. During the day, Marlon littler from branch to branch in the forest, handsome up a announced with his osmic diplomas and coated buzzard. He's the sideward millennium in town. By night, he organizes unthought cements. Sometimes, he russet at the magazine. Marlon's mission in life is to repay his Creator's mortgage in full. Once this finished service is performed, he will snooty into the sun, sleepy at last.",
+  "name": "Audrey",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Audrey’s. \n\nThis bird's full name is Audrey D Phil, but everyone calls it Audrey. It is the most superior bird in Kaiwharawhara. \n\nIt loves to eat shells although it will dispose of nearly anything.\n\nAudrey is a Cancer with a blood type of ZX who appreciates wrinkles and cemeteries. However, Audrey detests trains. By day, Audrey is a simple Technical Instructor. By night, it enjoys Scuba diving. \n\nAudrey’s secret is that it has recursive secrets. It has a hat that isn't interested. The hat’s name is Kate. \n",
   "image": "https://bhgc-dev.github.io/test/images/36.png",
   "attributes": [
     {
@@ -54,11 +54,36 @@
     {
       "trait_type": "hats",
       "value": "pirate pink"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Non-binary"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 4
+    },
+    {
+      "trait_type": "Heart",
+      "value": 3
+    },
+    {
+      "trait_type": "Magic",
+      "value": 3
+    },
+    {
+      "trait_type": "Size",
+      "value": 2
+    },
+    {
+      "trait_type": "Speed",
+      "value": 1
     }
   ],
   "dna": "89688bdf72a31bf512175eca05f88cc968cfc3e2",
   "edition": 36,
   "external_url": "https://BHGC.no",
   "date": 1652054010120,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "M"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "Tucker",
-  "description": "This is an NFT of Tucker, an original painting of a monstrous New Zealand sagittarius. He goes by Tucker but his full name is Tucker uncursed adapter. His blood type is sweatshop. He is a centrist, but disdains punch as \"not particularly useful for birds.\" He has a secret he can never tell, and a organ he can never remove. During the day, Tucker scrawly from branch to branch in the forest, blinking up a outsized with his transient sinks and flipping way. He's the holstered cheese in town. By night, he organizes sturdy parallelograms. Sometimes, he paunchy at the justice. Tucker's mission in life is to repay his Creator's mortgage in full. Once this feline service is performed, he will unleased into the sun, villose at last.",
+  "name": "Waylon",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Waylon’s. \n\nThis bird's full name is Waylon A Watson, but everyone calls it Waylon. He is the most gummy bird in Onekawa West. \n\nIt loves to eat spinach although it will tuck into nearly anything.\n\nWaylon is a Leo with a blood type of O+ who freaks out about swamps and mouths. However, Waylon detests helicopters. By day, Waylon is a simple Plant Operator. By night, he enjoys Machining. \n\nWaylon’s secret is that he kills houseplants through neglect. He has a hat that believes in false gods. The hat’s name is Zada. \n",
   "image": "https://bhgc-dev.github.io/test/images/37.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf blue yellow stripes"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "hat tophat symbol b"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 3
+    },
+    {
+      "trait_type": "Heart",
+      "value": 5
+    },
+    {
+      "trait_type": "Magic",
+      "value": 2
+    },
+    {
+      "trait_type": "Size",
+      "value": 3
+    },
+    {
+      "trait_type": "Speed",
+      "value": 4
     }
   ],
   "dna": "33dc45338feba2cce80865aed405fd3b6703100d",
   "edition": 37,
   "external_url": "https://BHGC.no",
   "date": 1652054007772,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

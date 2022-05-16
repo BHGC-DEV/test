@@ -1,6 +1,6 @@
 {
-  "name": "Gillian",
-  "description": "This is an NFT of Gillian, an original painting of a sceptral New Zealand island. She goes by Gillian but her full name is Gillian carlish hat. Her blood type is barometer. She is an unstreamed, but disdains damage as \"not particularly useful for birds.\" She has a secret she can never tell, and a digger she can never remove. During the day, Gillian vengeful from branch to branch in the forest, cockney up a brimless with her waspy frames and frockless millisecond. She's the discreet light in town. By night, she organizes casteless dancers. Sometimes, she ungroomed at the frost. Gillian's mission in life is to repay her Creator's mortgage in full. Once this obscure service is performed, she will remnant into the sun, goofy at last.",
+  "name": "Alannah",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Alannah’s. \n\nThis bird's full name is Alannah R Lindsey, but everyone calls it Alannah. It is the most worn bird in Masterton Railway. \n\nIt loves to eat foie although it will polish off nearly anything.\n\nAlannah is a Taurus with a blood type of Savvy who fancies chocolates and pedestrians. However, Alannah objects to breaks. By day, Alannah is a simple Antique Dealer. By night, it enjoys Vehicle restoration. \n\nAlannah’s secret is that it is stanky. It has a hat that causes excessive biting. The hat’s name is Gwendolyn. \n",
   "image": "https://bhgc-dev.github.io/test/images/8.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf black red stripes"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "cowboy maroon"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 5
+    },
+    {
+      "trait_type": "Heart",
+      "value": 5
+    },
+    {
+      "trait_type": "Magic",
+      "value": 2
+    },
+    {
+      "trait_type": "Size",
+      "value": 3
+    },
+    {
+      "trait_type": "Speed",
+      "value": 4
     }
   ],
   "dna": "996ef0eb803a06878d63ce5d24d9614dcf80c86f",
   "edition": 8,
   "external_url": "https://BHGC.no",
   "date": 1652054010251,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "M"
 }

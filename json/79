@@ -1,6 +1,6 @@
 {
-  "name": "Friedrich",
-  "description": "Friedrich is the blended Bird of all. It has a deject traffics, and a shield shaped like a carnation. It loves to eat drills, although it will feast on nearly anything. It is scincoid and plical. You must be trackless around it, or you may end up as it`s meal!",
+  "name": "Erik",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Erik’s. \n\nThis bird's full name is Erik V Archie, but everyone calls it Erik. It is the most fond bird in Glenduan. \n\nIt loves to eat durian although it will chew nearly anything.\n\nErik is a Capricorn with a blood type of Melancholic who likes tunes and poultries. However, Erik eschews salads. By day, Erik is a simple Chicken Chaser. By night, it enjoys Playing musical instruments. \n\nErik’s secret is that it howls at the moon. It has a hat that says \"eyyyyy\". The hat’s name is Ruthie. \n",
   "image": "https://bhgc-dev.github.io/test/images/79.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf pink blue stripes"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "cowboy simple"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Tau"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 2
+    },
+    {
+      "trait_type": "Heart",
+      "value": 2
+    },
+    {
+      "trait_type": "Magic",
+      "value": 4
+    },
+    {
+      "trait_type": "Size",
+      "value": 2
+    },
+    {
+      "trait_type": "Speed",
+      "value": 4
     }
   ],
   "dna": "07f530591079075d95f4c95f86411cf584c26dfa",
   "edition": 79,
   "external_url": "https://BHGC.no",
   "date": 1652054010395,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

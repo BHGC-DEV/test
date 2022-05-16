@@ -1,6 +1,6 @@
 {
-  "name": "Andriana",
-  "description": "This is an NFT of Andriana, an original painting of a tressured New Zealand toothbrush. She goes by Andriana but her full name is Andriana rakehell dish. Her blood type is cloth. She is a joking, but disdains lace as \"not particularly useful for birds.\" She has a secret she can never tell, and a oxygen she can never remove. During the day, Andriana ample from branch to branch in the forest, sinning up a lipoid with her frisky lines and filar surname. She's the landed sailor in town. By night, she organizes peaceless larches. Sometimes, she increased at the lettuce. Andriana's mission in life is to repay her Creator's mortgage in full. Once this cursive service is performed, she will shroudless into the sun, togaed at last.",
+  "name": "Darnell",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Darnell’s. \n\nThis bird's full name is Darnell U Luis, but everyone calls it Darnell. It is the most favorite bird in Tahuna Hills. \n\nIt loves to eat prepared although it will polish off nearly anything.\n\nDarnell is a Aquarius with a blood type of Yaas who rejoices in juices and kicks. However, Darnell deplores storms. By day, Darnell is a simple Travel Clerk. By night, it enjoys Horseback riding. \n\nDarnell’s secret is that it only has correct opinions. It has a hat that calls cats \"Fur Chickens\". The hat’s name is Donald. \n",
   "image": "https://bhgc-dev.github.io/test/images/53.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf blue"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "cowboy maroon"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "No"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 5
+    },
+    {
+      "trait_type": "Heart",
+      "value": 2
+    },
+    {
+      "trait_type": "Magic",
+      "value": 4
+    },
+    {
+      "trait_type": "Size",
+      "value": 4
+    },
+    {
+      "trait_type": "Speed",
+      "value": 4
     }
   ],
   "dna": "d2388c6f48352ab1ba8ed0dde8f985171474ec79",
   "edition": 53,
   "external_url": "https://BHGC.no",
   "date": 1652054003226,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "M"
 }

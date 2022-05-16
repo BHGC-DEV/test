@@ -1,6 +1,6 @@
 {
-  "name": "Frants",
-  "description": "This is an NFT of Frants, an original painting of a eighteenth New Zealand bladder. He goes by Frants but his full name is Frants vellum baritone. His blood type is ant. He is a dreamful, but disdains landmine as \"not particularly useful for birds.\" He has a secret he can never tell, and a firewall he can never remove. During the day, Frants sullied from branch to branch in the forest, yttric up a unkinged with his benthic classes and involved giant. He's the scrawly employer in town. By night, he organizes entranced masks. Sometimes, he robust at the hail. Frants's mission in life is to repay his Creator's mortgage in full. Once this profaned service is performed, he will bulbous into the sun, cissoid at last.",
+  "name": "Alec",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Alec’s. \n\nThis bird's full name is Alec A Alden, but everyone calls it Alec. He is the most untidy bird in Oceanic-Northland Region. \n\nIt loves to eat tamarinds although it will finish nearly anything.\n\nAlec is a Cancer with a blood type of Dark Red who relishes nights and beavers. However, Alec objects to curves. By day, Alec is a simple Payroll Supervisor. By night, he enjoys Sketching. \n\nAlec’s secret is that he has an untouched videogame backlog stretching back to 2005. He has a hat that can't sing. The hat’s name is Dexter. \n",
   "image": "https://bhgc-dev.github.io/test/images/65.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf pink purple stripes"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "pirate black"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 4
+    },
+    {
+      "trait_type": "Heart",
+      "value": 1
+    },
+    {
+      "trait_type": "Magic",
+      "value": 2
+    },
+    {
+      "trait_type": "Size",
+      "value": 5
+    },
+    {
+      "trait_type": "Speed",
+      "value": 1
     }
   ],
   "dna": "f00ada791da61452b3f09753120ef4a87aba9772",
   "edition": 65,
   "external_url": "https://BHGC.no",
   "date": 1652054008865,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "Jorey",
-  "description": "Jorey is the pussy Bird of all. It has a married chickens, and a whistle shaped like a rutabaga. It loves to eat rains, although it will feast on nearly anything. It is unshunned and rhomboid. You must be frenzied around it, or you may end up as it`s meal!",
+  "name": "Britney",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Britney’s. \n\nThis bird's full name is Britney L Alfreda, but everyone calls it Britney. She is the most nice bird in Murchison. \n\nIt loves to eat wheat although it will inhale nearly anything.\n\nBritney is a Aquarius with a blood type of Dark Red who freaks out about streams and fountains. However, Britney objects to stems. By day, Britney is a simple Quality Inspector. By night, she enjoys Sand art. \n\nBritney’s secret is that she can fly at more than 400 mph. She has a hat that causes excessive yawning. The hat’s name is Susie. \n",
   "image": "https://bhgc-dev.github.io/test/images/85.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "tie purple"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "cowboy blue"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Unassigned"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 1
+    },
+    {
+      "trait_type": "Heart",
+      "value": 4
+    },
+    {
+      "trait_type": "Magic",
+      "value": 1
+    },
+    {
+      "trait_type": "Size",
+      "value": 1
+    },
+    {
+      "trait_type": "Speed",
+      "value": 4
     }
   ],
   "dna": "75715369b0555f6c1ba74cfabf6c9ae7155e3d46",
   "edition": 85,
   "external_url": "https://BHGC.no",
   "date": 1652054008602,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

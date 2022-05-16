@@ -1,6 +1,6 @@
 {
-  "name": "Lacy",
-  "description": "This is an NFT of Lacy, an original painting of a clucky New Zealand dragon. She goes by Lacy but her full name is Lacy untamed bulb. Her blood type is otter. She is an android, but disdains moustache as \"not particularly useful for birds.\" She has a secret she can never tell, and a cable she can never remove. During the day, Lacy flaggy from branch to branch in the forest, limy up a pathless with her able brands and bosky screwdriver. She's the incrust receipt in town. By night, she organizes wingless charleses. Sometimes, she sphygmoid at the laborer. Lacy's mission in life is to repay her Creator's mortgage in full. Once this obtuse service is performed, she will devoid into the sun, sagging at last.",
+  "name": "Aubrie",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Aubrie’s. \n\nThis bird's full name is Aubrie S Matilda, but everyone calls it Aubrie. It is the most close bird in Porirua Central. \n\nIt loves to eat gravy although it will partake of nearly anything.\n\nAubrie is a Capricorn with a blood type of High who appreciates wrists and shovels. However, Aubrie avoids salads. By day, Aubrie is a simple Shop Manager. By night, it enjoys Taekwondo. \n\nAubrie’s secret is that it has been there and back again. It has a hat that cannot spel. The hat’s name is Reva. \n",
   "image": "https://bhgc-dev.github.io/test/images/59.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf white"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "cowboy blue"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Pi"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 5
+    },
+    {
+      "trait_type": "Heart",
+      "value": 3
+    },
+    {
+      "trait_type": "Magic",
+      "value": 3
+    },
+    {
+      "trait_type": "Size",
+      "value": 4
+    },
+    {
+      "trait_type": "Speed",
+      "value": 3
     }
   ],
   "dna": "58c48a8ab9bb46359c2491586232bf768e86c366",
   "edition": 59,
   "external_url": "https://BHGC.no",
   "date": 1652054006021,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

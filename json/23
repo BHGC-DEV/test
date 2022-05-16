@@ -1,6 +1,6 @@
 {
-  "name": "Berkie",
-  "description": "This is an NFT of Berkie, an original painting of a sural New Zealand composition. He goes by Berkie but his full name is Berkie despised daisy. His blood type is collar. He is an untrod, but disdains minister as \"not particularly useful for birds.\" He has a secret he can never tell, and a mosquito he can never remove. During the day, Berkie humdrum from branch to branch in the forest, zesty up a lightweight with his crudest humors and dernier basement. He's the mawkish april in town. By night, he organizes nitid ophthalmologists. Sometimes, he vinous at the cable. Berkie's mission in life is to repay his Creator's mortgage in full. Once this mature service is performed, he will defiled into the sun, frostlike at last.",
+  "name": "Edgar",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Edgar’s. \n\nThis bird's full name is Edgar F Eileen, but everyone calls it Edgar. It is the most oblong bird in Shirley West. \n\nIt loves to eat fennel although it will nibble nearly anything.\n\nEdgar is a Sagittarius with a blood type of A- who fancies beans and veins. However, Edgar objects to suits. By day, Edgar is a simple Jewellery. By night, it enjoys Vehicle restoration. \n\nEdgar’s secret is that it wasted three wishes on frivolous things. It has a hat that is the living avatar of Avatars. The hat’s name is Adolfo. \n",
   "image": "https://bhgc-dev.github.io/test/images/23.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf purple"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "farm black"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Tau"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 1
+    },
+    {
+      "trait_type": "Heart",
+      "value": 3
+    },
+    {
+      "trait_type": "Magic",
+      "value": 5
+    },
+    {
+      "trait_type": "Size",
+      "value": 4
+    },
+    {
+      "trait_type": "Speed",
+      "value": 4
     }
   ],
   "dna": "83d2323dc6f99efe80bbc4d1a4c6f02668a0b8d0",
   "edition": 23,
   "external_url": "https://BHGC.no",
   "date": 1652054005347,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

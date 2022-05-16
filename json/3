@@ -1,6 +1,6 @@
 {
-  "name": "Beckie",
-  "description": "This is an NFT of Beckie, an original painting of a scandent New Zealand evening. She goes by Beckie but her full name is Beckie inshore poison. Her blood type is grain. She is a humdrum, but disdains atom as \"not particularly useful for birds.\" She has a secret she can never tell, and a orchestra she can never remove. During the day, Beckie maudlin from branch to branch in the forest, tasselled up a feudal with her vivid yugoslavians and retrorse appendix. She's the gripping advantage in town. By night, she organizes mindless options. Sometimes, she unpurged at the top. Beckie's mission in life is to repay her Creator's mortgage in full. Once this mingy service is performed, she will inwrought into the sun, yeastlike at last.",
+  "name": "Xander",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Xander’s. \n\nThis bird's full name is Xander S Velma, but everyone calls it Xander. It is the most alarming bird in Otaki. \n\nIt loves to eat cranberry-apricot although it will wolf nearly anything.\n\nXander is a Gemini with a blood type of Phlegmatic who appreciates creeks and helps. However, Xander does not take kindly to milks. By day, Xander is a simple Plant Manager. By night, it enjoys Air sports. \n\nXander’s secret is that it is mean. It has a hat that can code in assembly language. The hat’s name is Dona. \n",
   "image": "https://bhgc-dev.github.io/test/images/3.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "tie bubbles"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "cowboy simple"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Miscellaneous"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 2
+    },
+    {
+      "trait_type": "Heart",
+      "value": 2
+    },
+    {
+      "trait_type": "Magic",
+      "value": 1
+    },
+    {
+      "trait_type": "Size",
+      "value": 3
+    },
+    {
+      "trait_type": "Speed",
+      "value": 3
     }
   ],
   "dna": "da9dd1dbedfb5e9b078a1ed3d7763b8f16bbf122",
   "edition": 3,
   "external_url": "https://BHGC.no",
   "date": 1652054004008,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "M"
 }

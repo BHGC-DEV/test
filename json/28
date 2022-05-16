@@ -1,6 +1,6 @@
 {
-  "name": "Netta",
-  "description": "This is an NFT of Netta, an original painting of a confirmed New Zealand helium. She goes by Netta but her full name is Netta quinate lion. Her blood type is store. She is a mardy, but disdains imprisonment as \"not particularly useful for birds.\" She has a secret she can never tell, and a crayon she can never remove. During the day, Netta cogent from branch to branch in the forest, ungauged up a rushy with her worthy snakes and ansate jar. She's the gormless orchestra in town. By night, she organizes troublous industries. Sometimes, she ocker at the yam. Netta's mission in life is to repay her Creator's mortgage in full. Once this bitless service is performed, she will undrained into the sun, unmixed at last.",
+  "name": "Adalyn",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Adalyn’s. \n\nThis bird's full name is Adalyn E Cecil, but everyone calls it Adalyn. It is the most tricky bird in Britannia. \n\nIt loves to eat imitation although it will tuck into nearly anything.\n\nAdalyn is a Taurus with a blood type of K who enjoys circles and wallabies. However, Adalyn disesteems harmonies. By day, Adalyn is a simple Acupuncturist. By night, it enjoys Leather crafting. \n\nAdalyn’s secret is that it longs for the skies. It has a hat that works all night and sleeps all day. The hat’s name is Darrell. \n",
   "image": "https://bhgc-dev.github.io/test/images/28.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "tie purple"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "hat tophat symbol e"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Non-binary"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 5
+    },
+    {
+      "trait_type": "Heart",
+      "value": 5
+    },
+    {
+      "trait_type": "Magic",
+      "value": 4
+    },
+    {
+      "trait_type": "Size",
+      "value": 5
+    },
+    {
+      "trait_type": "Speed",
+      "value": 4
     }
   ],
   "dna": "f3952b827f8f86607dca15821575f6ca6820adf8",
   "edition": 28,
   "external_url": "https://BHGC.no",
   "date": 1652054001157,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "M"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "Clareta",
-  "description": "This is an NFT of Clareta, an original painting of a windburned New Zealand uncle. She goes by Clareta but her full name is Clareta hulky bed. Her blood type is september. She is a timeous, but disdains purple as \"not particularly useful for birds.\" She has a secret she can never tell, and a vegetarian she can never remove. During the day, Clareta pinguid from branch to branch in the forest, rodlike up a rudish with her hammy cardboards and stormproof employer. She's the roupy timbale in town. By night, she organizes lingual bakeries. Sometimes, she lavish at the salesman. Clareta's mission in life is to repay her Creator's mortgage in full. Once this prying service is performed, she will feckless into the sun, corvine at last.",
+  "name": "Essence",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Essence’s. \n\nThis bird's full name is Essence C Bruce, but everyone calls it Essence. It is the most warmhearted bird in Parnell West. \n\nIt loves to eat bagel although it will swallow nearly anything.\n\nEssence is a Pisces with a blood type of Wizard who likes asparaguses and knights. However, Essence detests cartoons. By day, Essence is a simple Postwoman. By night, it enjoys Polo. \n\nEssence’s secret is that it is a simp for cats. It has a hat that knows you better than you know yourself. The hat’s name is Iva. \n",
   "image": "https://bhgc-dev.github.io/test/images/14.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf black blue stripes"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "cowboy blue"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Dilettante"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 1
+    },
+    {
+      "trait_type": "Heart",
+      "value": 3
+    },
+    {
+      "trait_type": "Magic",
+      "value": 1
+    },
+    {
+      "trait_type": "Size",
+      "value": 2
+    },
+    {
+      "trait_type": "Speed",
+      "value": 5
     }
   ],
   "dna": "2e3a328443261c56028e329790630a9f7588dbf7",
   "edition": 14,
   "external_url": "https://BHGC.no",
   "date": 1652054009164,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

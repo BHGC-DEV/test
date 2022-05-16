@@ -1,6 +1,6 @@
 {
-  "name": "Patrizio",
-  "description": "This is an NFT of Patrizio, an original painting of a deltoid New Zealand james. He goes by Patrizio but his full name is Patrizio ruling radish. His blood type is conga. He is a dockside, but disdains lipstick as \"not particularly useful for birds.\" He has a secret he can never tell, and a dish he can never remove. During the day, Patrizio monthly from branch to branch in the forest, slimsy up a wailing with his histoid sizes and pappy yoke. He's the slavish volleyball in town. By night, he organizes dappled pots. Sometimes, he lanky at the hood. Patrizio's mission in life is to repay his Creator's mortgage in full. Once this gated service is performed, he will deathlike into the sun, submersed at last.",
+  "name": "Evelyn",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Evelyn’s. \n\nThis bird's full name is Evelyn I Jake, but everyone calls it Evelyn. It is the most short bird in Wyndham. \n\nIt loves to eat olive although it will destroy nearly anything.\n\nEvelyn is a Pisces with a blood type of Choleric who enjoys mouths and groups. However, Evelyn disapproves of beaches. By day, Evelyn is a simple Catering Manager. By night, it enjoys Mycology. \n\nEvelyn’s secret is that it looks at cat pictures on the internet. It has a hat that is the chad of all chads. The hat’s name is Kelley. \n",
   "image": "https://bhgc-dev.github.io/test/images/84.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf pink"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "cowboy maroon"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Dilettante"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 2
+    },
+    {
+      "trait_type": "Heart",
+      "value": 3
+    },
+    {
+      "trait_type": "Magic",
+      "value": 2
+    },
+    {
+      "trait_type": "Size",
+      "value": 5
+    },
+    {
+      "trait_type": "Speed",
+      "value": 4
     }
   ],
   "dna": "13c13cb35b31f7e1adec07629be404ae7c0e4ad0",
   "edition": 84,
   "external_url": "https://BHGC.no",
   "date": 1652054000569,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "N"
 }

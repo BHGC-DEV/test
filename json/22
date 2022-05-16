@@ -1,6 +1,6 @@
 {
-  "name": "Lulita",
-  "description": "This is an NFT of Lulita, an original painting of a brainy New Zealand customer. She goes by Lulita but her full name is Lulita fameless notify. Her blood type is math. She is a fusil, but disdains math as \"not particularly useful for birds.\" She has a secret she can never tell, and a composition she can never remove. During the day, Lulita skirtless from branch to branch in the forest, manky up a mincing with her bashful spies and swaraj banker. She's the fragile pakistan in town. By night, she organizes ghoulish lows. Sometimes, she transposed at the vacation. Lulita's mission in life is to repay her Creator's mortgage in full. Once this raunchy service is performed, she will uncashed into the sun, sleeveless at last.",
+  "name": "Deja",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Deja’s. \n\nThis bird's full name is Deja G Zola, but everyone calls it Deja. It is the most winged bird in Crown Hill. \n\nIt loves to eat onions although it will gulp nearly anything.\n\nDeja is a Aquarius with a blood type of Melancholic who freaks out about sides and kettles. However, Deja disapproves of daisies. By day, Deja is a simple Cab Driver. By night, it enjoys Creative writing. \n\nDeja’s secret is that it doesn't stop, never gives up, holds its head high and reaches the top. It has a hat that enables the wearer to grow or shrink at will. The hat’s name is Dexter. \n",
   "image": "https://bhgc-dev.github.io/test/images/22.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "tie blue"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "pirate blue gold pink"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Agender"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 4
+    },
+    {
+      "trait_type": "Heart",
+      "value": 3
+    },
+    {
+      "trait_type": "Magic",
+      "value": 1
+    },
+    {
+      "trait_type": "Size",
+      "value": 1
+    },
+    {
+      "trait_type": "Speed",
+      "value": 4
     }
   ],
   "dna": "9311e9222623559393d0fa7c561ca94007f2222f",
   "edition": 22,
   "external_url": "https://BHGC.no",
   "date": 1652054010834,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "N"
 }

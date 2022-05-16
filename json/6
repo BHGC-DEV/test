@@ -1,6 +1,6 @@
 {
-  "name": "Jeannine",
-  "description": "This is an NFT of Jeannine, an original painting of a mammoth New Zealand tent. She goes by Jeannine but her full name is Jeannine undrawn nurse. Her blood type is sudan. She is an unglazed, but disdains surfboard as \"not particularly useful for birds.\" She has a secret she can never tell, and a energy she can never remove. During the day, Jeannine ailing from branch to branch in the forest, snaggy up a metalled with her blushful languages and dying consonant. She's the boughten pimple in town. By night, she organizes streamlined jumpers. Sometimes, she mis at the rifle. Jeannine's mission in life is to repay her Creator's mortgage in full. Once this erstwhile service is performed, she will limy into the sun, headstrong at last.",
+  "name": "Orlando",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Orlando’s. \n\nThis bird's full name is Orlando H Dee, but everyone calls it Orlando. It is the most repentant bird in Maungakotukutuku. \n\nIt loves to eat strudel although it will gobble nearly anything.\n\nOrlando is a Aquarius with a blood type of Oleaginous who adores sharks and cereals. However, Orlando does not take kindly to churches. By day, Orlando is a simple Chimney Sweep. By night, it enjoys Inline skating. \n\nOrlando’s secret is that it spreads butter. It has a hat that belonged to an ancient spirit. The hat’s name is Earle. \n",
   "image": "https://bhgc-dev.github.io/test/images/6.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf purple"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "farm black"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Non-binary"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 2
+    },
+    {
+      "trait_type": "Heart",
+      "value": 1
+    },
+    {
+      "trait_type": "Magic",
+      "value": 5
+    },
+    {
+      "trait_type": "Size",
+      "value": 1
+    },
+    {
+      "trait_type": "Speed",
+      "value": 1
     }
   ],
   "dna": "73fb89e2b01daaa780d0437a36bd74b9ee8e9c93",
   "edition": 6,
   "external_url": "https://BHGC.no",
   "date": 1652054001007,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "M"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "Delainey",
-  "description": "This is an NFT of Delainey, an original painting of a tussal New Zealand turtle. He goes by Delainey but his full name is Delainey wiglike latex. His blood type is house. He is a tiptop, but disdains person as \"not particularly useful for birds.\" He has a secret he can never tell, and a feedback he can never remove. During the day, Delainey joking from branch to branch in the forest, brakeless up a husky with his unarmed readings and heathy cork. He's the heartfelt harp in town. By night, he organizes legless sneezes. Sometimes, he pauseless at the argentina. Delainey's mission in life is to repay his Creator's mortgage in full. Once this latticed service is performed, he will moory into the sun, nodal at last.",
+  "name": "Cade",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Cade’s. \n\nThis bird's full name is Cade F Allie, but everyone calls it Cade. It is the most blue bird in Oceanic-Tasman Region. \n\nIt loves to eat bars although it will destroy nearly anything.\n\nCade is a Aries with a blood type of Choleric who revels in animals and homes. However, Cade deplores wildernesses. By day, Cade is a simple Marine Pilot. By night, it enjoys Sudoku. \n\nCade’s secret is that it spends too much time scrolling. It has a hat that enhances eyes. The hat’s name is Lona. \n",
   "image": "https://bhgc-dev.github.io/test/images/18.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf black blue stripes"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "hat tophat"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 1
+    },
+    {
+      "trait_type": "Heart",
+      "value": 4
+    },
+    {
+      "trait_type": "Magic",
+      "value": 1
+    },
+    {
+      "trait_type": "Size",
+      "value": 3
+    },
+    {
+      "trait_type": "Speed",
+      "value": 4
     }
   ],
   "dna": "f05ee996e617fb71cf6fb345e6ae6a3ed4ed3938",
   "edition": 18,
   "external_url": "https://BHGC.no",
   "date": 1652054009832,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "M"
 }

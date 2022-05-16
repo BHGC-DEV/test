@@ -1,6 +1,6 @@
 {
-  "name": "Faydra",
-  "description": "Faydra is the submiss Bird of all. It has a wifely kidneies, and a broker shaped like a yugoslavian. It loves to eat deserts, although it will feast on nearly anything. It is edgeless and provoked. You must be tonguelike around it, or you may end up as it`s meal!",
+  "name": "Alex",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Alex’s. \n\nThis bird's full name is Alex L Alyce, but everyone calls it Alex. It is the most oily bird in Hillmorton. \n\nIt loves to eat sesbania although it will partake of nearly anything.\n\nAlex is a Pisces with a blood type of A+ who appreciates ants and breakfasts. However, Alex shuns stopwatches. By day, Alex is a simple Laboratory Analyst. By night, it enjoys Glassblowing. \n\nAlex’s secret is that it is always on time. It has a hat that can't concentrate. The hat’s name is Euna. \n",
   "image": "https://bhgc-dev.github.io/test/images/43.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf black red stripes"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "hat tophat"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 3
+    },
+    {
+      "trait_type": "Heart",
+      "value": 2
+    },
+    {
+      "trait_type": "Magic",
+      "value": 5
+    },
+    {
+      "trait_type": "Size",
+      "value": 4
+    },
+    {
+      "trait_type": "Speed",
+      "value": 5
     }
   ],
   "dna": "5c7f6353363fdd8d8cdb1e9132651fc6f48975cc",
   "edition": 43,
   "external_url": "https://BHGC.no",
   "date": 1652054006977,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "M"
 }

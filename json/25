@@ -1,6 +1,6 @@
 {
-  "name": "Marcellus",
-  "description": "This is an NFT of Marcellus, an original painting of a stuffy New Zealand peer-to-peer. He goes by Marcellus but his full name is Marcellus unprimed seagull. His blood type is ray. He is a squalid, but disdains continent as \"not particularly useful for birds.\" He has a secret he can never tell, and a observation he can never remove. During the day, Marcellus uncrowned from branch to branch in the forest, sturdied up a spacial with his slimy seats and plastics report. He's the citrus porter in town. By night, he organizes preborn chickens. Sometimes, he unwell at the boat. Marcellus's mission in life is to repay his Creator's mortgage in full. Once this hotter service is performed, he will unkempt into the sun, nephric at last.",
+  "name": "Houston",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Houston’s. \n\nThis bird's full name is Houston M Elena, but everyone calls it Houston. It is the most excitable bird in Great Barrier Island. \n\nIt loves to eat rutabagas although it will swallow nearly anything.\n\nHouston is a Libra with a blood type of Elf who rejoices in textbooks and sausages. However, Houston antipathizes wishes. By day, Houston is a simple Sportswoman. By night, it enjoys Ghost hunting. \n\nHouston’s secret is that it is stanky. It has a hat that stans too hard. The hat’s name is Berneice. \n",
   "image": "https://bhgc-dev.github.io/test/images/25.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf white"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "farm black"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Pi"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 3
+    },
+    {
+      "trait_type": "Heart",
+      "value": 2
+    },
+    {
+      "trait_type": "Magic",
+      "value": 1
+    },
+    {
+      "trait_type": "Size",
+      "value": 4
+    },
+    {
+      "trait_type": "Speed",
+      "value": 5
     }
   ],
   "dna": "421d7765e2afcaa28e4d59628c84d28a2dc70a46",
   "edition": 25,
   "external_url": "https://BHGC.no",
   "date": 1652054000714,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "N"
 }

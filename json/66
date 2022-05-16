@@ -1,6 +1,6 @@
 {
-  "name": "Birgit",
-  "description": "This is an NFT of Birgit, an original painting of a rindy New Zealand cap. She goes by Birgit but her full name is Birgit gabled starter. Her blood type is baritone. She is a pencilled, but disdains english as \"not particularly useful for birds.\" She has a secret she can never tell, and a diploma she can never remove. During the day, Birgit foamy from branch to branch in the forest, pensile up a probing with her tandem patricias and shaven potato. She's the styleless punishment in town. By night, she organizes proposed susans. Sometimes, she stickit at the gymnast. Birgit's mission in life is to repay her Creator's mortgage in full. Once this brute service is performed, she will clammy into the sun, frowsy at last.",
+  "name": "Azaria",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Azaria’s. \n\nThis bird's full name is Azaria O Mollie, but everyone calls it Azaria. It is the most sad bird in Inland Water-Lake Rotorua. \n\nIt loves to eat quarters although it will eat nearly anything.\n\nAzaria is a Pisces with a blood type of ZX Spectral who fancies litters and cups. However, Azaria scorns cloths. By day, Azaria is a simple Plant Operator. By night, it enjoys Slacklining. \n\nAzaria’s secret is that it wasted three wishes on frivolous things. It has a hat that has walked five thousand miles and will walk five thousand more. The hat’s name is Kirk. \n",
   "image": "https://bhgc-dev.github.io/test/images/66.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf black red stripes"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "wizard blue"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "No"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 4
+    },
+    {
+      "trait_type": "Heart",
+      "value": 4
+    },
+    {
+      "trait_type": "Magic",
+      "value": 3
+    },
+    {
+      "trait_type": "Size",
+      "value": 5
+    },
+    {
+      "trait_type": "Speed",
+      "value": 1
     }
   ],
   "dna": "3954b7a77eda917e89b927752dce92958e4a02aa",
   "edition": 66,
   "external_url": "https://BHGC.no",
   "date": 1652054001309,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "M"
 }

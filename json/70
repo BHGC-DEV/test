@@ -1,6 +1,6 @@
 {
-  "name": "Kerr",
-  "description": "This is an NFT of Kerr, an original painting of a showy New Zealand condor. He goes by Kerr but his full name is Kerr torpid caution. His blood type is giant. He is a deprived, but disdains aluminum as \"not particularly useful for birds.\" He has a secret he can never tell, and a crocus he can never remove. During the day, Kerr bendwise from branch to branch in the forest, gnomish up a slothful with his over dungeons and restful beet. He's the catty pail in town. By night, he organizes spouted leafs. Sometimes, he doltish at the velvet. Kerr's mission in life is to repay his Creator's mortgage in full. Once this hippest service is performed, he will glabrous into the sun, motile at last.",
+  "name": "Layton",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Layton’s. \n\nThis bird's full name is Layton H Rita, but everyone calls it Layton. It is the most quintessential bird in Parakai Urban. \n\nIt loves to eat pickle although it will scoff nearly anything.\n\nLayton is a Gemini with a blood type of Savvy who relishes doors and fuels. However, Layton shuns courts. By day, Layton is a simple Tax Advisor. By night, it enjoys Bodybuilding. \n\nLayton’s secret is that it recycles assiduously. It has a hat that spreads woe. The hat’s name is Elvira. \n",
   "image": "https://bhgc-dev.github.io/test/images/70.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "tie red"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "pirate blue gold red"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 2
+    },
+    {
+      "trait_type": "Heart",
+      "value": 3
+    },
+    {
+      "trait_type": "Magic",
+      "value": 5
+    },
+    {
+      "trait_type": "Size",
+      "value": 4
+    },
+    {
+      "trait_type": "Speed",
+      "value": 4
     }
   ],
   "dna": "da9659ebd02e97bbb8fb9cbefa5c88b54651218d",
   "edition": 70,
   "external_url": "https://BHGC.no",
   "date": 1652054009442,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

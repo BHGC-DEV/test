@@ -1,6 +1,6 @@
 {
-  "name": "Jamill",
-  "description": "Jamill is the stepwise Bird of all. It has a nephric sneezes, and a map shaped like a oak. It loves to eat sciences, although it will feast on nearly anything. It is hearties and unplumed. You must be rotate around it, or you may end up as it`s meal!",
+  "name": "Chace",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Chace’s. \n\nThis bird's full name is Chace I Emma, but everyone calls it Chace. It is the most trained bird in Hatfields Beach. \n\nIt loves to eat dough although it will wolf nearly anything.\n\nChace is a Pisces with a blood type of ZX Spectral who adores dads and rectangles. However, Chace disesteems kangaroos. By day, Chace is a simple Machinist. By night, it enjoys Knitting. \n\nChace’s secret is that it believes in false gods. It has a hat that can't be convinced. The hat’s name is Forrest. \n",
   "image": "https://bhgc-dev.github.io/test/images/93.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "bowtie pink"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "cowboy blue"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 3
+    },
+    {
+      "trait_type": "Heart",
+      "value": 1
+    },
+    {
+      "trait_type": "Magic",
+      "value": 4
+    },
+    {
+      "trait_type": "Size",
+      "value": 5
+    },
+    {
+      "trait_type": "Speed",
+      "value": 5
     }
   ],
   "dna": "00a184d1791e2892420fa4d17239b546f18aa743",
   "edition": 93,
   "external_url": "https://BHGC.no",
   "date": 1652054000873,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "M"
 }

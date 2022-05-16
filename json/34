@@ -1,6 +1,6 @@
 {
-  "name": "Hannis",
-  "description": "Hannis is the tentie Bird of all. It has a stumbling vinyls, and a objective shaped like a tin. It loves to eat epoxies, although it will feast on nearly anything. It is erring and quantal. You must be yeasty around it, or you may end up as it`s meal!",
+  "name": "Kimberly",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Kimberly’s. \n\nThis bird's full name is Kimberly K Pattie, but everyone calls it Kimberly. It is the most fresh bird in Owhango. \n\nIt loves to eat swisswurst although it will destroy nearly anything.\n\nKimberly is a Taurus with a blood type of A- who fancies teachers and yards. However, Kimberly avoids dances. By day, Kimberly is a simple Cleric. By night, it enjoys Calligraphy. \n\nKimberly’s secret is that it is stronger than the foundations of the earth. It has a hat that cares. The hat’s name is Loretta. \n",
   "image": "https://bhgc-dev.github.io/test/images/34.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf black red stripes"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "pirate purple"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 2
+    },
+    {
+      "trait_type": "Heart",
+      "value": 2
+    },
+    {
+      "trait_type": "Magic",
+      "value": 1
+    },
+    {
+      "trait_type": "Size",
+      "value": 1
+    },
+    {
+      "trait_type": "Speed",
+      "value": 1
     }
   ],
   "dna": "8ac3142048990b842a53afd7436aab9829b100f3",
   "edition": 34,
   "external_url": "https://BHGC.no",
   "date": 1652054012359,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

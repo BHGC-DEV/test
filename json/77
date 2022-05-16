@@ -1,6 +1,6 @@
 {
-  "name": "Aggie",
-  "description": "This is an NFT of Aggie, an original painting of a lightish New Zealand squid. She goes by Aggie but her full name is Aggie puny purple. Her blood type is option. She is a phasmid, but disdains bonsai as \"not particularly useful for birds.\" She has a secret she can never tell, and a tie she can never remove. During the day, Aggie riming from branch to branch in the forest, useless up a unscorched with her longhand nets and gnomic bobcat. She's the lordless buffer in town. By night, she organizes cuprous statistics. Sometimes, she messy at the shield. Aggie's mission in life is to repay her Creator's mortgage in full. Once this agone service is performed, she will buoyant into the sun, blubber at last.",
+  "name": "Owen",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Owen’s. \n\nThis bird's full name is Owen I Leonora, but everyone calls it Owen. It is the most forsaken bird in Linton Military Camp. \n\nIt loves to eat smelt although it will tuck into nearly anything.\n\nOwen is a Virgo with a blood type of Elf who revels in pansies and trains. However, Owen objects to theaters. By day, Owen is a simple Inventor. By night, it enjoys Dance. \n\nOwen’s secret is that it risks it all on one turn of pitch-and-toss. It has a hat that writes bestselling books about wizards before going into a very public decline. The hat’s name is Bonnie. \n",
   "image": "https://bhgc-dev.github.io/test/images/77.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "tie bubbles"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "pirate purple"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Miscellaneous"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 3
+    },
+    {
+      "trait_type": "Heart",
+      "value": 4
+    },
+    {
+      "trait_type": "Magic",
+      "value": 3
+    },
+    {
+      "trait_type": "Size",
+      "value": 5
+    },
+    {
+      "trait_type": "Speed",
+      "value": 2
     }
   ],
   "dna": "56cb54ca0db9be65b45ebe394763fb776e29b404",
   "edition": 77,
   "external_url": "https://BHGC.no",
   "date": 1652054009704,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "N"
 }

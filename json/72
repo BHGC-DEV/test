@@ -1,6 +1,6 @@
 {
-  "name": "Henderson",
-  "description": "This is an NFT of Henderson, an original painting of a only New Zealand halibut. He goes by Henderson but his full name is Henderson obese passenger. His blood type is paul. He is a surplus, but disdains brain as \"not particularly useful for birds.\" He has a secret he can never tell, and a tanzania he can never remove. During the day, Henderson undried from branch to branch in the forest, beery up a triploid with his asphalt handicaps and android chicory. He's the phonal plasterboard in town. By night, he organizes flaccid potatos. Sometimes, he dispensed at the bracket. Henderson's mission in life is to repay his Creator's mortgage in full. Once this showy service is performed, he will herbaged into the sun, fingered at last.",
+  "name": "Jace",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Jace’s. \n\nThis bird's full name is Jace Y Lenna, but everyone calls it Jace. It is the most quarrelsome bird in Parnassus. \n\nIt loves to eat oopah although it will partake of nearly anything.\n\nJace is a Gemini with a blood type of Melancholic who relishes engines and machines. However, Jace does not take kindly to nights. By day, Jace is a simple Church Warden. By night, it enjoys Crocheting. \n\nJace’s secret is that it thinks this whole thing might just work somehow. It has a hat that is the living avatar of Justice. The hat’s name is Gerard. \n",
   "image": "https://bhgc-dev.github.io/test/images/72.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf white"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "farm black"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Tau"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 2
+    },
+    {
+      "trait_type": "Heart",
+      "value": 3
+    },
+    {
+      "trait_type": "Magic",
+      "value": 5
+    },
+    {
+      "trait_type": "Size",
+      "value": 3
+    },
+    {
+      "trait_type": "Speed",
+      "value": 1
     }
   ],
   "dna": "eacc04b4c8bfa09bd51457f78be0a4c215328034",
   "edition": 72,
   "external_url": "https://BHGC.no",
   "date": 1652054007364,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

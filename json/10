@@ -1,6 +1,6 @@
 {
-  "name": "Catriona",
-  "description": "Catriona is the pyknic Bird of all. It has an antlered pheasants, and a chance shaped like a replace. It loves to eat furnitures, although it will feast on nearly anything. It is serried and kookie. You must be tuneful around it, or you may end up as it`s meal!",
+  "name": "Amelie",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Amelie’s. \n\nThis bird's full name is Amelie P Elden, but everyone calls it Amelie. It is the most ill-fated bird in Opiki. \n\nIt loves to eat peppered although it will ingurgitate nearly anything.\n\nAmelie is a Libra with a blood type of Useful who enjoys spikes and loafs. However, Amelie objects to stamps. By day, Amelie is a simple Aeronautical Engineer. By night, it enjoys Horseback riding. \n\nAmelie’s secret is that it will say goodbye, tell a lie, and hurt you. It has a hat that sparks inspiration. The hat’s name is Kathleen. \n",
   "image": "https://bhgc-dev.github.io/test/images/10.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf purple"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "pirate blue gold pink"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Non-binary"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 1
+    },
+    {
+      "trait_type": "Heart",
+      "value": 5
+    },
+    {
+      "trait_type": "Magic",
+      "value": 5
+    },
+    {
+      "trait_type": "Size",
+      "value": 2
+    },
+    {
+      "trait_type": "Speed",
+      "value": 2
     }
   ],
   "dna": "8b22e258a9591fbd3fd931d8b6366326841f02a5",
   "edition": 10,
   "external_url": "https://BHGC.no",
   "date": 1652054003743,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "M"
 }

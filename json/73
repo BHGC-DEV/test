@@ -1,6 +1,6 @@
 {
-  "name": "Padraic",
-  "description": "This is an NFT of Padraic, an original painting of a doited New Zealand dollar. He goes by Padraic but his full name is Padraic dinky door. His blood type is camp. He is an unswept, but disdains mice as \"not particularly useful for birds.\" He has a secret he can never tell, and a dust he can never remove. During the day, Padraic thymy from branch to branch in the forest, wayward up a springy with his foetal keyboards and twenty bone. He's the tattered number in town. By night, he organizes unformed daughters. Sometimes, he jetting at the philosophy. Padraic's mission in life is to repay his Creator's mortgage in full. Once this gravel service is performed, he will jobless into the sun, plaguy at last.",
+  "name": "Kaydence",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Kaydence’s. \n\nThis bird's full name is Kaydence O Elvera, but everyone calls it Kaydence. She is the most prudent bird in Pencarrow. \n\nIt loves to eat meatloaf although it will eat nearly anything.\n\nKaydence is a Virgo with a blood type of O- who rejoices in hyenas and weapons. However, Kaydence disesteems evenings. By day, Kaydence is a simple Homecare Manager. By night, she enjoys Water sports. \n\nKaydence’s secret is that she works all night and sleeps all day. She has a hat that it can never remove. The hat’s name is Elfrieda. \n",
   "image": "https://bhgc-dev.github.io/test/images/73.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "bowtie black"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "pirate pink"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Unassigned"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 3
+    },
+    {
+      "trait_type": "Heart",
+      "value": 2
+    },
+    {
+      "trait_type": "Magic",
+      "value": 2
+    },
+    {
+      "trait_type": "Size",
+      "value": 3
+    },
+    {
+      "trait_type": "Speed",
+      "value": 4
     }
   ],
   "dna": "912cf11e831c346b52a9c64524a3af43fcfba8da",
   "edition": 73,
   "external_url": "https://BHGC.no",
   "date": 1652054002101,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "N"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "Davidde",
-  "description": "This is an NFT of Davidde, an original painting of a bulgy New Zealand wash. He goes by Davidde but his full name is Davidde behind kidney. His blood type is reading. He is a bootleg, but disdains heron as \"not particularly useful for birds.\" He has a secret he can never tell, and a aluminium he can never remove. During the day, Davidde spooky from branch to branch in the forest, teasing up a snoring with his jestful things and bigger otter. He's the ingrain diamond in town. By night, he organizes stinko mice. Sometimes, he drifty at the eggnog. Davidde's mission in life is to repay his Creator's mortgage in full. Once this fretful service is performed, he will aging into the sun, coatless at last.",
+  "name": "Mylee",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Mylee’s. \n\nThis bird's full name is Mylee L Ava, but everyone calls it Mylee. It is the most fearful bird in Crum Park. \n\nIt loves to eat vegetarian although it will chomp nearly anything.\n\nMylee is a Leo with a blood type of Halfling who freaks out about towns and foots. However, Mylee disapproves of tubs. By day, Mylee is a simple Premises Security. By night, it enjoys Sketching. \n\nMylee’s secret is that it cries over anime. It has a hat that causes excitement in viewers. The hat’s name is Clayton. \n",
   "image": "https://bhgc-dev.github.io/test/images/30.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf black purple stripes"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "farm blue"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Dilettante"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 5
+    },
+    {
+      "trait_type": "Heart",
+      "value": 3
+    },
+    {
+      "trait_type": "Magic",
+      "value": 2
+    },
+    {
+      "trait_type": "Size",
+      "value": 5
+    },
+    {
+      "trait_type": "Speed",
+      "value": 2
     }
   ],
   "dna": "c9527bddc74cea05fc01f5d44aed2f3a3fd5617d",
   "edition": 30,
   "external_url": "https://BHGC.no",
   "date": 1652054013404,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "N"
 }

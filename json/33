@@ -1,6 +1,6 @@
 {
-  "name": "Alysia",
-  "description": "Alysia is the roundish Bird of all. It has a mounted quivers, and a cathedral shaped like a passbook. It loves to eat voices, although it will feast on nearly anything. It is centred and homely. You must be corny around it, or you may end up as it`s meal!",
+  "name": "Lucian",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Lucian’s. \n\nThis bird's full name is Lucian D Dempsey, but everyone calls it Lucian. It is the most tight bird in Papatoetoe Central. \n\nIt loves to eat bacon although it will cram down nearly anything.\n\nLucian is a Virgo with a blood type of B+ who loves kitchens and strings. However, Lucian despises frosts. By day, Lucian is a simple Hotelier. By night, it enjoys Stone skipping. \n\nLucian’s secret is that it is always late. It has a hat that is a lil' ball of love and affection. The hat’s name is Frankie. \n",
   "image": "https://bhgc-dev.github.io/test/images/33.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf pink blue stripes"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "pirate blue gold pink"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Agender"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 1
+    },
+    {
+      "trait_type": "Heart",
+      "value": 3
+    },
+    {
+      "trait_type": "Magic",
+      "value": 5
+    },
+    {
+      "trait_type": "Size",
+      "value": 5
+    },
+    {
+      "trait_type": "Speed",
+      "value": 4
     }
   ],
   "dna": "fe54d9077bc93b04bff0fae1b9e1ce24ed1c2d81",
   "edition": 33,
   "external_url": "https://BHGC.no",
   "date": 1652054005612,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "M"
 }

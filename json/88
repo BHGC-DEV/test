@@ -1,6 +1,6 @@
 {
-  "name": "Janeen",
-  "description": "Janeen is the seaboard Bird of all. It has a dinky foods, and a observation shaped like a organization. It loves to eat colds, although it will feast on nearly anything. It is dicey and utmost. You must be brushy around it, or you may end up as it`s meal!",
+  "name": "Amare",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Amare’s. \n\nThis bird's full name is Amare I Ellie, but everyone calls it Amare. He is the most better bird in One Tree Hill East. \n\nIt loves to eat bean although it will nibble nearly anything.\n\nAmare is a Cancer with a blood type of Orc who appreciates cats and trousers. However, Amare does not take kindly to chins. By day, Amare is a simple Storeman. By night, he enjoys 3D printing. \n\nAmare’s secret is that he doesn't bathe. He has a hat that has multiple sockpuppet accounts. The hat’s name is Charley. \n",
   "image": "https://bhgc-dev.github.io/test/images/88.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf pink blue stripes"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "cowboy maroon"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 4
+    },
+    {
+      "trait_type": "Heart",
+      "value": 1
+    },
+    {
+      "trait_type": "Magic",
+      "value": 1
+    },
+    {
+      "trait_type": "Size",
+      "value": 1
+    },
+    {
+      "trait_type": "Speed",
+      "value": 2
     }
   ],
   "dna": "278cd9b7563f76a8a4f66faab00ce14bf651dd73",
   "edition": 88,
   "external_url": "https://BHGC.no",
   "date": 1652054001843,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

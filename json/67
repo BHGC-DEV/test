@@ -1,6 +1,6 @@
 {
-  "name": "Annabel",
-  "description": "Annabel is the frowsty Bird of all. It has a farci titaniums, and a mistake shaped like a son. It loves to eat couches, although it will feast on nearly anything. It is mettled and listless. You must be saltant around it, or you may end up as it`s meal!",
+  "name": "Ethan",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Ethan’s. \n\nThis bird's full name is Ethan K Viola, but everyone calls it Ethan. It is the most lined bird in Mairtown. \n\nIt loves to eat croissants although it will devour nearly anything.\n\nEthan is a Leo with a blood type of Retiring who rejoices in forks and pizzas. However, Ethan antipathizes knots. By day, Ethan is a simple Butcher. By night, it enjoys Scouting. \n\nEthan’s secret is that it longs to burrow underground. It has a hat that strains the ocean for krill with a mouth full of baleen. The hat’s name is Joe. \n",
   "image": "https://bhgc-dev.github.io/test/images/67.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "tie hearts"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "pirate pink"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Non-binary"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 4
+    },
+    {
+      "trait_type": "Heart",
+      "value": 4
+    },
+    {
+      "trait_type": "Magic",
+      "value": 1
+    },
+    {
+      "trait_type": "Size",
+      "value": 4
+    },
+    {
+      "trait_type": "Speed",
+      "value": 2
     }
   ],
   "dna": "b1c4e727b9d03e647f16b129669fc5ff64e69ac0",
   "edition": 67,
   "external_url": "https://BHGC.no",
   "date": 1652054011820,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

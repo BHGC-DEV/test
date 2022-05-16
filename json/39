@@ -1,6 +1,6 @@
 {
-  "name": "Michel",
-  "description": "Michel is the servo Bird of all. It has a retral commissions, and a tax shaped like a panda. It loves to eat scallions, although it will feast on nearly anything. It is rustred and threefold. You must be conjunct around it, or you may end up as it`s meal!",
+  "name": "Gwendolyn",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Gwendolyn’s. \n\nThis bird's full name is Gwendolyn K Jonathan, but everyone calls it Gwendolyn. It is the most bogus bird in Kaitaia East. \n\nIt loves to eat sprouts although it will nom nearly anything.\n\nGwendolyn is a Leo with a blood type of A+ who loves crabs and turnips. However, Gwendolyn is averse to dolls. By day, Gwendolyn is a simple Publican. By night, it enjoys Photography. \n\nGwendolyn’s secret is that it yawns bigly. It has a hat that yeets. The hat’s name is Delmar. \n",
   "image": "https://bhgc-dev.github.io/test/images/39.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "tie blue"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "pirate blue png"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Tau"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 1
+    },
+    {
+      "trait_type": "Heart",
+      "value": 1
+    },
+    {
+      "trait_type": "Magic",
+      "value": 3
+    },
+    {
+      "trait_type": "Size",
+      "value": 2
+    },
+    {
+      "trait_type": "Speed",
+      "value": 5
     }
   ],
   "dna": "1c590406828bdaeeff5b68d77d29de307327c781",
   "edition": 39,
   "external_url": "https://BHGC.no",
   "date": 1652054006151,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

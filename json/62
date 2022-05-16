@@ -1,6 +1,6 @@
 {
-  "name": "Geordie",
-  "description": "This is an NFT of Geordie, an original painting of a casteless New Zealand shield. He goes by Geordie but his full name is Geordie rudish finger. His blood type is sausage. He is a rainless, but disdains charles as \"not particularly useful for birds.\" He has a secret he can never tell, and a ticket he can never remove. During the day, Geordie ripply from branch to branch in the forest, broody up a smuggest with his quippish minutes and bedded foot. He's the coccal hurricane in town. By night, he organizes clipping cicadas. Sometimes, he centered at the odometer. Geordie's mission in life is to repay his Creator's mortgage in full. Once this splendid service is performed, he will trembling into the sun, surgy at last.",
+  "name": "Sylvia",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Sylvia’s. \n\nThis bird's full name is Sylvia L Harley, but everyone calls it Sylvia. She is the most humble bird in Onehunga North East. \n\nIt loves to eat tortellini although it will nom nom nom nearly anything.\n\nSylvia is a Aries with a blood type of K who freaks out about cakes and desserts. However, Sylvia avoids taxes. By day, Sylvia is a simple Horse Dealer. By night, she enjoys tabletop games. \n\nSylvia’s secret is that she taps along to the beat of the music. She has a hat that enjoys spreadsheets. The hat’s name is Isabella. \n",
   "image": "https://bhgc-dev.github.io/test/images/62.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf pink"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "farm"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Unassigned"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 3
+    },
+    {
+      "trait_type": "Heart",
+      "value": 3
+    },
+    {
+      "trait_type": "Magic",
+      "value": 5
+    },
+    {
+      "trait_type": "Size",
+      "value": 4
+    },
+    {
+      "trait_type": "Speed",
+      "value": 5
     }
   ],
   "dna": "0925460b19e9eaa8a55d72d4c24b7b16b9eabd1e",
   "edition": 62,
   "external_url": "https://BHGC.no",
   "date": 1652054013034,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "M"
 }

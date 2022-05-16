@@ -1,6 +1,6 @@
 {
-  "name": "Maxy",
-  "description": "Maxy is the thriftless Bird of all. It has a purer weasels, and a flower shaped like a evening. It loves to eat snowboards, although it will feast on nearly anything. It is undulled and leftward. You must be thuggish around it, or you may end up as it`s meal!",
+  "name": "Sergio",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Sergio’s. \n\nThis bird's full name is Sergio H Kirk, but everyone calls it Sergio. It is the most bumpy bird in Raupunga. \n\nIt loves to eat flour although it will shovel down nearly anything.\n\nSergio is a Cancer with a blood type of Retiring who delights in plates and kitchens. However, Sergio eschews camels. By day, Sergio is a simple Bus Valeter. By night, it enjoys BASE jumping. \n\nSergio’s secret is that it slacks off during video meetings. It has a hat that causes excessive yawning. The hat’s name is Joan. \n",
   "image": "https://bhgc-dev.github.io/test/images/86.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf white"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "farm"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 2
+    },
+    {
+      "trait_type": "Heart",
+      "value": 1
+    },
+    {
+      "trait_type": "Magic",
+      "value": 3
+    },
+    {
+      "trait_type": "Size",
+      "value": 5
+    },
+    {
+      "trait_type": "Speed",
+      "value": 4
     }
   ],
   "dna": "fb04ac211fcdbebcc0908363d51dad1e861c4f5f",
   "edition": 86,
   "external_url": "https://BHGC.no",
   "date": 1652054002665,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "N"
 }

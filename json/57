@@ -1,6 +1,6 @@
 {
-  "name": "Brandtr",
-  "description": "This is an NFT of Brandtr, an original painting of a babbling New Zealand enemy. He goes by Brandtr but his full name is Brandtr peccant editor. His blood type is lion. He is a rotate, but disdains pig as \"not particularly useful for birds.\" He has a secret he can never tell, and a alphabet he can never remove. During the day, Brandtr pulpy from branch to branch in the forest, wormy up a tonish with his purpure motions and unposed tanzania. He's the hefty gemini in town. By night, he organizes landed attics. Sometimes, he faecal at the hen. Brandtr's mission in life is to repay his Creator's mortgage in full. Once this gated service is performed, he will nubbly into the sun, nubbly at last.",
+  "name": "Muhammad",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Muhammad’s. \n\nThis bird's full name is Muhammad [ Sister, but everyone calls it Muhammad. It is the most portly bird in Lake Alice. \n\nIt loves to eat besan although it will annihilate nearly anything.\n\nMuhammad is a Taurus with a blood type of O+ who revels in dungeons and dreams. However, Muhammad disapproves of Turkeys. By day, Muhammad is a simple Tennis Coach. By night, it enjoys Acting. \n\nMuhammad’s secret is that it knows you better than you know yourself. It has a hat that buys limited-edition box sets. The hat’s name is Toney. \n",
   "image": "https://bhgc-dev.github.io/test/images/57.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "tie black"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "farm blue"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 5
+    },
+    {
+      "trait_type": "Heart",
+      "value": 4
+    },
+    {
+      "trait_type": "Magic",
+      "value": 3
+    },
+    {
+      "trait_type": "Size",
+      "value": 4
+    },
+    {
+      "trait_type": "Speed",
+      "value": 4
     }
   ],
   "dna": "d7cf932604e7e40404444911b55195d5e6eefadb",
   "edition": 57,
   "external_url": "https://BHGC.no",
   "date": 1652054006704,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

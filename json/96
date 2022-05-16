@@ -1,6 +1,6 @@
 {
-  "name": "Elfrieda",
-  "description": "Elfrieda is the gaping Bird of all. It has a rigid cuticles, and a cicada shaped like a liver. It loves to eat pictures, although it will feast on nearly anything. It is impel and agleam. You must be strophic around it, or you may end up as it`s meal!",
+  "name": "Immanuel",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Immanuel’s. \n\nThis bird's full name is Immanuel C Wilbert, but everyone calls it Immanuel. It is the most dirty bird in Oceanic-Southland Region. \n\nIt loves to eat dessert although it will destroy nearly anything.\n\nImmanuel is a Aquarius with a blood type of Oleaginous who relishes balloons and cabbages. However, Immanuel loathes wrenches. By day, Immanuel is a simple Immigration Officer. By night, it enjoys Soapmaking. \n\nImmanuel’s secret is that it sets small fires. It has a hat that plays the guitar but only the same three songs that it learned as a teenager. The hat’s name is Lloyd. \n",
   "image": "https://bhgc-dev.github.io/test/images/96.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf green"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "cowboy simple"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Agender"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 3
+    },
+    {
+      "trait_type": "Heart",
+      "value": 4
+    },
+    {
+      "trait_type": "Magic",
+      "value": 3
+    },
+    {
+      "trait_type": "Size",
+      "value": 2
+    },
+    {
+      "trait_type": "Speed",
+      "value": 1
     }
   ],
   "dna": "3caf56f5854759e69f7b696e0decd91efc1e793c",
   "edition": 96,
   "external_url": "https://BHGC.no",
   "date": 1652054013697,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "N"
 }

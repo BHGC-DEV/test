@@ -1,6 +1,6 @@
 {
-  "name": "Irving",
-  "description": "Irving is the sullen Bird of all. It has a tartish dentists, and a van shaped like a colony. It loves to eat animals, although it will feast on nearly anything. It is weedy and rodless. You must be flatling around it, or you may end up as it`s meal!",
+  "name": "Winston",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Winston’s. \n\nThis bird's full name is Winston Q Leola, but everyone calls it Winston. It is the most unfinished bird in Taharua. \n\nIt loves to eat kale although it will demolish nearly anything.\n\nWinston is a Leo with a blood type of Wizard who appreciates celeries and machines. However, Winston eschews eggs. By day, Winston is a simple Hotel Worker. By night, it enjoys Cycling. \n\nWinston’s secret is that it beats. It has a hat that contains multitudes. The hat’s name is Robert. \n",
   "image": "https://bhgc-dev.github.io/test/images/52.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "bowtie pink"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "cowboy simple corks"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 5
+    },
+    {
+      "trait_type": "Heart",
+      "value": 3
+    },
+    {
+      "trait_type": "Magic",
+      "value": 3
+    },
+    {
+      "trait_type": "Size",
+      "value": 4
+    },
+    {
+      "trait_type": "Speed",
+      "value": 2
     }
   ],
   "dna": "75c0d5075d36ab04477881743279f77384ae172d",
   "edition": 52,
   "external_url": "https://BHGC.no",
   "date": 1652054012910,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "M"
 }

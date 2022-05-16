@@ -1,6 +1,6 @@
 {
-  "name": "Trstram",
-  "description": "This is an NFT of Trstram, an original painting of a laming New Zealand trigonometry. He goes by Trstram but his full name is Trstram pricy date. His blood type is epoch. He is a genal, but disdains gateway as \"not particularly useful for birds.\" He has a secret he can never tell, and a linen he can never remove. During the day, Trstram breasted from branch to branch in the forest, strutting up a pauseful with his hollow chimpanzees and aidful agreement. He's the rambling treatment in town. By night, he organizes grimmest fruits. Sometimes, he grumose at the giraffe. Trstram's mission in life is to repay his Creator's mortgage in full. Once this chainless service is performed, he will topfull into the sun, swingeing at last.",
+  "name": "Arjun",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Arjun’s. \n\nThis bird's full name is Arjun Y Evans, but everyone calls it Arjun. It is the most precious bird in Hampstead. \n\nIt loves to eat basil although it will consume nearly anything.\n\nArjun is a Taurus with a blood type of AB+ who delights in haircuts and balls. However, Arjun eschews seeds. By day, Arjun is a simple Pipe Insulator. By night, it enjoys Photography. \n\nArjun’s secret is that it has an appetite for creation. It has a hat that went to the levy but the levy was dry. The hat’s name is Annie. \n",
   "image": "https://bhgc-dev.github.io/test/images/90.png",
   "attributes": [
     {
@@ -54,11 +54,36 @@
     {
       "trait_type": "hats",
       "value": "farm"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 5
+    },
+    {
+      "trait_type": "Heart",
+      "value": 2
+    },
+    {
+      "trait_type": "Magic",
+      "value": 5
+    },
+    {
+      "trait_type": "Size",
+      "value": 4
+    },
+    {
+      "trait_type": "Speed",
+      "value": 1
     }
   ],
   "dna": "68c5f17c6ea2c43f89a70f5febe688af42bbd0bc",
   "edition": 90,
   "external_url": "https://BHGC.no",
   "date": 1652054013281,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "Thayne",
-  "description": "Thayne is the crippling Bird of all. It has a naughty soccers, and a karate shaped like a male. It loves to eat wheels, although it will feast on nearly anything. It is feline and sloshy. You must be ratlike around it, or you may end up as it`s meal!",
+  "name": "Lincoln",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Lincoln’s. \n\nThis bird's full name is Lincoln [ Curtis, but everyone calls it Lincoln. It is the most clueless bird in Te Kuiti. \n\nIt loves to eat cilantro although it will nyam nearly anything.\n\nLincoln is a Pisces with a blood type of B- who relishes dogs and zebras. However, Lincoln objects to beaches. By day, Lincoln is a simple Violinist. By night, it enjoys Hiking. \n\nLincoln’s secret is that it thinks the series peaked with Season 7. It has a hat that doesn't think things through. The hat’s name is Jonnie. \n",
   "image": "https://bhgc-dev.github.io/test/images/46.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf purple"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "cowboy simple corks"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "No"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 2
+    },
+    {
+      "trait_type": "Heart",
+      "value": 3
+    },
+    {
+      "trait_type": "Magic",
+      "value": 4
+    },
+    {
+      "trait_type": "Size",
+      "value": 3
+    },
+    {
+      "trait_type": "Speed",
+      "value": 3
     }
   ],
   "dna": "8ef4d8a7a423683450c27d636a95c956b989872f",
   "edition": 46,
   "external_url": "https://BHGC.no",
   "date": 1652054009570,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

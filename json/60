@@ -1,6 +1,6 @@
 {
-  "name": "Tobie",
-  "description": "This is an NFT of Tobie, an original painting of a trinal New Zealand spoon. He goes by Tobie but his full name is Tobie flagrant nest. His blood type is tongue. He is a frustrate, but disdains cocktail as \"not particularly useful for birds.\" He has a secret he can never tell, and a lamp he can never remove. During the day, Tobie larval from branch to branch in the forest, unblown up a slighting with his nubile milks and nutmegged leg. He's the habile butcher in town. By night, he organizes beetle blades. Sometimes, he squirting at the risk. Tobie's mission in life is to repay his Creator's mortgage in full. Once this xylic service is performed, he will nutmegged into the sun, piebald at last.",
+  "name": "Martin",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Martin’s. \n\nThis bird's full name is Martin V Carmen, but everyone calls it Martin. It is the most buttery bird in Oroua Downs-Waitohi. \n\nIt loves to eat quarters although it will annihilate nearly anything.\n\nMartin is a Libra with a blood type of Phlegmatic who fancies cats and feasts. However, Martin disesteems packets. By day, Martin is a simple Beauty Therapist. By night, it enjoys Cosplaying. \n\nMartin’s secret is that it secretly aspires to become a surgeon. It has a hat that grants additional brainpower. The hat’s name is Ollie. \n",
   "image": "https://bhgc-dev.github.io/test/images/60.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "tie sunflowers"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "pirate black"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Pi"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 5
+    },
+    {
+      "trait_type": "Heart",
+      "value": 1
+    },
+    {
+      "trait_type": "Magic",
+      "value": 3
+    },
+    {
+      "trait_type": "Size",
+      "value": 4
+    },
+    {
+      "trait_type": "Speed",
+      "value": 1
     }
   ],
   "dna": "995a78664ac618767dce3c265e6c36bd349578a0",
   "edition": 60,
   "external_url": "https://BHGC.no",
   "date": 1652054004562,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

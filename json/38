@@ -1,6 +1,6 @@
 {
-  "name": "Dara",
-  "description": "Dara is the squirmy Bird of all. It has a monthly beavers, and a step-grandmother shaped like a witness. It loves to eat kites, although it will feast on nearly anything. It is askance and dentoid. You must be eastward around it, or you may end up as it`s meal!",
+  "name": "Skyler",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Skyler’s. \n\nThis bird's full name is Skyler O Anna, but everyone calls it Skyler. He is the most inconsequential bird in Ocean View. \n\nIt loves to eat hominy although it will gobble nearly anything.\n\nSkyler is a Aries with a blood type of O- who loves thumbs and forests. However, Skyler avoids lizards. By day, Skyler is a simple Hospital Worker. By night, he enjoys Soapmaking. \n\nSkyler’s secret is that he has multiple sockpuppet accounts. He has a hat that is an enlightened centrist. The hat’s name is Earnest. \n",
   "image": "https://bhgc-dev.github.io/test/images/38.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf black blue stripes"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "pirate purple"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 5
+    },
+    {
+      "trait_type": "Heart",
+      "value": 3
+    },
+    {
+      "trait_type": "Magic",
+      "value": 4
+    },
+    {
+      "trait_type": "Size",
+      "value": 3
+    },
+    {
+      "trait_type": "Speed",
+      "value": 1
     }
   ],
   "dna": "1191b7c4d4128f59b9d5bd30e070ba72033d3db8",
   "edition": 38,
   "external_url": "https://BHGC.no",
   "date": 1652054004699,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "M"
 }

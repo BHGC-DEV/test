@@ -1,6 +1,6 @@
 {
-  "name": "Alta",
-  "description": "Alta is the crumby Bird of all. It has a habile musicians, and a deal shaped like a snow. It loves to eat greeks, although it will feast on nearly anything. It is shrouding and absorbed. You must be bootleg around it, or you may end up as it`s meal!",
+  "name": "Taliyah",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Taliyah’s. \n\nThis bird's full name is Taliyah K Hannah, but everyone calls it Taliyah. It is the most oblong bird in Huntly East. \n\nIt loves to eat quail although it will make short work of nearly anything.\n\nTaliyah is a Scorpio with a blood type of Dark Red who loves staircases and fans. However, Taliyah disesteems ducklings. By day, Taliyah is a simple Legal Secretary. By night, it enjoys Inline skating. \n\nTaliyah’s secret is that it can moo. It has a hat that kills houseplants through neglect. The hat’s name is Louvenia. \n",
   "image": "https://bhgc-dev.github.io/test/images/55.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf pink"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "wizard blue"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Dilettante"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 1
+    },
+    {
+      "trait_type": "Heart",
+      "value": 2
+    },
+    {
+      "trait_type": "Magic",
+      "value": 2
+    },
+    {
+      "trait_type": "Size",
+      "value": 1
+    },
+    {
+      "trait_type": "Speed",
+      "value": 4
     }
   ],
   "dna": "5f5ae2d81b06d77147816ce465f8902209cf52ee",
   "edition": 55,
   "external_url": "https://BHGC.no",
   "date": 1652054007233,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "M"
 }

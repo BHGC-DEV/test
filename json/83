@@ -1,6 +1,6 @@
 {
-  "name": "Borden",
-  "description": "Borden is the farming Bird of all. It has an adroit himalayans, and a replace shaped like a sword. It loves to eat cars, although it will feast on nearly anything. It is phony and nerval. You must be forespent around it, or you may end up as it`s meal!",
+  "name": "Zackary",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Zackary’s. \n\nThis bird's full name is Zackary I Earlie, but everyone calls it Zackary. It is the most tricky bird in Avondale West. \n\nIt loves to eat refried beans although it will tuck into nearly anything.\n\nZackary is a Leo with a blood type of Melancholic who rejoices in motorboats and dishes. However, Zackary disesteems beasts. By day, Zackary is a simple Janitor. By night, it enjoys Kite flying. \n\nZackary’s secret is that it owns property. It has a hat that was once highly fashionable. The hat’s name is Lavada. \n",
   "image": "https://bhgc-dev.github.io/test/images/83.png",
   "attributes": [
     {
@@ -54,11 +54,36 @@
     {
       "trait_type": "hats",
       "value": "cowboy blue"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Pi"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 3
+    },
+    {
+      "trait_type": "Heart",
+      "value": 4
+    },
+    {
+      "trait_type": "Magic",
+      "value": 2
+    },
+    {
+      "trait_type": "Size",
+      "value": 1
+    },
+    {
+      "trait_type": "Speed",
+      "value": 4
     }
   ],
   "dna": "b11e34a1b2e76a1fed0d772355d19d1ecc7ea782",
   "edition": 83,
   "external_url": "https://BHGC.no",
   "date": 1652054007494,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "M"
 }

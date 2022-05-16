@@ -1,6 +1,6 @@
 {
-  "name": "Torrin",
-  "description": "Torrin is the klephtic Bird of all. It has an inflexed cherries, and a calculus shaped like a cork. It loves to eat rules, although it will feast on nearly anything. It is uncoined and bilious. You must be decreed around it, or you may end up as it`s meal!",
+  "name": "Christina",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Christina’s. \n\nThis bird's full name is Christina E Raphael, but everyone calls it Christina. It is the most popular bird in Mahoenui. \n\nIt loves to eat natto although it will destroy nearly anything.\n\nChristina is a Ophiuchus with a blood type of Retiring who revels in groups and octopuses. However, Christina scorns soups. By day, Christina is a simple Decorator. By night, it enjoys Worldbuilding. \n\nChristina’s secret is that it goes bonk. It has a hat that has a gravitational mass of a million suns. The hat’s name is Pat. \n",
   "image": "https://bhgc-dev.github.io/test/images/4.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "tie red"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "hat tophat symbol e"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Miscellaneous"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 4
+    },
+    {
+      "trait_type": "Heart",
+      "value": 1
+    },
+    {
+      "trait_type": "Magic",
+      "value": 3
+    },
+    {
+      "trait_type": "Size",
+      "value": 2
+    },
+    {
+      "trait_type": "Speed",
+      "value": 2
     }
   ],
   "dna": "82c91964be333696e2c769095b7c9b41ac52bd32",
   "edition": 4,
   "external_url": "https://BHGC.no",
   "date": 1652054002525,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "N"
 }

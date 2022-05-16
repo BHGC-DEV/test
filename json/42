@@ -1,6 +1,6 @@
 {
-  "name": "Verne",
-  "description": "This is an NFT of Verne, an original painting of a pimpled New Zealand belief. She goes by Verne but her full name is Verne haloid hose. Her blood type is snake. She is an earnest, but disdains treatment as \"not particularly useful for birds.\" She has a secret she can never tell, and a layer she can never remove. During the day, Verne strifeless from branch to branch in the forest, voided up a chiseled with her fatless ocelots and outcast cry. She's the prefab chalk in town. By night, she organizes rabid mailmen. Sometimes, she chancy at the heaven. Verne's mission in life is to repay her Creator's mortgage in full. Once this ductile service is performed, she will tailless into the sun, acock at last.",
+  "name": "Kael",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Kael’s. \n\nThis bird's full name is Kael Z Harris, but everyone calls it Kael. It is the most pastel bird in Glenduan. \n\nIt loves to eat elderberries although it will chow down nearly anything.\n\nKael is a Sagittarius with a blood type of Elf who appreciates foots and games. However, Kael deplores desks. By day, Kael is a simple Ice Cream Vendor. By night, it enjoys Driving. \n\nKael’s secret is that it spends far too much time and energy on a simple joke. It has a hat that has no clout. The hat’s name is Virginia. \n",
   "image": "https://bhgc-dev.github.io/test/images/42.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf black red stripes"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "pirate blue gold pink"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Dilettante"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 2
+    },
+    {
+      "trait_type": "Heart",
+      "value": 5
+    },
+    {
+      "trait_type": "Magic",
+      "value": 2
+    },
+    {
+      "trait_type": "Size",
+      "value": 5
+    },
+    {
+      "trait_type": "Speed",
+      "value": 1
     }
   ],
   "dna": "3c15995594d4ecd25a945c26b09af7eec5264e6c",
   "edition": 42,
   "external_url": "https://BHGC.no",
   "date": 1652054005216,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "N"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "Carly",
-  "description": "This is an NFT of Carly, an original painting of a edging New Zealand spinach. He goes by Carly but his full name is Carly cloistered quotation. His blood type is cardboard. He is a stalky, but disdains deborah as \"not particularly useful for birds.\" He has a secret he can never tell, and a gong he can never remove. During the day, Carly chondral from branch to branch in the forest, mousey up a humbler with his mythic pictures and blatant dirt. He's the printed man in town. By night, he organizes tertian arieses. Sometimes, he coccoid at the shoe. Carly's mission in life is to repay his Creator's mortgage in full. Once this aloof service is performed, he will stoutish into the sun, catching at last.",
+  "name": "Josiah",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Josiah’s. \n\nThis bird's full name is Josiah Z Tina, but everyone calls it Josiah. It is the most frilly bird in Papakura South. \n\nIt loves to eat grass although it will nibble nearly anything.\n\nJosiah is a Aquarius with a blood type of Elf who fancies strangers and foxes. However, Josiah despises coffees. By day, Josiah is a simple Stable Hand. By night, it enjoys Netball. \n\nJosiah’s secret is that it only has correct opinions. It has a hat that is a lumberjack and is OK. The hat’s name is Lois. \n",
   "image": "https://bhgc-dev.github.io/test/images/61.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "tie sunflowers"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "cowboy blue"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 4
+    },
+    {
+      "trait_type": "Heart",
+      "value": 1
+    },
+    {
+      "trait_type": "Magic",
+      "value": 1
+    },
+    {
+      "trait_type": "Size",
+      "value": 2
+    },
+    {
+      "trait_type": "Speed",
+      "value": 5
     }
   ],
   "dna": "e770af855fda519a729d5b78c25d9d0e3784d97f",
   "edition": 61,
   "external_url": "https://BHGC.no",
   "date": 1652054004825,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "F"
 }

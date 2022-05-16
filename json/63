@@ -1,6 +1,6 @@
 {
-  "name": "Babb",
-  "description": "This is an NFT of Babb, an original painting of a parlous New Zealand flame. She goes by Babb but her full name is Babb baffling burn. Her blood type is flat. She is an irksome, but disdains sausage as \"not particularly useful for birds.\" She has a secret she can never tell, and a mailman she can never remove. During the day, Babb quaky from branch to branch in the forest, bistred up a socko with her unchaste cottons and riant interviewer. She's the meagre description in town. By night, she organizes dreamlike geraniums. Sometimes, she gearless at the turn. Babb's mission in life is to repay her Creator's mortgage in full. Once this suited service is performed, she will svelter into the sun, curbless at last.",
+  "name": "Clay",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Clay’s. \n\nThis bird's full name is Clay Y Lela, but everyone calls it Clay. He is the most prestigious bird in Highlands Park. \n\nIt loves to eat borage although it will devour nearly anything.\n\nClay is a Cancer with a blood type of Zoinks who revels in silvers and kicks. However, Clay deplores wishes. By day, Clay is a simple Window Dresser. By night, he enjoys Mountaineering. \n\nClay’s secret is that he trusts the Free Market to sort everything out. He has a hat that causes excessive yawning. The hat’s name is Doyle. \n",
   "image": "https://bhgc-dev.github.io/test/images/63.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf black"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "pirate black"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 2
+    },
+    {
+      "trait_type": "Heart",
+      "value": 5
+    },
+    {
+      "trait_type": "Magic",
+      "value": 2
+    },
+    {
+      "trait_type": "Size",
+      "value": 4
+    },
+    {
+      "trait_type": "Speed",
+      "value": 2
     }
   ],
   "dna": "40a25146d3dee8ea4c18f8c7ca52633f873e977a",
   "edition": 63,
   "external_url": "https://BHGC.no",
   "date": 1652054014079,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "N"
 }

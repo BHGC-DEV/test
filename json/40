@@ -1,6 +1,6 @@
 {
-  "name": "Tabatha",
-  "description": "This is an NFT of Tabatha, an original painting of a agone New Zealand sandwich. She goes by Tabatha but her full name is Tabatha statewide income. Her blood type is structure. She is a corbelled, but disdains trombone as \"not particularly useful for birds.\" She has a secret she can never tell, and a rake she can never remove. During the day, Tabatha unvoiced from branch to branch in the forest, unpruned up a sopping with her bardy lobsters and unground destruction. She's the innate alto in town. By night, she organizes softish gatewaies. Sometimes, she onside at the mosquito. Tabatha's mission in life is to repay her Creator's mortgage in full. Once this pipeless service is performed, she will xyloid into the sun, faucial at last.",
+  "name": "Amir",
+  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Amir’s. \n\nThis bird's full name is Amir A Fritz, but everyone calls it Amir. It is the most joyful bird in Karori South. \n\nIt loves to eat purslane although it will ingest nearly anything.\n\nAmir is a Leo with a blood type of Phlegmatic who adores squids and houses. However, Amir dislikes pansies. By day, Amir is a simple Tug Skipper. By night, it enjoys Knapping. \n\nAmir’s secret is that it spreads conspiracies. It has a hat that will run around and desert you. The hat’s name is Rubye. \n",
   "image": "https://bhgc-dev.github.io/test/images/40.png",
   "attributes": [
     {
@@ -48,17 +48,38 @@
       "value": "clothes scarf black purple stripes"
     },
     {
-      "trait_type": "sketchy",
-      "value": "not sketchy"
-    },
-    {
       "trait_type": "hats",
       "value": "wizard grey"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "No"
+    },
+    {
+      "trait_type": "Hat",
+      "value": 4
+    },
+    {
+      "trait_type": "Heart",
+      "value": 4
+    },
+    {
+      "trait_type": "Magic",
+      "value": 4
+    },
+    {
+      "trait_type": "Size",
+      "value": 3
+    },
+    {
+      "trait_type": "Speed",
+      "value": 1
     }
   ],
   "dna": "ff83db11e17a2e194aead9a2e8c53f5da399f0db",
   "edition": 40,
   "external_url": "https://BHGC.no",
   "date": 1652054009302,
-  "compiler": "HashLips Art Engine - BHGC Modified"
+  "compiler": "HashLips Art Engine - BHGC Modified",
+  "gender": "N"
 }
