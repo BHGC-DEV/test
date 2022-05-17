@@ -1,6 +1,6 @@
 {
-  "name": "Amara",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Amara’s. \n\nThis bird's full name is Amara Y Joesph, but everyone calls it Amara. It is the most crisp bird in Levin South. \n\nIt loves to eat breadfruit although it will annihilate nearly anything.\n\nAmara is a Virgo with a blood type of Biff who enjoys curtains and backbones. However, Amara disesteems peanuts. By day, Amara is a simple Instructor. By night, it enjoys Paintball. \n\nAmara’s secret is that it wishes it was somewhere else. It has a hat that can moo. The hat’s name is Dexter. \n",
+  "name": "Karen",
+  "description": "This bird is called Karen. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Karen T Lida, but her best friends call her by her turbulent nickname, Tony. She is the most adventurous bird in Westbrook. \n\nKaren loves to eat ready-to-drink fluids, although she will demolish nearly anything that it considers sufficiently grounded. \n\nKaren is a Libra with a blood type of A-, who relishes cicadas and pails. However, Karen objects to feet. By day, Karen works as a simple road worker. By night, she enjoys quilting. \n\nKaren’s secret is that she says \"eyyyyy\". She has a hat that drops sick beats. The hat’s name is Marcel.",
   "image": "https://bhgc-dev.github.io/test/images/0.png",
   "attributes": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
@@ -21,43 +21,39 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail"
+      "value": "legs tomtit"
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
-      "value": "eye white"
+      "value": "eye green"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "fantail"
+      "value": "corvid"
     },
     {
       "trait_type": "glasses",
-      "value": "glasses none"
+      "value": "aviators"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf pink blue stripes"
-    },
-    {
-      "trait_type": "sketchy",
-      "value": "sketchy owl"
+      "value": "clothes scarf green"
     },
     {
       "trait_type": "hats",
-      "value": "pirate blue png"
+      "value": "wizard grey"
     },
     {
       "trait_type": "Gender",
-      "value": "Pi"
+      "value": "Female"
     },
     {
       "trait_type": "Hat",
@@ -65,25 +61,39 @@
     },
     {
       "trait_type": "Heart",
-      "value": 3
+      "value": 4
     },
     {
       "trait_type": "Magic",
-      "value": 2
+      "value": 7
     },
     {
       "trait_type": "Size",
-      "value": 3
+      "value": 2
     },
     {
       "trait_type": "Speed",
-      "value": 5
+      "value": 6
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "A-"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Job",
+      "value": "road worker"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Westbrook"
     }
   ],
-  "dna": "75ee6ec48d781baa4b435150fa3782b140c893c5",
+  "dna": "3c07ef62be020c82e113df60308c880768c85d48",
   "edition": 0,
-  "external_url": "https://BHGC.no",
-  "date": 1652054012233,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "N"
+  "date": 1652748023991,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

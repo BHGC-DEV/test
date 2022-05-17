@@ -1,11 +1,11 @@
 {
-  "name": "Misael",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Misael’s. \n\nThis bird's full name is Misael Z Berenice, but everyone calls it Misael. It is the most cool bird in Gisborne Airport. \n\nIt loves to eat fava although it will scoff nearly anything.\n\nMisael is a Sagittarius with a blood type of Wizard who likes sailors and cereals. However, Misael avoids gyms. By day, Misael is a simple Shop Fitter. By night, it enjoys Handball. \n\nMisael’s secret is that it looks at cat pictures on the internet. It has a hat that collects tiny skulls. The hat’s name is Elmer. \n",
+  "name": "Danna",
+  "description": "This bird is called Danna. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Danna A Burley, but its best friends call it by its better nickname, Bias. It is the most infantile bird in Burnside. \n\nDanna loves to eat cherimoya, although it will wolf nearly anything that it considers sufficiently helpful. \n\nDanna is a Virgo with a blood type of B-, who appreciates sharks and bathrooms. However, Danna shuns sleds. By day, Danna works as a simple graphologist. By night, it enjoys video gaming. \n\nDanna’s secret is that it spends far too much time and energy on a simple joke. It has a hat that enhances tails. The hat’s name is Bulah.",
   "image": "https://bhgc-dev.github.io/test/images/80.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background proud"
     },
     {
       "trait_type": "bodies",
@@ -13,11 +13,11 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "fantail chest"
     },
     {
       "trait_type": "legs",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye white"
+      "value": "eye normal"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "corvid"
+      "value": "human mouth"
     },
     {
       "trait_type": "glasses",
@@ -45,41 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf yellow"
+      "value": "tie sunflowers"
     },
     {
       "trait_type": "hats",
-      "value": "hat tophat"
+      "value": "hat tophat symbol b"
     },
     {
       "trait_type": "Gender",
-      "value": "Tau"
+      "value": "Agender"
     },
     {
       "trait_type": "Hat",
-      "value": 3
+      "value": 5
     },
     {
       "trait_type": "Heart",
-      "value": 1
+      "value": 3
     },
     {
       "trait_type": "Magic",
-      "value": 2
+      "value": 1
     },
     {
       "trait_type": "Size",
-      "value": 5
+      "value": 2
     },
     {
       "trait_type": "Speed",
-      "value": 5
+      "value": 6
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "B-"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Job",
+      "value": "graphologist"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Burnside"
     }
   ],
-  "dna": "8a6217c7e62c3f21af51b5cac9aaff09d79e70ba",
+  "dna": "68dabdc76ec4570ca8a7490c105ce9d8aa1a3b0d",
   "edition": 80,
-  "external_url": "https://BHGC.no",
-  "date": 1652054013560,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748023607,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "Mylee",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Mylee’s. \n\nThis bird's full name is Mylee L Ava, but everyone calls it Mylee. It is the most fearful bird in Crum Park. \n\nIt loves to eat vegetarian although it will chomp nearly anything.\n\nMylee is a Leo with a blood type of Halfling who freaks out about towns and foots. However, Mylee disapproves of tubs. By day, Mylee is a simple Premises Security. By night, it enjoys Sketching. \n\nMylee’s secret is that it cries over anime. It has a hat that causes excitement in viewers. The hat’s name is Clayton. \n",
+  "name": "Jaiden",
+  "description": "This bird is called Jaiden. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Jaiden G Esco, but his best friends call him by his near nickname, Lish. He is the most burdensome bird in Brockville. \n\nJaiden loves to eat yams, although he will destroy nearly anything that it considers sufficiently alienated. \n\nJaiden is a Gemini with a blood type of A+, who goes crazy for monkeys and fights. However, Jaiden does not take kindly to woods. By day, Jaiden works as a simple professional wrestler. By night, he enjoys flying. \n\nJaiden’s secret is that he virtue signals. He has a hat that hangs around in bars. The hat’s name is Cynthia.",
   "image": "https://bhgc-dev.github.io/test/images/30.png",
   "attributes": [
     {
@@ -13,19 +13,19 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail tomtit"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail"
+      "value": "legs kiwi"
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "corvid blood"
+      "value": "human mouth"
     },
     {
       "trait_type": "glasses",
@@ -45,41 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf black purple stripes"
+      "value": "clothes scarf blue yellow stripes"
     },
     {
       "trait_type": "hats",
-      "value": "farm blue"
+      "value": "cowboy maroon"
     },
     {
       "trait_type": "Gender",
-      "value": "Dilettante"
+      "value": "Male"
     },
     {
       "trait_type": "Hat",
-      "value": 5
+      "value": 4
     },
     {
       "trait_type": "Heart",
-      "value": 3
+      "value": 4
     },
     {
       "trait_type": "Magic",
-      "value": 2
-    },
-    {
-      "trait_type": "Size",
       "value": 5
     },
     {
+      "trait_type": "Size",
+      "value": 3
+    },
+    {
       "trait_type": "Speed",
-      "value": 2
+      "value": 8
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "A+"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Job",
+      "value": "professional wrestler"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Brockville"
     }
   ],
-  "dna": "c9527bddc74cea05fc01f5d44aed2f3a3fd5617d",
+  "dna": "8eba10b77c492ef4c6204200c97994b4dc809d92",
   "edition": 30,
-  "external_url": "https://BHGC.no",
-  "date": 1652054013404,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "N"
+  "date": 1652748016566,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

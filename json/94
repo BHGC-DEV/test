@@ -1,27 +1,27 @@
 {
-  "name": "Valentino",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Valentino’s. \n\nThis bird's full name is Valentino Z Imogene, but everyone calls it Valentino. It is the most ethical bird in Royal Oak. \n\nIt loves to eat links although it will finish nearly anything.\n\nValentino is a Scorpio with a blood type of High who goes crazy for chains and seagulls. However, Valentino avoids pigs. By day, Valentino is a simple Knitter. By night, it enjoys Vehicle restoration. \n\nValentino’s secret is that it collects rare crypto. It has a hat that has incorrect opinions. The hat’s name is Geo. \n",
+  "name": "Gisselle",
+  "description": "This bird is called Gisselle. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Gisselle T Ella, but its best friends call it by its hot nickname, Stevie. It is the most spirited bird in North Harbour West. \n\nGisselle loves to eat pulp, although it will swallow nearly anything that it considers sufficiently frequent. \n\nGisselle is a Capricorn with a blood type of Sanguine, who delights in fairies and berets. However, Gisselle is averse to parents. By day, Gisselle works as a simple fork lift truck driver. By night, it enjoys painting. \n\nGisselle’s secret is that it messes around in boats. It has a hat that is a meme. The hat’s name is Patrick.",
   "image": "https://bhgc-dev.github.io/test/images/94.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
-      "value": "body stars"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail kiwi"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
-      "value": "legs kiwi"
+      "value": "legs tomtit spats"
     },
     {
       "trait_type": "wings",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye normal"
+      "value": "eye black"
     },
     {
       "trait_type": "wattles",
@@ -37,49 +37,63 @@
     },
     {
       "trait_type": "beaks",
-      "value": "beak kiwi"
+      "value": "fantail"
     },
     {
       "trait_type": "glasses",
-      "value": "glasses none"
+      "value": "aviators pink"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf blue yellow stripes"
+      "value": "tie red"
     },
     {
       "trait_type": "hats",
-      "value": "farm black"
+      "value": "farm blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Yes"
+      "value": "Unassigned"
     },
     {
       "trait_type": "Hat",
-      "value": 2
-    },
-    {
-      "trait_type": "Heart",
       "value": 1
     },
     {
-      "trait_type": "Magic",
+      "trait_type": "Heart",
       "value": 2
     },
     {
+      "trait_type": "Magic",
+      "value": 7
+    },
+    {
       "trait_type": "Size",
-      "value": 2
+      "value": 6
     },
     {
       "trait_type": "Speed",
       "value": 2
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "Sanguine"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Job",
+      "value": "fork lift truck driver"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "North Harbour West"
     }
   ],
-  "dna": "85e98f08411d5b0a9a4b395d885e2dd24c43546c",
+  "dna": "8e1b4ac2a130e4301db20fa5cbbe5b9c146a07c3",
   "edition": 94,
-  "external_url": "https://BHGC.no",
-  "date": 1652054001462,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748018606,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

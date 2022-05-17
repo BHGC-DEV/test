@@ -1,6 +1,6 @@
 {
-  "name": "Marisa",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Marisa’s. \n\nThis bird's full name is Marisa U Mazie, but everyone calls it Marisa. It is the most dirty bird in Arahiwi. \n\nIt loves to eat tortellini although it will dispose of nearly anything.\n\nMarisa is a Aries with a blood type of ZX who likes notes and gases. However, Marisa disapproves of times. By day, Marisa is a simple Marine Broker. By night, it enjoys Drama. \n\nMarisa’s secret is that it can moo. It has a hat that spells it wrong. The hat’s name is Tony. \n",
+  "name": "Danielle",
+  "description": "This bird is called Danielle. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Danielle B Margarita, but their best friends call them by their bowed nickname, Stephen. They is the most unacceptable bird in Esplanade. \n\nDanielle loves to eat popcorn, although they will chaw nearly anything that it considers sufficiently selfish. \n\nDanielle is a Libra with a blood type of H, who appreciates crocodiles and rolls. However, Danielle shuns weapons. By day, Danielle works as a simple airman. By night, they enjoys roller skating. \n\nDanielle’s secret is that they stans inappropriately. They has a hat that grants a wish. The hat’s name is Clare.",
   "image": "https://bhgc-dev.github.io/test/images/19.png",
   "attributes": [
     {
@@ -9,15 +9,15 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body stars"
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail kiwi"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye normal"
+      "value": "eye spiral"
     },
     {
       "trait_type": "wattles",
@@ -37,19 +37,19 @@
     },
     {
       "trait_type": "beaks",
-      "value": "beak tomtit"
+      "value": "fantail"
     },
     {
       "trait_type": "glasses",
-      "value": "aviators"
+      "value": "glasses none"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf pink purple stripes"
+      "value": "clothes scarf white"
     },
     {
       "trait_type": "hats",
-      "value": "wizard grey"
+      "value": "hat tophat symbol e"
     },
     {
       "trait_type": "Gender",
@@ -57,29 +57,43 @@
     },
     {
       "trait_type": "Hat",
-      "value": 5
+      "value": 8
     },
     {
       "trait_type": "Heart",
-      "value": 2
+      "value": 6
     },
     {
       "trait_type": "Magic",
-      "value": 5
+      "value": 8
     },
     {
       "trait_type": "Size",
-      "value": 2
+      "value": 5
     },
     {
       "trait_type": "Speed",
-      "value": 3
+      "value": 1
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "H"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Job",
+      "value": "airman"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Esplanade"
     }
   ],
-  "dna": "a07d3a4621f531e3b7ca38b5c4f342929d01941f",
+  "dna": "04a05c896b58b935a1354a14b4cdfaa5afde5bcc",
   "edition": 19,
-  "external_url": "https://BHGC.no",
-  "date": 1652054007626,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "N"
+  "date": 1652748017379,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

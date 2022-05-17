@@ -1,6 +1,6 @@
 {
-  "name": "Xander",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Xander’s. \n\nThis bird's full name is Xander S Velma, but everyone calls it Xander. It is the most alarming bird in Otaki. \n\nIt loves to eat cranberry-apricot although it will wolf nearly anything.\n\nXander is a Gemini with a blood type of Phlegmatic who appreciates creeks and helps. However, Xander does not take kindly to milks. By day, Xander is a simple Plant Manager. By night, it enjoys Air sports. \n\nXander’s secret is that it is mean. It has a hat that can code in assembly language. The hat’s name is Dona. \n",
+  "name": "Reid",
+  "description": "This bird is called Reid. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Reid E Santiago, but its best friends call it by its feminine nickname, Phoebe. It is the most gloomy bird in Birkdale South. \n\nReid loves to eat olives, although it will swallow nearly anything that it considers sufficiently easy-going. \n\nReid is a Scorpio with a blood type of H, who delights in troubles and alligators. However, Reid dislikes doors. By day, Reid works as a simple fossil-fuel executive. By night, it enjoys motor sports. \n\nReid’s secret is that it knows the meaning of life. It has a hat that is never late, nor early, arrives precisely when means to. The hat’s name is Janette.",
   "image": "https://bhgc-dev.github.io/test/images/3.png",
   "attributes": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit"
+      "value": "legs fantail boots"
     },
     {
       "trait_type": "wings",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye fantail"
+      "value": "eye black"
     },
     {
       "trait_type": "wattles",
@@ -37,31 +37,31 @@
     },
     {
       "trait_type": "beaks",
-      "value": "beak tomtit"
+      "value": "corvid"
     },
     {
       "trait_type": "glasses",
-      "value": "glasses none"
+      "value": "aviators"
     },
     {
       "trait_type": "clothes",
-      "value": "tie bubbles"
+      "value": "clothes scarf pink"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy simple"
+      "value": "cowboy purple"
     },
     {
       "trait_type": "Gender",
-      "value": "Miscellaneous"
+      "value": "Agender"
     },
     {
       "trait_type": "Hat",
-      "value": 2
+      "value": 4
     },
     {
       "trait_type": "Heart",
-      "value": 2
+      "value": 1
     },
     {
       "trait_type": "Magic",
@@ -69,17 +69,31 @@
     },
     {
       "trait_type": "Size",
-      "value": 3
+      "value": 4
     },
     {
       "trait_type": "Speed",
-      "value": 3
+      "value": 5
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "H"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Job",
+      "value": "fossil-fuel executive"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Birkdale South"
     }
   ],
-  "dna": "da9dd1dbedfb5e9b078a1ed3d7763b8f16bbf122",
+  "dna": "88547d18de7b483ea728b7624da5da8ee2d53fea",
   "edition": 3,
-  "external_url": "https://BHGC.no",
-  "date": 1652054004008,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748014872,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

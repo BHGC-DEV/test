@@ -1,63 +1,63 @@
 {
-  "name": "Luciano",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Luciano’s. \n\nThis bird's full name is Luciano [ Roscoe, but everyone calls it Luciano. It is the most helpful bird in Rangipo. \n\nIt loves to eat chocolate although it will eat nearly anything.\n\nLuciano is a Gemini with a blood type of Melancholic who likes pimples and clocks. However, Luciano avoids signs. By day, Luciano is a simple Tour Guide. By night, it enjoys Quilting. \n\nLuciano’s secret is that it is stronger than the foundations of the earth. It has a hat that is the living avatar of Bonk. The hat’s name is Maymie. \n",
+  "name": "Aydin",
+  "description": "This bird is called Aydin. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Aydin X Marvel, but its best friends call it by its decisive nickname, Rhynie. It is the most roasted bird in Rotoorangi. \n\nAydin loves to eat broth, although it will make short work of nearly anything that it considers sufficiently well-informed. \n\nAydin is a Taurus with a blood type of Zoinks, who relishes soybeans and sands. However, Aydin objects to ducks. By day, Aydin works as a simple medical supplier. By night, it enjoys rugby. \n\nAydin’s secret is that it whistles a few bars of an earworm and then you have to live with it for the rest of the day. It has a hat that owns property. The hat’s name is Alma.",
   "image": "https://bhgc-dev.github.io/test/images/2.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background white"
+      "value": "background blue"
     },
     {
       "trait_type": "bodies",
-      "value": "body fantail"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
-      "value": "tail tomtit"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail"
+      "value": "legs tomtit spats"
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
-      "value": "eye normal"
+      "value": "eye black"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle fantail"
+      "value": "wattle tomtit"
     },
     {
       "trait_type": "beaks",
-      "value": "fantail scold"
+      "value": "duck"
     },
     {
       "trait_type": "glasses",
-      "value": "glasses none"
+      "value": "aviators"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf yellow"
+      "value": "clothes scarf purple"
     },
     {
       "trait_type": "hats",
-      "value": "pirate purple"
+      "value": "cowboy simple"
     },
     {
       "trait_type": "Gender",
-      "value": "Pi"
+      "value": "Yes"
     },
     {
       "trait_type": "Hat",
-      "value": 2
+      "value": 1
     },
     {
       "trait_type": "Heart",
@@ -65,21 +65,35 @@
     },
     {
       "trait_type": "Magic",
-      "value": 1
+      "value": 6
     },
     {
       "trait_type": "Size",
-      "value": 1
+      "value": 3
     },
     {
       "trait_type": "Speed",
-      "value": 5
+      "value": 2
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "Zoinks"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Job",
+      "value": "medical supplier"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Rotoorangi"
     }
   ],
-  "dna": "27c0dcf866ebb7eec6e65eaf1a52f6e3fff80d9e",
+  "dna": "224b088c745acd849061f4243f09424fbbc228e7",
   "edition": 2,
-  "external_url": "https://BHGC.no",
-  "date": 1652054011689,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "N"
+  "date": 1652748018354,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

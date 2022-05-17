@@ -1,6 +1,6 @@
 {
-  "name": "Aubrie",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Aubrie’s. \n\nThis bird's full name is Aubrie S Matilda, but everyone calls it Aubrie. It is the most close bird in Porirua Central. \n\nIt loves to eat gravy although it will partake of nearly anything.\n\nAubrie is a Capricorn with a blood type of High who appreciates wrists and shovels. However, Aubrie avoids salads. By day, Aubrie is a simple Shop Manager. By night, it enjoys Taekwondo. \n\nAubrie’s secret is that it has been there and back again. It has a hat that cannot spel. The hat’s name is Reva. \n",
+  "name": "Miriam",
+  "description": "This bird is called Miriam. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Miriam X Alex, but her best friends call her by her pleasant nickname, Theodore. She is the most forsaken bird in Bremner. \n\nMiriam loves to eat fast, although she will munch nearly anything that it considers sufficiently snoopy. \n\nMiriam is a Leo with a blood type of B-, who adores queens and crops. However, Miriam shuns grapes. By day, Miriam works as a simple marine electrician. By night, she enjoys crocheting. \n\nMiriam’s secret is that she will outlast us all. She has a hat that cannot keep secrets. The hat’s name is Craig.",
   "image": "https://bhgc-dev.github.io/test/images/59.png",
   "attributes": [
     {
@@ -9,35 +9,35 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit"
+      "value": "legs fantail boots"
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
-      "value": "eye green"
+      "value": "eye white"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle fantail"
+      "value": "wattle tomtit"
     },
     {
       "trait_type": "beaks",
-      "value": "beak tomtit"
+      "value": "corvid blood"
     },
     {
       "trait_type": "glasses",
@@ -45,7 +45,7 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf white"
+      "value": "tie blue"
     },
     {
       "trait_type": "hats",
@@ -53,19 +53,19 @@
     },
     {
       "trait_type": "Gender",
-      "value": "Pi"
+      "value": "Female"
     },
     {
       "trait_type": "Hat",
-      "value": 5
+      "value": 6
     },
     {
       "trait_type": "Heart",
-      "value": 3
+      "value": 4
     },
     {
       "trait_type": "Magic",
-      "value": 3
+      "value": 6
     },
     {
       "trait_type": "Size",
@@ -73,13 +73,27 @@
     },
     {
       "trait_type": "Speed",
-      "value": 3
+      "value": 7
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "B-"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Job",
+      "value": "marine electrician"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Bremner"
     }
   ],
-  "dna": "58c48a8ab9bb46359c2491586232bf768e86c366",
+  "dna": "615b9ad28effa3bf5d4bb037e20c87f5b065ad07",
   "edition": 59,
-  "external_url": "https://BHGC.no",
-  "date": 1652054006021,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748025069,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

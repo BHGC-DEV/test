@@ -1,6 +1,6 @@
 {
-  "name": "Amare",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Amare’s. \n\nThis bird's full name is Amare I Ellie, but everyone calls it Amare. He is the most better bird in One Tree Hill East. \n\nIt loves to eat bean although it will nibble nearly anything.\n\nAmare is a Cancer with a blood type of Orc who appreciates cats and trousers. However, Amare does not take kindly to chins. By day, Amare is a simple Storeman. By night, he enjoys 3D printing. \n\nAmare’s secret is that he doesn't bathe. He has a hat that has multiple sockpuppet accounts. The hat’s name is Charley. \n",
+  "name": "Alia",
+  "description": "This bird is called Alia. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Alia G Satoshi, but its best friends call it by its weak nickname, Lige. It is the most assured bird in Wharenui. \n\nAlia loves to eat scrapple, although it will ingest nearly anything that it considers sufficiently well-worn. \n\nAlia is a Cancer with a blood type of AB-, who loves spaghettis and bottoms. However, Alia eschews dragonflies. By day, Alia works as a simple accounts staff. By night, it enjoys poi. \n\nAlia’s secret is that it will diminish, and go into the West. It has a hat that belonged to its grandmother. The hat’s name is Marcia.",
   "image": "https://bhgc-dev.github.io/test/images/88.png",
   "attributes": [
     {
@@ -9,15 +9,15 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
@@ -25,19 +25,19 @@
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing kiwi"
     },
     {
       "trait_type": "eyes",
-      "value": "eye human"
+      "value": "eye normal"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "beak tomtit rainbow gradient"
+      "value": "duck"
     },
     {
       "trait_type": "glasses",
@@ -45,15 +45,15 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf pink blue stripes"
+      "value": "clothes scarf pink purple stripes"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy maroon"
+      "value": "cowboy purple"
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Yes"
     },
     {
       "trait_type": "Hat",
@@ -61,25 +61,39 @@
     },
     {
       "trait_type": "Heart",
-      "value": 1
+      "value": 5
     },
     {
       "trait_type": "Magic",
-      "value": 1
+      "value": 6
     },
     {
       "trait_type": "Size",
-      "value": 1
+      "value": 6
     },
     {
       "trait_type": "Speed",
-      "value": 2
+      "value": 1
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "AB-"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Job",
+      "value": "accounts staff"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Wharenui"
     }
   ],
-  "dna": "278cd9b7563f76a8a4f66faab00ce14bf651dd73",
+  "dna": "16c0cc318b6b8da8ee574695580a0a2cf7e8ced5",
   "edition": 88,
-  "external_url": "https://BHGC.no",
-  "date": 1652054001843,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748013834,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

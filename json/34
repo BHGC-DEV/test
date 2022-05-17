@@ -1,6 +1,6 @@
 {
-  "name": "Kimberly",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Kimberly’s. \n\nThis bird's full name is Kimberly K Pattie, but everyone calls it Kimberly. It is the most fresh bird in Owhango. \n\nIt loves to eat swisswurst although it will destroy nearly anything.\n\nKimberly is a Taurus with a blood type of A- who fancies teachers and yards. However, Kimberly avoids dances. By day, Kimberly is a simple Cleric. By night, it enjoys Calligraphy. \n\nKimberly’s secret is that it is stronger than the foundations of the earth. It has a hat that cares. The hat’s name is Loretta. \n",
+  "name": "Erin",
+  "description": "This bird is called Erin. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Erin O Archibald, but its best friends call it by its inexperienced nickname, Rose. It is the most occasional bird in Kelburn. \n\nErin loves to eat gourds, although it will make short work of nearly anything that it considers sufficiently muddy. \n\nErin is a Aquarius with a blood type of AB+, who adores milkshakes and magics. However, Erin shuns jackets. By day, Erin works as a simple highway inspector. By night, it enjoys sewing. \n\nErin’s secret is that it longs for the skies. It has a hat that has walked five thousand miles and won't walk a step more. The hat’s name is Regis.",
   "image": "https://bhgc-dev.github.io/test/images/34.png",
   "attributes": [
     {
@@ -9,23 +9,23 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "fantail chest"
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail boots"
+      "value": "legs tomtit"
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "beak kiwi"
+      "value": "fantail scold"
     },
     {
       "trait_type": "glasses",
@@ -49,7 +49,7 @@
     },
     {
       "trait_type": "hats",
-      "value": "pirate purple"
+      "value": "pirate blue gold pink"
     },
     {
       "trait_type": "Gender",
@@ -57,29 +57,43 @@
     },
     {
       "trait_type": "Hat",
-      "value": 2
+      "value": 3
     },
     {
       "trait_type": "Heart",
-      "value": 2
+      "value": 3
     },
     {
       "trait_type": "Magic",
-      "value": 1
+      "value": 8
     },
     {
       "trait_type": "Size",
-      "value": 1
+      "value": 2
     },
     {
       "trait_type": "Speed",
       "value": 1
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "AB+"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Job",
+      "value": "highway inspector"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Kelburn"
     }
   ],
-  "dna": "8ac3142048990b842a53afd7436aab9829b100f3",
+  "dna": "5b6ccf6f20c0edd02ccdb5f1fbae5202636cf3d5",
   "edition": 34,
-  "external_url": "https://BHGC.no",
-  "date": 1652054012359,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748012220,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

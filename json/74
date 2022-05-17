@@ -1,11 +1,11 @@
 {
-  "name": "Russell",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Russell’s. \n\nThis bird's full name is Russell O Florence, but everyone calls it Russell. It is the most winged bird in Waiuku East. \n\nIt loves to eat fish although it will eet nearly anything.\n\nRussell is a Pisces with a blood type of Bold who appreciates aardvarks and heats. However, Russell deplores pastes. By day, Russell is a simple Glass Worker. By night, it enjoys Jogging. \n\nRussell’s secret is that it tells its secrets to everyone so they're no longer secret, are they. It has a hat that increases INT by +4. The hat’s name is Ophelia. \n",
+  "name": "Keira",
+  "description": "This bird is called Keira. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Keira E Loren, but its best friends call it by its stupid nickname, Liley. It is the most pastel bird in Mt Wellington North. \n\nKeira loves to eat venison, although it will tuck into nearly anything that it considers sufficiently improbable. \n\nKeira is a Ophiuchus with a blood type of A+, who fancies inks and dragons. However, Keira dislikes weapons. By day, Keira works as a simple mechanic. By night, it enjoys running. \n\nKeira’s secret is that it searches without stopping. It has a hat that is searching for a heart of gold. The hat’s name is Ola.",
   "image": "https://bhgc-dev.github.io/test/images/74.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail tomtit"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit"
+      "value": "legs kiwi"
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing human"
     },
     {
       "trait_type": "eyes",
-      "value": "eye black"
+      "value": "eye gormless"
     },
     {
       "trait_type": "wattles",
@@ -37,11 +37,11 @@
     },
     {
       "trait_type": "beaks",
-      "value": "beak tomtit"
+      "value": "fantail"
     },
     {
       "trait_type": "glasses",
-      "value": "aviators"
+      "value": "glasses none"
     },
     {
       "trait_type": "clothes",
@@ -49,37 +49,51 @@
     },
     {
       "trait_type": "hats",
-      "value": "cowboy blue"
+      "value": "pirate blue gold red"
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Pi"
     },
     {
       "trait_type": "Hat",
-      "value": 3
-    },
-    {
-      "trait_type": "Heart",
-      "value": 2
-    },
-    {
-      "trait_type": "Magic",
       "value": 1
     },
     {
+      "trait_type": "Heart",
+      "value": 7
+    },
+    {
+      "trait_type": "Magic",
+      "value": 8
+    },
+    {
       "trait_type": "Size",
-      "value": 2
+      "value": 4
     },
     {
       "trait_type": "Speed",
-      "value": 4
+      "value": 6
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "A+"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Ophiuchus"
+    },
+    {
+      "trait_type": "Job",
+      "value": "mechanic"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Mt Wellington North"
     }
   ],
-  "dna": "ea7187242a0acb62f08a6b5e7085559d2718695c",
+  "dna": "77e9e0124abba939867196840160e259d91965ee",
   "edition": 74,
-  "external_url": "https://BHGC.no",
-  "date": 1652054003615,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748012854,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

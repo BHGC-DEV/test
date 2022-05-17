@@ -1,23 +1,23 @@
 {
-  "name": "Layton",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Layton’s. \n\nThis bird's full name is Layton H Rita, but everyone calls it Layton. It is the most quintessential bird in Parakai Urban. \n\nIt loves to eat pickle although it will scoff nearly anything.\n\nLayton is a Gemini with a blood type of Savvy who relishes doors and fuels. However, Layton shuns courts. By day, Layton is a simple Tax Advisor. By night, it enjoys Bodybuilding. \n\nLayton’s secret is that it recycles assiduously. It has a hat that spreads woe. The hat’s name is Elvira. \n",
+  "name": "Yaretzi",
+  "description": "This bird is called Yaretzi. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Yaretzi H Zula, but their best friends call them by their hospitable nickname, Heloise. They is the most idle bird in Lake Rotorua. \n\nYaretzi loves to eat berries, although they will destroy nearly anything that it considers sufficiently polite. \n\nYaretzi is a Libra with a blood type of Oleaginous, who revels in clicks and sneezes. However, Yaretzi disesteems pies. By day, Yaretzi works as a simple inventor. By night, they enjoys community. \n\nYaretzi’s secret is that they is the chad of all chads. They has a hat that secretly aspires to become a politician. The hat’s name is Enoch.",
   "image": "https://bhgc-dev.github.io/test/images/70.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background white"
+      "value": "background blue"
     },
     {
       "trait_type": "bodies",
-      "value": "body fantail"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
-      "value": "tail tomtit"
+      "value": "tail kiwi"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye white"
+      "value": "eye gormless"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "beak kiwi"
+      "value": "duck"
     },
     {
       "trait_type": "glasses",
@@ -45,11 +45,11 @@
     },
     {
       "trait_type": "clothes",
-      "value": "tie red"
+      "value": "clothes scarf white"
     },
     {
       "trait_type": "hats",
-      "value": "pirate blue gold red"
+      "value": "cowboy blue"
     },
     {
       "trait_type": "Gender",
@@ -57,11 +57,11 @@
     },
     {
       "trait_type": "Hat",
-      "value": 2
+      "value": 6
     },
     {
       "trait_type": "Heart",
-      "value": 3
+      "value": 1
     },
     {
       "trait_type": "Magic",
@@ -69,17 +69,31 @@
     },
     {
       "trait_type": "Size",
-      "value": 4
+      "value": 2
     },
     {
       "trait_type": "Speed",
-      "value": 4
+      "value": 1
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "Oleaginous"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Job",
+      "value": "inventor"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Lake Rotorua"
     }
   ],
-  "dna": "da9659ebd02e97bbb8fb9cbefa5c88b54651218d",
+  "dna": "4c55904d44d5e04280efabb2e7b14a14f81fb5be",
   "edition": 70,
-  "external_url": "https://BHGC.no",
-  "date": 1652054009442,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748020034,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

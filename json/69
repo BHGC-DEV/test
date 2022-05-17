@@ -1,6 +1,6 @@
 {
-  "name": "Kayden",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Kayden’s. \n\nThis bird's full name is Kayden Z Edna, but everyone calls it Kayden. It is the most pertinent bird in Owhata West. \n\nIt loves to eat bar although it will eat nearly anything.\n\nKayden is a Libra with a blood type of O- who delights in packets and whips. However, Kayden dislikes meals. By day, Kayden is a simple Recreational. By night, it enjoys Listening to music. \n\nKayden’s secret is that it has another, smaller bird inside it. It has a hat that after a fungal infection acquired the nickname \"Fun Gus\". The hat’s name is Ancil. \n",
+  "name": "Micheal",
+  "description": "This bird is called Micheal. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Micheal [ Oleta, but its best friends call it by its unknown nickname, Rick. It is the most ajar bird in Bryant. \n\nMicheal loves to eat seeds, although it will consume nearly anything that it considers sufficiently grimy. \n\nMicheal is a Taurus with a blood type of A+, who likes trombones and mustards. However, Micheal antipathizes chests. By day, Micheal works as a simple gilder. By night, it enjoys coffee roasting. \n\nMicheal’s secret is that it does salacious dances on video for clout. It has a hat that will never give you up and never let you down. The hat’s name is Napoleon.",
   "image": "https://bhgc-dev.github.io/test/images/69.png",
   "attributes": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body stars"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
@@ -21,19 +21,19 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit spats"
+      "value": "legs fantail"
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye fantail"
+      "value": "eye green"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle fantail"
+      "value": "wattle tomtit"
     },
     {
       "trait_type": "beaks",
@@ -41,45 +41,59 @@
     },
     {
       "trait_type": "glasses",
-      "value": "aviators"
+      "value": "glasses none"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf white"
+      "value": "tie hearts"
     },
     {
       "trait_type": "hats",
-      "value": "farm"
+      "value": "farm blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Yes"
+      "value": "Tau"
     },
     {
       "trait_type": "Hat",
-      "value": 1
-    },
-    {
-      "trait_type": "Heart",
       "value": 5
     },
     {
+      "trait_type": "Heart",
+      "value": 8
+    },
+    {
       "trait_type": "Magic",
-      "value": 3
+      "value": 7
     },
     {
       "trait_type": "Size",
-      "value": 3
+      "value": 6
     },
     {
       "trait_type": "Speed",
-      "value": 2
+      "value": 3
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "A+"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Job",
+      "value": "gilder"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Bryant"
     }
   ],
-  "dna": "dcbd1a27e6bfce83ce4179c6ad6929d82438276f",
+  "dna": "31e376367620ad3ebe00e1a6fdf0b2504a190649",
   "edition": 69,
-  "external_url": "https://BHGC.no",
-  "date": 1652054007102,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748022446,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

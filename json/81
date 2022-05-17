@@ -1,11 +1,11 @@
 {
-  "name": "Sidney",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Sidney’s. \n\nThis bird's full name is Sidney X Alvena, but everyone calls it Sidney. It is the most curvy bird in Harbourside. \n\nIt loves to eat shallots although it will gobble nearly anything.\n\nSidney is a Ophiuchus with a blood type of Biff who likes men and lilies. However, Sidney does not take kindly to pockets. By day, Sidney is a simple Granite Technician. By night, it enjoys Taekwondo. \n\nSidney’s secret is that it looks at cat pictures on the internet. It has a hat that is nice. The hat’s name is Marion. \n",
+  "name": "Kaleb",
+  "description": "This bird is called Kaleb. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Kaleb K Tomas, but their best friends call them by their warm nickname, Epsey. They is the most sane bird in Kinleith. \n\nKaleb loves to eat viruses, although they will munch nearly anything that it considers sufficiently super. \n\nKaleb is a Taurus with a blood type of Oleaginous, who enjoys grasshoppers and trumpets. However, Kaleb eschews boxes. By day, Kaleb works as a simple sign maker. By night, they enjoys baton twirling. \n\nKaleb’s secret is that they is nice. They has a hat that is a Boomer. The hat’s name is Sudie.",
   "image": "https://bhgc-dev.github.io/test/images/81.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
-      "value": "eye green"
+      "value": "eye fantail"
     },
     {
       "trait_type": "wattles",
@@ -45,11 +45,11 @@
     },
     {
       "trait_type": "clothes",
-      "value": "tie stars"
+      "value": "bowtie blue"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy simple"
+      "value": "farm brown"
     },
     {
       "trait_type": "Gender",
@@ -57,11 +57,11 @@
     },
     {
       "trait_type": "Hat",
-      "value": 2
+      "value": 1
     },
     {
       "trait_type": "Heart",
-      "value": 3
+      "value": 6
     },
     {
       "trait_type": "Magic",
@@ -69,17 +69,31 @@
     },
     {
       "trait_type": "Size",
-      "value": 5
+      "value": 3
     },
     {
       "trait_type": "Speed",
       "value": 4
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "Oleaginous"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Job",
+      "value": "sign maker"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Kinleith"
     }
   ],
-  "dna": "bc0f6df7b54423e4f0d0030708dee05bd5426e94",
+  "dna": "7e711b1aaf35804d5dbab8103255de9065e2deda",
   "edition": 81,
-  "external_url": "https://BHGC.no",
-  "date": 1652054002948,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "N"
+  "date": 1652748014259,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

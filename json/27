@@ -1,6 +1,6 @@
 {
-  "name": "Jakobe",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Jakobe’s. \n\nThis bird's full name is Jakobe W Isabella, but everyone calls it Jakobe. It is the most female bird in Seaview. \n\nIt loves to eat creamy although it will consume nearly anything.\n\nJakobe is a Capricorn with a blood type of Oleaginous who revels in persons and pencils. However, Jakobe eschews rooms. By day, Jakobe is a simple Caulker. By night, it enjoys amateur radio. \n\nJakobe’s secret is that it enjoys the taste of rain. It has a hat that causes excessive yawning. The hat’s name is Corine. \n",
+  "name": "Riya",
+  "description": "This bird is called Riya. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Riya J Anna, but their best friends call them by their trustworthy nickname, Sid. They is the most great bird in Akaroa. \n\nRiya loves to eat cattail, although they will polish off nearly anything that it considers sufficiently comfortable. \n\nRiya is a Taurus with a blood type of AB+, who adores locusts and cherries. However, Riya loathes doors. By day, Riya works as a simple vehicle body worker. By night, they enjoys genealogy. \n\nRiya’s secret is that they says \"eyyyyy\". They has a hat that thinks the series peaked with Season 7. The hat’s name is Twila.",
   "image": "https://bhgc-dev.github.io/test/images/27.png",
   "attributes": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body fantail"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
@@ -17,7 +17,7 @@
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
@@ -25,19 +25,19 @@
     },
     {
       "trait_type": "wings",
-      "value": "wing kiwi"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye normal"
+      "value": "eye black"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "duck"
+      "value": "corvid blood"
     },
     {
       "trait_type": "glasses",
@@ -45,23 +45,23 @@
     },
     {
       "trait_type": "clothes",
-      "value": "tie red"
+      "value": "tie sunflowers"
     },
     {
       "trait_type": "hats",
-      "value": "wizard wizzard"
+      "value": "farm blue"
     },
     {
       "trait_type": "Gender",
-      "value": "No"
+      "value": "Unknown"
     },
     {
       "trait_type": "Hat",
-      "value": 1
+      "value": 7
     },
     {
       "trait_type": "Heart",
-      "value": 3
+      "value": 2
     },
     {
       "trait_type": "Magic",
@@ -73,13 +73,27 @@
     },
     {
       "trait_type": "Speed",
-      "value": 2
+      "value": 5
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "AB+"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Job",
+      "value": "vehicle body worker"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Akaroa"
     }
   ],
-  "dna": "df52983c1fa47c8880386d2a241378967685a56f",
+  "dna": "f7f9cf662ad9191ec10e3a9730cf275c0d6e40e9",
   "edition": 27,
-  "external_url": "https://BHGC.no",
-  "date": 1652054011968,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748023857,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

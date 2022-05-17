@@ -1,27 +1,27 @@
 {
-  "name": "Gwendolyn",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Gwendolyn’s. \n\nThis bird's full name is Gwendolyn K Jonathan, but everyone calls it Gwendolyn. It is the most bogus bird in Kaitaia East. \n\nIt loves to eat sprouts although it will nom nearly anything.\n\nGwendolyn is a Leo with a blood type of A+ who loves crabs and turnips. However, Gwendolyn is averse to dolls. By day, Gwendolyn is a simple Publican. By night, it enjoys Photography. \n\nGwendolyn’s secret is that it yawns bigly. It has a hat that yeets. The hat’s name is Delmar. \n",
+  "name": "Dante",
+  "description": "This bird is called Dante. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Dante W Adele, but its best friends call it by its palatable nickname, Mary. It is the most wry bird in Red Beach West. \n\nDante loves to eat chorizo, although it will tuck into nearly anything that it considers sufficiently dimpled. \n\nDante is a Capricorn with a blood type of K, who freaks out about courts and songs. However, Dante shuns backbones. By day, Dante works as a simple gamekeeper. By night, it enjoys table tennis. \n\nDante’s secret is that it knows more than you. It has a hat that thinks the series peaked with Season 7. The hat’s name is Bob.",
   "image": "https://bhgc-dev.github.io/test/images/39.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background white"
+      "value": "background blue"
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit spats"
+      "value": "legs fantail boots"
     },
     {
       "trait_type": "wings",
@@ -29,57 +29,71 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye fantail"
+      "value": "eye gormless"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "duck"
+      "value": "beak tomtit"
     },
     {
       "trait_type": "glasses",
-      "value": "aviators blue"
+      "value": "glasses none"
     },
     {
       "trait_type": "clothes",
-      "value": "tie blue"
+      "value": "clothes scarf black red stripes"
     },
     {
       "trait_type": "hats",
-      "value": "pirate blue png"
+      "value": "pirate black"
     },
     {
       "trait_type": "Gender",
-      "value": "Tau"
+      "value": "Dilettante"
     },
     {
       "trait_type": "Hat",
-      "value": 1
+      "value": 4
     },
     {
       "trait_type": "Heart",
-      "value": 1
-    },
-    {
-      "trait_type": "Magic",
       "value": 3
     },
     {
+      "trait_type": "Magic",
+      "value": 8
+    },
+    {
       "trait_type": "Size",
-      "value": 2
+      "value": 7
     },
     {
       "trait_type": "Speed",
-      "value": 5
+      "value": 6
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "K"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Job",
+      "value": "gamekeeper"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Red Beach West"
     }
   ],
-  "dna": "1c590406828bdaeeff5b68d77d29de307327c781",
+  "dna": "3a9730b927b9870484f42d3abcb0d62c54a9031f",
   "edition": 39,
-  "external_url": "https://BHGC.no",
-  "date": 1652054006151,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748013566,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

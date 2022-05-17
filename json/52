@@ -1,6 +1,6 @@
 {
-  "name": "Winston",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Winston’s. \n\nThis bird's full name is Winston Q Leola, but everyone calls it Winston. It is the most unfinished bird in Taharua. \n\nIt loves to eat kale although it will demolish nearly anything.\n\nWinston is a Leo with a blood type of Wizard who appreciates celeries and machines. However, Winston eschews eggs. By day, Winston is a simple Hotel Worker. By night, it enjoys Cycling. \n\nWinston’s secret is that it beats. It has a hat that contains multitudes. The hat’s name is Robert. \n",
+  "name": "Griffin",
+  "description": "This bird is called Griffin. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Griffin G Malissa, but his best friends call him by his faraway nickname, Mitch. He is the most deficient bird in Maupuia. \n\nGriffin loves to eat nectarines, although he will partake of nearly anything that it considers sufficiently sweaty. \n\nGriffin is a Cancer with a blood type of O-, who relishes ponds and steams. However, Griffin antipathizes bagpipes. By day, Griffin works as a simple sound technician. By night, he enjoys book restoration. \n\nGriffin’s secret is that he whistles a few bars of an earworm and then you have to live with it for the rest of the day. He has a hat that is a lumberjack and is OK. The hat’s name is Sigurd.",
   "image": "https://bhgc-dev.github.io/test/images/52.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail"
+      "value": "legs tomtit spats"
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye white"
+      "value": "eye human"
     },
     {
       "trait_type": "wattles",
@@ -37,19 +37,19 @@
     },
     {
       "trait_type": "beaks",
-      "value": "corvid blood"
+      "value": "beak tomtit"
     },
     {
       "trait_type": "glasses",
-      "value": "glasses none"
+      "value": "aviators"
     },
     {
       "trait_type": "clothes",
-      "value": "bowtie pink"
+      "value": "clothes scarf black red stripes"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy simple corks"
+      "value": "hat tophat symbol e"
     },
     {
       "trait_type": "Gender",
@@ -57,29 +57,43 @@
     },
     {
       "trait_type": "Hat",
-      "value": 5
+      "value": 2
     },
     {
       "trait_type": "Heart",
-      "value": 3
+      "value": 1
     },
     {
       "trait_type": "Magic",
-      "value": 3
+      "value": 8
     },
     {
       "trait_type": "Size",
-      "value": 4
+      "value": 7
     },
     {
       "trait_type": "Speed",
-      "value": 2
+      "value": 8
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "O-"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Job",
+      "value": "sound technician"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Maupuia"
     }
   ],
-  "dna": "75c0d5075d36ab04477881743279f77384ae172d",
+  "dna": "fa84b35630bcc7b1960d43ac02fc8e01b16c3d60",
   "edition": 52,
-  "external_url": "https://BHGC.no",
-  "date": 1652054012910,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748022307,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

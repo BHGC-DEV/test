@@ -1,6 +1,6 @@
 {
-  "name": "Amelie",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Amelie’s. \n\nThis bird's full name is Amelie P Elden, but everyone calls it Amelie. It is the most ill-fated bird in Opiki. \n\nIt loves to eat peppered although it will ingurgitate nearly anything.\n\nAmelie is a Libra with a blood type of Useful who enjoys spikes and loafs. However, Amelie objects to stamps. By day, Amelie is a simple Aeronautical Engineer. By night, it enjoys Horseback riding. \n\nAmelie’s secret is that it will say goodbye, tell a lie, and hurt you. It has a hat that sparks inspiration. The hat’s name is Kathleen. \n",
+  "name": "Ezequiel",
+  "description": "This bird is called Ezequiel. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Ezequiel F Pearl, but his best friends call him by his aware nickname, Tilly. He is the most powerless bird in Owairaka West. \n\nEzequiel loves to eat swisswurst, although he will make short work of nearly anything that it considers sufficiently snoopy. \n\nEzequiel is a Libra with a blood type of A+, who rejoices in drawers and swings. However, Ezequiel despises bedrooms. By day, Ezequiel works as a simple tour agent. By night, he enjoys mushroom hunting. \n\nEzequiel’s secret is that he collects stamps. He has a hat that drinks milk from the source. The hat’s name is Houston.",
   "image": "https://bhgc-dev.github.io/test/images/10.png",
   "attributes": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail"
+      "value": "legs kiwi"
     },
     {
       "trait_type": "wings",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye white"
+      "value": "eye spiral"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "duck"
+      "value": "corvid blood"
     },
     {
       "trait_type": "glasses",
@@ -45,41 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf purple"
+      "value": "clothes scarf black blue stripes"
     },
     {
       "trait_type": "hats",
-      "value": "pirate blue gold pink"
+      "value": "pirate black"
     },
     {
       "trait_type": "Gender",
-      "value": "Non-binary"
+      "value": "Male"
     },
     {
       "trait_type": "Hat",
-      "value": 1
+      "value": 5
     },
     {
       "trait_type": "Heart",
-      "value": 5
+      "value": 8
     },
     {
       "trait_type": "Magic",
-      "value": 5
+      "value": 6
     },
     {
       "trait_type": "Size",
-      "value": 2
+      "value": 1
     },
     {
       "trait_type": "Speed",
-      "value": 2
+      "value": 3
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "A+"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Job",
+      "value": "tour agent"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Owairaka West"
     }
   ],
-  "dna": "8b22e258a9591fbd3fd931d8b6366326841f02a5",
+  "dna": "39b1d144edcdf0080829e113463e03b9aabbb134",
   "edition": 10,
-  "external_url": "https://BHGC.no",
-  "date": 1652054003743,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748019919,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

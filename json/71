@@ -1,6 +1,6 @@
 {
-  "name": "Jewel",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Jewel’s. \n\nThis bird's full name is Jewel X Theresia, but everyone calls it Jewel. It is the most agonizing bird in Bruce Bay-Paringa. \n\nIt loves to eat puree although it will nyam nearly anything.\n\nJewel is a Capricorn with a blood type of Wizard who rejoices in karats and steps. However, Jewel disapproves of cellos. By day, Jewel is a simple Hospital Worker. By night, it enjoys Gardening. \n\nJewel’s secret is that it has been there and back again. It has a hat that serves a false god. The hat’s name is Zoe. \n",
+  "name": "Bruno",
+  "description": "This bird is called Bruno. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Bruno D Ted, but his best friends call him by his flamboyant nickname, Mel. He is the most familiar bird in North Harbour East. \n\nBruno loves to eat shallots, although he will tuck into nearly anything that it considers sufficiently satisfied. \n\nBruno is a Pisces with a blood type of B-, who revels in boundaries and dragons. However, Bruno dislikes prices. By day, Bruno works as a simple almoner. By night, he enjoys vehicle restoration. \n\nBruno’s secret is that he has a deep and profound spirituality. He has a hat that collects coins. The hat’s name is Joy.",
   "image": "https://bhgc-dev.github.io/test/images/71.png",
   "attributes": [
     {
@@ -9,19 +9,19 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail"
+      "value": "legs fantail boots"
     },
     {
       "trait_type": "wings",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye fantail"
+      "value": "eye spiral"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "fantail scold"
+      "value": "corvid"
     },
     {
       "trait_type": "glasses",
@@ -45,41 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf black"
+      "value": "bowtie red"
     },
     {
       "trait_type": "hats",
-      "value": "farm blue"
+      "value": "pirate black"
     },
     {
       "trait_type": "Gender",
-      "value": "Pi"
+      "value": "Male"
     },
     {
       "trait_type": "Hat",
-      "value": 4
+      "value": 8
     },
     {
       "trait_type": "Heart",
-      "value": 3
-    },
-    {
-      "trait_type": "Magic",
       "value": 4
     },
     {
+      "trait_type": "Magic",
+      "value": 1
+    },
+    {
       "trait_type": "Size",
-      "value": 5
+      "value": 1
     },
     {
       "trait_type": "Speed",
-      "value": 2
+      "value": 5
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "B-"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Job",
+      "value": "almoner"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "North Harbour East"
     }
   ],
-  "dna": "889dc0f7dcdcc76aa0f407438cd364b8b096a486",
+  "dna": "313abd3c752e102957ce2c29b4da7c22e45b5187",
   "edition": 71,
-  "external_url": "https://BHGC.no",
-  "date": 1652054004944,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748020951,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

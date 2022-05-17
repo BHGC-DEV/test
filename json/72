@@ -1,43 +1,43 @@
 {
-  "name": "Jace",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Jace’s. \n\nThis bird's full name is Jace Y Lenna, but everyone calls it Jace. It is the most quarrelsome bird in Parnassus. \n\nIt loves to eat oopah although it will partake of nearly anything.\n\nJace is a Gemini with a blood type of Melancholic who relishes engines and machines. However, Jace does not take kindly to nights. By day, Jace is a simple Church Warden. By night, it enjoys Crocheting. \n\nJace’s secret is that it thinks this whole thing might just work somehow. It has a hat that is the living avatar of Justice. The hat’s name is Gerard. \n",
+  "name": "Finnegan",
+  "description": "This bird is called Finnegan. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Finnegan X Osie, but his best friends call him by his qualified nickname, Dicie. He is the most mammoth bird in Waverley-Glengarry. \n\nFinnegan loves to eat strudel, although he will shovel down nearly anything that it considers sufficiently stupendous. \n\nFinnegan is a Pisces with a blood type of Oleaginous, who adores lights and sentences. However, Finnegan scorns prisons. By day, Finnegan works as a simple chiropodist. By night, he enjoys flying. \n\nFinnegan’s secret is that he doesn't think things through. He has a hat that spreads butter. The hat’s name is Augusta.",
   "image": "https://bhgc-dev.github.io/test/images/72.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
-      "value": "body fantail"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
-      "value": "tail tomtit"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit spats"
+      "value": "legs fantail boots"
     },
     {
       "trait_type": "wings",
-      "value": "wing kiwi"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye green"
+      "value": "eye human"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "beak kiwi"
+      "value": "corvid blood"
     },
     {
       "trait_type": "glasses",
@@ -45,41 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf white"
+      "value": "bowtie pink"
     },
     {
       "trait_type": "hats",
-      "value": "farm black"
+      "value": "hat tophat symbol b"
     },
     {
       "trait_type": "Gender",
-      "value": "Tau"
+      "value": "Male"
     },
     {
       "trait_type": "Hat",
-      "value": 2
+      "value": 8
     },
     {
       "trait_type": "Heart",
-      "value": 3
+      "value": 4
     },
     {
       "trait_type": "Magic",
-      "value": 5
+      "value": 4
     },
     {
       "trait_type": "Size",
-      "value": 3
+      "value": 2
     },
     {
       "trait_type": "Speed",
-      "value": 1
+      "value": 5
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "Oleaginous"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Job",
+      "value": "chiropodist"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Waverley-Glengarry"
     }
   ],
-  "dna": "eacc04b4c8bfa09bd51457f78be0a4c215328034",
+  "dna": "075747412dca970ad3c549ad16a4c24c60b8d214",
   "edition": 72,
-  "external_url": "https://BHGC.no",
-  "date": 1652054007364,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748013297,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

@@ -1,11 +1,11 @@
 {
-  "name": "Amir",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Amir’s. \n\nThis bird's full name is Amir A Fritz, but everyone calls it Amir. It is the most joyful bird in Karori South. \n\nIt loves to eat purslane although it will ingest nearly anything.\n\nAmir is a Leo with a blood type of Phlegmatic who adores squids and houses. However, Amir dislikes pansies. By day, Amir is a simple Tug Skipper. By night, it enjoys Knapping. \n\nAmir’s secret is that it spreads conspiracies. It has a hat that will run around and desert you. The hat’s name is Rubye. \n",
+  "name": "Fisher",
+  "description": "This bird is called Fisher. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Fisher S Pate, but its best friends call it by its watery nickname, Tempy. It is the most unsightly bird in St Lukes North. \n\nFisher loves to eat peppered, although it will consume nearly anything that it considers sufficiently guilty. \n\nFisher is a Leo with a blood type of AB-, who appreciates boards and kisses. However, Fisher antipathizes swallows. By day, Fisher works as a simple civil engineer. By night, it enjoys stand-up comedy. \n\nFisher’s secret is that it the chaddiest chad that ever chadded. It has a hat that will give you up and let you down. The hat’s name is Golda.",
   "image": "https://bhgc-dev.github.io/test/images/40.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
@@ -13,55 +13,55 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail kiwi"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit"
+      "value": "legs tomtit spats"
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye human"
+      "value": "eye white"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle fantail"
+      "value": "wattle tomtit"
     },
     {
       "trait_type": "beaks",
-      "value": "fantail"
+      "value": "beak kiwi"
     },
     {
       "trait_type": "glasses",
-      "value": "glasses none"
+      "value": "aviators red"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf black purple stripes"
+      "value": "bowtie pink"
     },
     {
       "trait_type": "hats",
-      "value": "wizard grey"
+      "value": "pirate pink"
     },
     {
       "trait_type": "Gender",
-      "value": "No"
+      "value": "Yes"
     },
     {
       "trait_type": "Hat",
-      "value": 4
+      "value": 3
     },
     {
       "trait_type": "Heart",
-      "value": 4
+      "value": 6
     },
     {
       "trait_type": "Magic",
@@ -69,17 +69,31 @@
     },
     {
       "trait_type": "Size",
-      "value": 3
+      "value": 4
     },
     {
       "trait_type": "Speed",
-      "value": 1
+      "value": 4
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "AB-"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Job",
+      "value": "civil engineer"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "St Lukes North"
     }
   ],
-  "dna": "ff83db11e17a2e194aead9a2e8c53f5da399f0db",
+  "dna": "518e687f29761dd6d51a46b17b3a80972c40a191",
   "edition": 40,
-  "external_url": "https://BHGC.no",
-  "date": 1652054009302,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "N"
+  "date": 1652748018036,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

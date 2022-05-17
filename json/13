@@ -1,19 +1,19 @@
 {
-  "name": "Joanna",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Joanna’s. \n\nThis bird's full name is Joanna I Gertha, but everyone calls it Joanna. She is the most babyish bird in St Martins. \n\nIt loves to eat shoots although it will nibble nearly anything.\n\nJoanna is a Gemini with a blood type of Phlegmatic who adores snows and sandwiches. However, Joanna disesteems gases. By day, Joanna is a simple Pathologist. By night, she enjoys Worldbuilding. \n\nJoanna’s secret is that she has too many kinks. She has a hat that is the living avatar of Disappointment. The hat’s name is Betty. \n",
+  "name": "Rose",
+  "description": "This bird is called Rose. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Rose M Fairy, but its best friends call it by its adept nickname, Barby. It is the most wiggly bird in Woburn North. \n\nRose loves to eat dessert, although it will destroy nearly anything that it considers sufficiently angry. \n\nRose is a Aquarius with a blood type of Wizard, who enjoys bays and prices. However, Rose avoids bushes. By day, Rose works as a simple travel consultant. By night, it enjoys knitting. \n\nRose’s secret is that it longs for the ocean. It has a hat that thinks monkey JPGs are worth actual money. The hat’s name is Fay.",
   "image": "https://bhgc-dev.github.io/test/images/13.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background white"
+      "value": "background blue"
     },
     {
       "trait_type": "bodies",
-      "value": "body fantail"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
-      "value": "tail tomtit"
+      "value": "tail kiwi"
     },
     {
       "trait_type": "chests",
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail boots"
+      "value": "legs tomtit"
     },
     {
       "trait_type": "wings",
@@ -41,35 +41,31 @@
     },
     {
       "trait_type": "glasses",
-      "value": "glasses none"
+      "value": "aviators blue"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf pink purple stripes"
-    },
-    {
-      "trait_type": "sketchy",
-      "value": "sketchy owl"
+      "value": "bowtie red"
     },
     {
       "trait_type": "hats",
-      "value": "pirate black"
+      "value": "cowboy maroon"
     },
     {
       "trait_type": "Gender",
-      "value": "Unassigned"
+      "value": "Miscellaneous"
     },
     {
       "trait_type": "Hat",
-      "value": 2
+      "value": 8
     },
     {
       "trait_type": "Heart",
-      "value": 4
+      "value": 8
     },
     {
       "trait_type": "Magic",
-      "value": 3
+      "value": 4
     },
     {
       "trait_type": "Size",
@@ -78,12 +74,26 @@
     {
       "trait_type": "Speed",
       "value": 4
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Job",
+      "value": "travel consultant"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Woburn North"
     }
   ],
-  "dna": "894e24c471b9fb5510b82449c3fb1be562b6c831",
+  "dna": "c923c8351dffe59ee6367a29ccaa3412d843d601",
   "edition": 13,
-  "external_url": "https://BHGC.no",
-  "date": 1652054008333,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "N"
+  "date": 1652748017226,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

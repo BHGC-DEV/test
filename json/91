@@ -1,6 +1,6 @@
 {
-  "name": "Cassidy",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Cassidy’s. \n\nThis bird's full name is Cassidy N Reynolds, but everyone calls it Cassidy. She is the most famous bird in Tinwald. \n\nIt loves to eat danish although it will munch nearly anything.\n\nCassidy is a Pisces with a blood type of Sanguine who revels in questions and months. However, Cassidy eschews pets. By day, Cassidy is a simple Forester. By night, she enjoys Macrame. \n\nCassidy’s secret is that she has boring kinks. She has a hat that rules. The hat’s name is Corda. \n",
+  "name": "Marely",
+  "description": "This bird is called Marely. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Marely E Maymie, but their best friends call them by their frequent nickname, Hank. They is the most dimwitted bird in Parnell West. \n\nMarely loves to eat sapote, although they will demolish nearly anything that it considers sufficiently insistent. \n\nMarely is a Aries with a blood type of K, who loves houses and mustards. However, Marely loathes wasps. By day, Marely works as a simple audiologist. By night, they enjoys machining. \n\nMarely’s secret is that they can't tell the difference between its and it's. They has a hat that spreads butter. The hat’s name is John.",
   "image": "https://bhgc-dev.github.io/test/images/91.png",
   "attributes": [
     {
@@ -13,19 +13,19 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail"
+      "value": "legs kiwi"
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing kiwi"
     },
     {
       "trait_type": "eyes",
@@ -33,11 +33,11 @@
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "corvid"
+      "value": "fantail scold"
     },
     {
       "trait_type": "glasses",
@@ -45,15 +45,15 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf pink blue stripes"
+      "value": "clothes none"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy maroon"
+      "value": "farm"
     },
     {
       "trait_type": "Gender",
-      "value": "Unassigned"
+      "value": "Unknown"
     },
     {
       "trait_type": "Hat",
@@ -61,25 +61,39 @@
     },
     {
       "trait_type": "Heart",
-      "value": 1
+      "value": 2
     },
     {
       "trait_type": "Magic",
-      "value": 4
+      "value": 7
     },
     {
       "trait_type": "Size",
-      "value": 1
+      "value": 7
     },
     {
       "trait_type": "Speed",
       "value": 5
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "K"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Job",
+      "value": "audiologist"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Parnell West"
     }
   ],
-  "dna": "0ac2a4cb8e7f5f337effed40469b91f9a9e96317",
+  "dna": "db4049066953c1c14da07dab43442d9de800d9ef",
   "edition": 91,
-  "external_url": "https://BHGC.no",
-  "date": 1652054010686,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748023054,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

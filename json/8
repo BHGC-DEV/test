@@ -1,6 +1,6 @@
 {
-  "name": "Alannah",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Alannah’s. \n\nThis bird's full name is Alannah R Lindsey, but everyone calls it Alannah. It is the most worn bird in Masterton Railway. \n\nIt loves to eat foie although it will polish off nearly anything.\n\nAlannah is a Taurus with a blood type of Savvy who fancies chocolates and pedestrians. However, Alannah objects to breaks. By day, Alannah is a simple Antique Dealer. By night, it enjoys Vehicle restoration. \n\nAlannah’s secret is that it is stanky. It has a hat that causes excessive biting. The hat’s name is Gwendolyn. \n",
+  "name": "Nyasia",
+  "description": "This bird is called Nyasia. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Nyasia U Fay, but its best friends call it by its wide-eyed nickname, Zachariah. It is the most tricky bird in Waimauku. \n\nNyasia loves to eat vinespinach, although it will tuck into nearly anything that it considers sufficiently treasured. \n\nNyasia is a Gemini with a blood type of B+, who fancies stools and deeds. However, Nyasia despises jumpers. By day, Nyasia works as a simple au pair. By night, it enjoys coffee roasting. \n\nNyasia’s secret is that it has boring kinks. It has a hat that is more fun than your mum. The hat’s name is Gail.",
   "image": "https://bhgc-dev.github.io/test/images/8.png",
   "attributes": [
     {
@@ -9,27 +9,27 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body fantail"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
-      "value": "tail tomtit"
+      "value": "tail kiwi"
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "fantail chest"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit"
+      "value": "legs kiwi"
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
-      "value": "eye rainbow gradient"
+      "value": "eye normal"
     },
     {
       "trait_type": "wattles",
@@ -37,27 +37,27 @@
     },
     {
       "trait_type": "beaks",
-      "value": "fantail scold"
+      "value": "duck"
     },
     {
       "trait_type": "glasses",
-      "value": "glasses none"
+      "value": "aviators"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf black red stripes"
+      "value": "clothes scarf green"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy maroon"
+      "value": "hat tophat"
     },
     {
       "trait_type": "Gender",
-      "value": "Yes"
+      "value": "Dilettante"
     },
     {
       "trait_type": "Hat",
-      "value": 5
+      "value": 8
     },
     {
       "trait_type": "Heart",
@@ -65,21 +65,35 @@
     },
     {
       "trait_type": "Magic",
-      "value": 2
+      "value": 6
     },
     {
       "trait_type": "Size",
-      "value": 3
+      "value": 5
     },
     {
       "trait_type": "Speed",
       "value": 4
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "B+"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Job",
+      "value": "au pair"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Waimauku"
     }
   ],
-  "dna": "996ef0eb803a06878d63ce5d24d9614dcf80c86f",
+  "dna": "9ee85eb51e8275b2db633e31ef062827463a0ea1",
   "edition": 8,
-  "external_url": "https://BHGC.no",
-  "date": 1652054010251,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748023726,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

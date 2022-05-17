@@ -1,6 +1,6 @@
 {
-  "name": "Alec",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Alec’s. \n\nThis bird's full name is Alec A Alden, but everyone calls it Alec. He is the most untidy bird in Oceanic-Northland Region. \n\nIt loves to eat tamarinds although it will finish nearly anything.\n\nAlec is a Cancer with a blood type of Dark Red who relishes nights and beavers. However, Alec objects to curves. By day, Alec is a simple Payroll Supervisor. By night, he enjoys Sketching. \n\nAlec’s secret is that he has an untouched videogame backlog stretching back to 2005. He has a hat that can't sing. The hat’s name is Dexter. \n",
+  "name": "Chaz",
+  "description": "This bird is called Chaz. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Chaz S Hollie, but its best friends call it by its queasy nickname, Lottie. It is the most tight bird in Owhango. \n\nChaz loves to eat succotash, although it will consume nearly anything that it considers sufficiently tepid. \n\nChaz is a Ophiuchus with a blood type of Melancholic, who fancies vests and shoulders. However, Chaz abhors cousins. By day, Chaz works as a simple shunter. By night, it enjoys flag football. \n\nChaz’s secret is that it is never late, nor early, arrives precisely when means to. It has a hat that plays the guitar but only the same three songs that it learned as a teenager. The hat’s name is Guadalupe.",
   "image": "https://bhgc-dev.github.io/test/images/65.png",
   "attributes": [
     {
@@ -13,15 +13,15 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit spats"
+      "value": "legs fantail boots"
     },
     {
       "trait_type": "wings",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye fantail"
+      "value": "eye black"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "fantail"
+      "value": "corvid"
     },
     {
       "trait_type": "glasses",
@@ -45,41 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf pink purple stripes"
+      "value": "clothes scarf green"
     },
     {
       "trait_type": "hats",
-      "value": "pirate black"
+      "value": "cowboy blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Agender"
     },
     {
       "trait_type": "Hat",
-      "value": 4
+      "value": 7
     },
     {
       "trait_type": "Heart",
-      "value": 1
+      "value": 6
     },
     {
       "trait_type": "Magic",
-      "value": 2
+      "value": 7
     },
     {
       "trait_type": "Size",
-      "value": 5
+      "value": 6
     },
     {
       "trait_type": "Speed",
-      "value": 1
+      "value": 8
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "Melancholic"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Ophiuchus"
+    },
+    {
+      "trait_type": "Job",
+      "value": "shunter"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Owhango"
     }
   ],
-  "dna": "f00ada791da61452b3f09753120ef4a87aba9772",
+  "dna": "0cbfdcbfb6e9e24bbc1fb5ebb3d95d7bb2f8eba4",
   "edition": 65,
-  "external_url": "https://BHGC.no",
-  "date": 1652054008865,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748020713,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

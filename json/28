@@ -1,11 +1,11 @@
 {
-  "name": "Adalyn",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Adalyn’s. \n\nThis bird's full name is Adalyn E Cecil, but everyone calls it Adalyn. It is the most tricky bird in Britannia. \n\nIt loves to eat imitation although it will tuck into nearly anything.\n\nAdalyn is a Taurus with a blood type of K who enjoys circles and wallabies. However, Adalyn disesteems harmonies. By day, Adalyn is a simple Acupuncturist. By night, it enjoys Leather crafting. \n\nAdalyn’s secret is that it longs for the skies. It has a hat that works all night and sleeps all day. The hat’s name is Darrell. \n",
+  "name": "Dane",
+  "description": "This bird is called Dane. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Dane L Meta, but his best friends call him by his agitated nickname, Kimberly. He is the most dreary bird in Kohimarama East. \n\nDane loves to eat phyllo, although he will eat nearly anything that it considers sufficiently frivolous. \n\nDane is a Scorpio with a blood type of ZX Spectral, who freaks out about vests and forests. However, Dane disesteems triangles. By day, Dane works as a simple temperature time. By night, he enjoys shopping. \n\nDane’s secret is that he eavesdrops. He has a hat that did not participate in Gamergate. The hat’s name is Carson.",
   "image": "https://bhgc-dev.github.io/test/images/28.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
@@ -13,73 +13,87 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail tomtit"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
-      "value": "chest white"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs kiwi"
+      "value": "legs fantail"
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
-      "value": "eye gormless"
+      "value": "eye rainbow gradient"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle fantail"
+      "value": "wattle tomtit"
     },
     {
       "trait_type": "beaks",
-      "value": "beak kiwi"
+      "value": "corvid blood"
     },
     {
       "trait_type": "glasses",
-      "value": "glasses none"
+      "value": "aviators"
     },
     {
       "trait_type": "clothes",
-      "value": "tie purple"
+      "value": "clothes scarf pink blue stripes"
     },
     {
       "trait_type": "hats",
-      "value": "hat tophat symbol e"
+      "value": "pirate blue png"
     },
     {
       "trait_type": "Gender",
-      "value": "Non-binary"
+      "value": "Male"
     },
     {
       "trait_type": "Hat",
-      "value": 5
+      "value": 6
     },
     {
       "trait_type": "Heart",
-      "value": 5
+      "value": 3
     },
     {
       "trait_type": "Magic",
-      "value": 4
+      "value": 6
     },
     {
       "trait_type": "Size",
-      "value": 5
+      "value": 2
     },
     {
       "trait_type": "Speed",
-      "value": 4
+      "value": 8
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "ZX Spectral"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Job",
+      "value": "temperature time"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Kohimarama East"
     }
   ],
-  "dna": "f3952b827f8f86607dca15821575f6ca6820adf8",
+  "dna": "bb60d3f020b2af39cf4397298853d9e326fba7c6",
   "edition": 28,
-  "external_url": "https://BHGC.no",
-  "date": 1652054001157,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748019627,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

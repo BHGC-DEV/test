@@ -1,6 +1,6 @@
 {
-  "name": "Kaydence",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Kaydence’s. \n\nThis bird's full name is Kaydence O Elvera, but everyone calls it Kaydence. She is the most prudent bird in Pencarrow. \n\nIt loves to eat meatloaf although it will eat nearly anything.\n\nKaydence is a Virgo with a blood type of O- who rejoices in hyenas and weapons. However, Kaydence disesteems evenings. By day, Kaydence is a simple Homecare Manager. By night, she enjoys Water sports. \n\nKaydence’s secret is that she works all night and sleeps all day. She has a hat that it can never remove. The hat’s name is Elfrieda. \n",
+  "name": "Jaden",
+  "description": "This bird is called Jaden. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Jaden X Alton, but its best friends call it by its ill-informed nickname, Lamont. It is the most villainous bird in Herekino. \n\nJaden loves to eat spelt, although it will obliterate nearly anything that it considers sufficiently meaty. \n\nJaden is a Sagittarius with a blood type of AB-, who freaks out about sparrows and stones. However, Jaden despises musics. By day, Jaden works as a simple grocer. By night, it enjoys hiking. \n\nJaden’s secret is that it has no clout. It has a hat that has the second personality of a ruthless bully. The hat’s name is Alverda.",
   "image": "https://bhgc-dev.github.io/test/images/73.png",
   "attributes": [
     {
@@ -13,31 +13,31 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail tomtit"
+      "value": "tail kiwi"
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "fantail chest"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit"
+      "value": "legs tomtit spats"
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye human"
+      "value": "eye black"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "beak tomtit"
+      "value": "corvid blood"
     },
     {
       "trait_type": "glasses",
@@ -45,41 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "bowtie black"
+      "value": "tie sunflowers"
     },
     {
       "trait_type": "hats",
-      "value": "pirate pink"
+      "value": "cowboy blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Unassigned"
+      "value": "Tau"
     },
     {
       "trait_type": "Hat",
-      "value": 3
+      "value": 6
     },
     {
       "trait_type": "Heart",
-      "value": 2
+      "value": 1
     },
     {
       "trait_type": "Magic",
-      "value": 2
+      "value": 1
     },
     {
       "trait_type": "Size",
-      "value": 3
+      "value": 1
     },
     {
       "trait_type": "Speed",
-      "value": 4
+      "value": 6
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "AB-"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Job",
+      "value": "grocer"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Herekino"
     }
   ],
-  "dna": "912cf11e831c346b52a9c64524a3af43fcfba8da",
+  "dna": "27e4eeec493fa49e7c199fc01575d626a649709f",
   "edition": 73,
-  "external_url": "https://BHGC.no",
-  "date": 1652054002101,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "N"
+  "date": 1652748022908,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

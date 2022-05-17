@@ -1,11 +1,11 @@
 {
-  "name": "Lincoln",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Lincoln’s. \n\nThis bird's full name is Lincoln [ Curtis, but everyone calls it Lincoln. It is the most clueless bird in Te Kuiti. \n\nIt loves to eat cilantro although it will nyam nearly anything.\n\nLincoln is a Pisces with a blood type of B- who relishes dogs and zebras. However, Lincoln objects to beaches. By day, Lincoln is a simple Violinist. By night, it enjoys Hiking. \n\nLincoln’s secret is that it thinks the series peaked with Season 7. It has a hat that doesn't think things through. The hat’s name is Jonnie. \n",
+  "name": "Amara",
+  "description": "This bird is called Amara. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Amara M Emmer, but its best friends call it by its indelible nickname, Clair. It is the most unsung bird in Hokitika Valley. \n\nAmara loves to eat salad, although it will nyam nearly anything that it considers sufficiently obedient. \n\nAmara is a Leo with a blood type of Choleric, who rejoices in ideas and halls. However, Amara antipathizes smokes. By day, Amara works as a simple remedial therapist. By night, it enjoys playing musical instruments. \n\nAmara’s secret is that it buys NFTs. It has a hat that is Satoshi Nakamoto. The hat’s name is Sigrid.",
   "image": "https://bhgc-dev.github.io/test/images/46.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
@@ -17,11 +17,11 @@
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit spats"
+      "value": "legs fantail"
     },
     {
       "trait_type": "wings",
@@ -29,57 +29,71 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye fantail"
+      "value": "eye green"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "fantail"
+      "value": "corvid blood"
     },
     {
       "trait_type": "glasses",
-      "value": "aviators"
+      "value": "glasses none"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf purple"
+      "value": "clothes scarf yellow"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy simple corks"
+      "value": "cowboy maroon"
     },
     {
       "trait_type": "Gender",
-      "value": "No"
+      "value": "Miscellaneous"
     },
     {
       "trait_type": "Hat",
-      "value": 2
+      "value": 7
     },
     {
       "trait_type": "Heart",
-      "value": 3
-    },
-    {
-      "trait_type": "Magic",
       "value": 4
     },
     {
+      "trait_type": "Magic",
+      "value": 8
+    },
+    {
       "trait_type": "Size",
-      "value": 3
+      "value": 7
     },
     {
       "trait_type": "Speed",
-      "value": 3
+      "value": 7
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "Choleric"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Job",
+      "value": "remedial therapist"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Hokitika Valley"
     }
   ],
-  "dna": "8ef4d8a7a423683450c27d636a95c956b989872f",
+  "dna": "50d9c4c4a8513c860376e420eaa93f67088fe874",
   "edition": 46,
-  "external_url": "https://BHGC.no",
-  "date": 1652054009570,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748013432,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

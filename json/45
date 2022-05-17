@@ -1,6 +1,6 @@
 {
-  "name": "Kirsten",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Kirsten’s. \n\nThis bird's full name is Kirsten H Constance, but everyone calls it Kirsten. She is the most wrong bird in Wadestown. \n\nIt loves to eat cranberry-orange although it will get stuck into nearly anything.\n\nKirsten is a Gemini with a blood type of Useful who loves bacons and bites. However, Kirsten scorns swordfishes. By day, Kirsten is a simple Recovery Vehicle Coordinator. By night, she enjoys Netball. \n\nKirsten’s secret is that she spreads disinformation. She has a hat that votes Right. The hat’s name is Murphy. \n",
+  "name": "Lillian",
+  "description": "This bird is called Lillian. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Lillian B Lula, but her best friends call her by her shoddy nickname, Obed. She is the most querulous bird in Wharenui. \n\nLillian loves to eat people, although she will annihilate nearly anything that it considers sufficiently ancient. \n\nLillian is a Aries with a blood type of H, who delights in beasts and pollutions. However, Lillian does not take kindly to stations. By day, Lillian works as a simple travel representative. By night, she enjoys mountain biking. \n\nLillian’s secret is that she is a lil' ball of love and affection. She has a hat that longs to drive F1 cars. The hat’s name is Salvatore.",
   "image": "https://bhgc-dev.github.io/test/images/45.png",
   "attributes": [
     {
@@ -13,15 +13,15 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
-      "value": "legs kiwi"
+      "value": "legs fantail"
     },
     {
       "trait_type": "wings",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye human"
+      "value": "eye normal"
     },
     {
       "trait_type": "wattles",
@@ -37,49 +37,63 @@
     },
     {
       "trait_type": "beaks",
-      "value": "corvid"
+      "value": "corvid blood"
     },
     {
       "trait_type": "glasses",
-      "value": "aviators"
+      "value": "glasses none"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf blue"
+      "value": "clothes scarf black red stripes"
     },
     {
       "trait_type": "hats",
-      "value": "hat tophat symbol b"
+      "value": "pirate pink"
     },
     {
       "trait_type": "Gender",
-      "value": "Unassigned"
+      "value": "Female"
     },
     {
       "trait_type": "Hat",
-      "value": 2
+      "value": 7
     },
     {
       "trait_type": "Heart",
-      "value": 3
+      "value": 6
     },
     {
       "trait_type": "Magic",
-      "value": 5
+      "value": 2
     },
     {
       "trait_type": "Size",
-      "value": 3
+      "value": 1
     },
     {
       "trait_type": "Speed",
-      "value": 1
+      "value": 2
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "H"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Job",
+      "value": "travel representative"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Wharenui"
     }
   ],
-  "dna": "02a006ae78e1c8dca24e0cc33714069cd9d0ff06",
+  "dna": "194598a51fcce7a1944f9fd36e342f94987b7829",
   "edition": 45,
-  "external_url": "https://BHGC.no",
-  "date": 1652054001595,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748017727,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

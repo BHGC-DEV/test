@@ -1,15 +1,15 @@
 {
-  "name": "Javon",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Javon’s. \n\nThis bird's full name is Javon C Flora, but everyone calls it Javon. It is the most vain bird in Amisfield. \n\nIt loves to eat fruit although it will chaw nearly anything.\n\nJavon is a Scorpio with a blood type of K who delights in hats and dreams. However, Javon shuns hairs. By day, Javon is a simple Stocktaker. By night, it enjoys Fashion. \n\nJavon’s secret is that it is a motherflippin' wizard. It has a hat that will fight you. The hat’s name is Leonie. \n",
+  "name": "Jadyn",
+  "description": "This bird is called Jadyn. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Jadyn U Blanch, but their best friends call them by their rotten nickname, Jo. They is the most windy bird in Wharekaka. \n\nJadyn loves to eat chives, although they will annihilate nearly anything that it considers sufficiently spirited. \n\nJadyn is a Pisces with a blood type of H, who delights in sharks and health. However, Jadyn objects to cats. By day, Jadyn works as a simple laboratory analyst. By night, they enjoys ice skating. \n\nJadyn’s secret is that they does tiny watercolours. They has a hat that thinks memes are serious business. The hat’s name is Octavia.",
   "image": "https://bhgc-dev.github.io/test/images/68.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
@@ -17,11 +17,11 @@
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail"
+      "value": "legs kiwi"
     },
     {
       "trait_type": "wings",
@@ -33,11 +33,11 @@
     },
     {
       "trait_type": "wattles",
-      "value": "wattle fantail"
+      "value": "wattle tomtit"
     },
     {
       "trait_type": "beaks",
-      "value": "fantail"
+      "value": "corvid blood"
     },
     {
       "trait_type": "glasses",
@@ -45,41 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf black purple stripes"
+      "value": "tie hearts"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy purple"
+      "value": "cowboy simple corks"
     },
     {
       "trait_type": "Gender",
-      "value": "Miscellaneous"
+      "value": "Unknown"
     },
     {
       "trait_type": "Hat",
-      "value": 5
+      "value": 6
     },
     {
       "trait_type": "Heart",
-      "value": 4
+      "value": 7
     },
     {
       "trait_type": "Magic",
-      "value": 4
+      "value": 8
     },
     {
       "trait_type": "Size",
-      "value": 5
+      "value": 1
     },
     {
       "trait_type": "Speed",
-      "value": 5
+      "value": 2
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "H"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Job",
+      "value": "laboratory analyst"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Wharekaka"
     }
   ],
-  "dna": "7b366f0171c3d24211de21a1dad23cec7243bd77",
+  "dna": "53529a0e04d2aa1059e92b6918af239b312028a2",
   "edition": 68,
-  "external_url": "https://BHGC.no",
-  "date": 1652054010969,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748015162,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

@@ -1,19 +1,19 @@
 {
-  "name": "Clay",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Clay’s. \n\nThis bird's full name is Clay Y Lela, but everyone calls it Clay. He is the most prestigious bird in Highlands Park. \n\nIt loves to eat borage although it will devour nearly anything.\n\nClay is a Cancer with a blood type of Zoinks who revels in silvers and kicks. However, Clay deplores wishes. By day, Clay is a simple Window Dresser. By night, he enjoys Mountaineering. \n\nClay’s secret is that he trusts the Free Market to sort everything out. He has a hat that causes excessive yawning. The hat’s name is Doyle. \n",
+  "name": "Victoria",
+  "description": "This bird is called Victoria. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Victoria R Evie, but her best friends call her by her sweltering nickname, Ellen. She is the most glamorous bird in Awanui. \n\nVictoria loves to eat berries, although she will devour nearly anything that it considers sufficiently dependent. \n\nVictoria is a Capricorn with a blood type of O+, who appreciates sneezes and sheep. However, Victoria deplores riddles. By day, Victoria works as a simple pipe inspector. By night, she enjoys taekwondo. \n\nVictoria’s secret is that she is rambunctious. She has a hat that increases DEX by +2. The hat’s name is Oda.",
   "image": "https://bhgc-dev.github.io/test/images/63.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye black"
+      "value": "eye gormless"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle fantail"
+      "value": "wattle tomtit"
     },
     {
       "trait_type": "beaks",
-      "value": "fantail"
+      "value": "beak tomtit"
     },
     {
       "trait_type": "glasses",
@@ -45,11 +45,11 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf black"
+      "value": "bowtie red"
     },
     {
       "trait_type": "hats",
-      "value": "pirate black"
+      "value": "hat tophat symbol b"
     },
     {
       "trait_type": "Gender",
@@ -57,7 +57,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": 2
+      "value": 8
     },
     {
       "trait_type": "Heart",
@@ -65,21 +65,35 @@
     },
     {
       "trait_type": "Magic",
-      "value": 2
+      "value": 3
     },
     {
       "trait_type": "Size",
-      "value": 4
+      "value": 7
     },
     {
       "trait_type": "Speed",
-      "value": 2
+      "value": 5
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "O+"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Job",
+      "value": "pipe inspector"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Awanui"
     }
   ],
-  "dna": "40a25146d3dee8ea4c18f8c7ca52633f873e977a",
+  "dna": "90389d28c030f44c4f6bbc93cb756d57b82c3196",
   "edition": 63,
-  "external_url": "https://BHGC.no",
-  "date": 1652054014079,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "N"
+  "date": 1652748012072,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

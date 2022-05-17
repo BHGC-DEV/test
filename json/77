@@ -1,6 +1,6 @@
 {
-  "name": "Owen",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Owen’s. \n\nThis bird's full name is Owen I Leonora, but everyone calls it Owen. It is the most forsaken bird in Linton Military Camp. \n\nIt loves to eat smelt although it will tuck into nearly anything.\n\nOwen is a Virgo with a blood type of Elf who revels in pansies and trains. However, Owen objects to theaters. By day, Owen is a simple Inventor. By night, it enjoys Dance. \n\nOwen’s secret is that it risks it all on one turn of pitch-and-toss. It has a hat that writes bestselling books about wizards before going into a very public decline. The hat’s name is Bonnie. \n",
+  "name": "Marissa",
+  "description": "This bird is called Marissa. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Marissa B Oral, but its best friends call it by its damaged nickname, Delphi. It is the most handsome bird in Parklands. \n\nMarissa loves to eat eppaw, although it will partake of nearly anything that it considers sufficiently glass. \n\nMarissa is a Libra with a blood type of NaCl, who revels in ideas and diets. However, Marissa abhors sauces. By day, Marissa works as a simple air traffic controller. By night, it enjoys board sports. \n\nMarissa’s secret is that it grooves to the beat. It has a hat that lives in a beehive. The hat’s name is Abel.",
   "image": "https://bhgc-dev.github.io/test/images/77.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body fantail"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail"
+      "value": "legs fantail boots"
     },
     {
       "trait_type": "wings",
@@ -29,57 +29,71 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye white"
+      "value": "eye human"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "corvid"
+      "value": "beak kiwi"
     },
     {
       "trait_type": "glasses",
-      "value": "glasses none"
+      "value": "aviators blue"
     },
     {
       "trait_type": "clothes",
-      "value": "tie bubbles"
+      "value": "tie hearts"
     },
     {
       "trait_type": "hats",
-      "value": "pirate purple"
+      "value": "farm black"
     },
     {
       "trait_type": "Gender",
-      "value": "Miscellaneous"
+      "value": "Pi"
     },
     {
       "trait_type": "Hat",
-      "value": 3
-    },
-    {
-      "trait_type": "Heart",
-      "value": 4
-    },
-    {
-      "trait_type": "Magic",
-      "value": 3
-    },
-    {
-      "trait_type": "Size",
       "value": 5
     },
     {
-      "trait_type": "Speed",
+      "trait_type": "Heart",
       "value": 2
+    },
+    {
+      "trait_type": "Magic",
+      "value": 1
+    },
+    {
+      "trait_type": "Size",
+      "value": 3
+    },
+    {
+      "trait_type": "Speed",
+      "value": 5
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "NaCl"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Job",
+      "value": "air traffic controller"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Parklands"
     }
   ],
-  "dna": "56cb54ca0db9be65b45ebe394763fb776e29b404",
+  "dna": "5a9661749a65e7a14e6722d3bf37fe7d8dddcf8a",
   "edition": 77,
-  "external_url": "https://BHGC.no",
-  "date": 1652054009704,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "N"
+  "date": 1652748018743,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

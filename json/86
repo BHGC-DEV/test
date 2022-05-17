@@ -1,23 +1,23 @@
 {
-  "name": "Sergio",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Sergio’s. \n\nThis bird's full name is Sergio H Kirk, but everyone calls it Sergio. It is the most bumpy bird in Raupunga. \n\nIt loves to eat flour although it will shovel down nearly anything.\n\nSergio is a Cancer with a blood type of Retiring who delights in plates and kitchens. However, Sergio eschews camels. By day, Sergio is a simple Bus Valeter. By night, it enjoys BASE jumping. \n\nSergio’s secret is that it slacks off during video meetings. It has a hat that causes excessive yawning. The hat’s name is Joan. \n",
+  "name": "Henry",
+  "description": "This bird is called Henry. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Henry Y Myrtis, but its best friends call it by its actual nickname, Riche. It is the most idealistic bird in Broad Bay-Portobello. \n\nHenry loves to eat fat, although it will obliterate nearly anything that it considers sufficiently lanky. \n\nHenry is a Taurus with a blood type of Dark Red, who loves hurricanes and thrones. However, Henry detests bulldozers. By day, Henry works as a simple counsellor. By night, it enjoys machining. \n\nHenry’s secret is that it plays guitar, poorly. It has a hat that has the second personality of a ruthless bully. The hat’s name is Moses.",
   "image": "https://bhgc-dev.github.io/test/images/86.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background white"
+      "value": "background blue"
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail kiwi"
     },
     {
       "trait_type": "chests",
-      "value": "chest white"
+      "value": "fantail chest"
     },
     {
       "trait_type": "legs",
@@ -25,61 +25,75 @@
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
-      "value": "eye green"
+      "value": "eye human"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "fantail"
+      "value": "corvid blood"
     },
     {
       "trait_type": "glasses",
-      "value": "glasses none"
+      "value": "aviators"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf white"
+      "value": "bowtie blue"
     },
     {
       "trait_type": "hats",
-      "value": "farm"
+      "value": "farm blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Unknown"
+      "value": "Dilettante"
     },
     {
       "trait_type": "Hat",
-      "value": 2
+      "value": 8
     },
     {
       "trait_type": "Heart",
-      "value": 1
+      "value": 4
     },
     {
       "trait_type": "Magic",
-      "value": 3
+      "value": 6
     },
     {
       "trait_type": "Size",
-      "value": 5
+      "value": 2
     },
     {
       "trait_type": "Speed",
-      "value": 4
+      "value": 6
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "Dark Red"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Job",
+      "value": "counsellor"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Broad Bay-Portobello"
     }
   ],
-  "dna": "fb04ac211fcdbebcc0908363d51dad1e861c4f5f",
+  "dna": "37211e74afe408b9c8d6ae8beed6e4cfaf4e5743",
   "edition": 86,
-  "external_url": "https://BHGC.no",
-  "date": 1652054002665,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "N"
+  "date": 1652748016393,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

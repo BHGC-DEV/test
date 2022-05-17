@@ -1,6 +1,6 @@
 {
-  "name": "Gaige",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Gaige’s. \n\nThis bird's full name is Gaige G Corene, but everyone calls it Gaige. It is the most bubbly bird in Tokorangi-Hiwinui. \n\nIt loves to eat shells although it will obliterate nearly anything.\n\nGaige is a Aries with a blood type of AB+ who adores hips and kites. However, Gaige scorns answers. By day, Gaige is a simple Inventor. By night, it enjoys Cabaret. \n\nGaige’s secret is that it didn't bring a coat. It has a hat that enjoys spreadsheets. The hat’s name is Margie. \n",
+  "name": "Albert",
+  "description": "This bird is called Albert. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Albert G Satoshi, but its best friends call it by its visible nickname, Ann. It is the most dreary bird in Plains Railway. \n\nAlbert loves to eat turnovers, although it will consume nearly anything that it considers sufficiently unaware. \n\nAlbert is a Virgo with a blood type of A-, who likes rubbers and maps. However, Albert eschews quilts. By day, Albert works as a simple training officer. By night, it enjoys kabaddi. \n\nAlbert’s secret is that it stans too hard. It has a hat that has never known happiness. The hat’s name is Wilson.",
   "image": "https://bhgc-dev.github.io/test/images/76.png",
   "attributes": [
     {
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail boots"
+      "value": "legs kiwi"
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye black"
+      "value": "eye normal"
     },
     {
       "trait_type": "wattles",
@@ -45,41 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "bowtie red"
+      "value": "bowtie black"
     },
     {
       "trait_type": "hats",
-      "value": "hat tophat symbol b"
+      "value": "farm blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Non-binary"
+      "value": "Miscellaneous"
     },
     {
       "trait_type": "Hat",
-      "value": 3
+      "value": 7
     },
     {
       "trait_type": "Heart",
-      "value": 5
+      "value": 4
     },
     {
       "trait_type": "Magic",
-      "value": 5
+      "value": 8
     },
     {
       "trait_type": "Size",
-      "value": 1
+      "value": 7
     },
     {
       "trait_type": "Speed",
-      "value": 3
+      "value": 5
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "A-"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Job",
+      "value": "training officer"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Plains Railway"
     }
   ],
-  "dna": "27e66c92f1e8becf0ae6a8d8c4b1891c83d78492",
+  "dna": "91c61f8023b7bdda98a4aefbb08f5c6d4d6f47d6",
   "edition": 76,
-  "external_url": "https://BHGC.no",
-  "date": 1652054006842,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748018480,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

@@ -1,11 +1,11 @@
 {
-  "name": "Orlando",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Orlando’s. \n\nThis bird's full name is Orlando H Dee, but everyone calls it Orlando. It is the most repentant bird in Maungakotukutuku. \n\nIt loves to eat strudel although it will gobble nearly anything.\n\nOrlando is a Aquarius with a blood type of Oleaginous who adores sharks and cereals. However, Orlando does not take kindly to churches. By day, Orlando is a simple Chimney Sweep. By night, it enjoys Inline skating. \n\nOrlando’s secret is that it spreads butter. It has a hat that belonged to an ancient spirit. The hat’s name is Earle. \n",
+  "name": "Wyatt",
+  "description": "This bird is called Wyatt. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Wyatt B Dannie, but its best friends call it by its well-lit nickname, Bo. It is the most unhappy bird in Broad Bay-Portobello. \n\nWyatt loves to eat knackwurst, although it will destroy nearly anything that it considers sufficiently failing. \n\nWyatt is a Sagittarius with a blood type of O-, who adores maps and fishes. However, Wyatt does not take kindly to silks. By day, Wyatt works as a simple classroom aide. By night, it enjoys sand art. \n\nWyatt’s secret is that it wants to put a dent in the world. It has a hat that sighs too loudly. The hat’s name is Marian.",
   "image": "https://bhgc-dev.github.io/test/images/6.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background white"
+      "value": "background blue"
     },
     {
       "trait_type": "bodies",
@@ -13,31 +13,31 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail kiwi"
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit"
+      "value": "legs tomtit spats"
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye fantail"
+      "value": "eye normal"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle fantail"
+      "value": "wattle tomtit"
     },
     {
       "trait_type": "beaks",
-      "value": "corvid"
+      "value": "fantail scold"
     },
     {
       "trait_type": "glasses",
@@ -45,19 +45,19 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf purple"
+      "value": "clothes scarf black"
     },
     {
       "trait_type": "hats",
-      "value": "farm black"
+      "value": "pirate blue png"
     },
     {
       "trait_type": "Gender",
-      "value": "Non-binary"
+      "value": "Miscellaneous"
     },
     {
       "trait_type": "Hat",
-      "value": 2
+      "value": 5
     },
     {
       "trait_type": "Heart",
@@ -65,21 +65,35 @@
     },
     {
       "trait_type": "Magic",
-      "value": 5
+      "value": 1
     },
     {
       "trait_type": "Size",
-      "value": 1
+      "value": 5
     },
     {
       "trait_type": "Speed",
-      "value": 1
+      "value": 5
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "O-"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Job",
+      "value": "classroom aide"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Broad Bay-Portobello"
     }
   ],
-  "dna": "73fb89e2b01daaa780d0437a36bd74b9ee8e9c93",
+  "dna": "4b85803f25f3930183369e5a436cf13a0cdbf3ea",
   "edition": 6,
-  "external_url": "https://BHGC.no",
-  "date": 1652054001007,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748020450,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

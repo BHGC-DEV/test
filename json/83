@@ -1,23 +1,23 @@
 {
-  "name": "Zackary",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Zackary’s. \n\nThis bird's full name is Zackary I Earlie, but everyone calls it Zackary. It is the most tricky bird in Avondale West. \n\nIt loves to eat refried beans although it will tuck into nearly anything.\n\nZackary is a Leo with a blood type of Melancholic who rejoices in motorboats and dishes. However, Zackary disesteems beasts. By day, Zackary is a simple Janitor. By night, it enjoys Kite flying. \n\nZackary’s secret is that it owns property. It has a hat that was once highly fashionable. The hat’s name is Lavada. \n",
+  "name": "Michaela",
+  "description": "This bird is called Michaela. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Michaela E Jewel, but its best friends call it by its jumbo nickname, Deedee. It is the most studious bird in Marchwiel. \n\nMichaela loves to eat mushrooms, although it will chow down nearly anything that it considers sufficiently Spanish. \n\nMichaela is a Aquarius with a blood type of B+, who rejoices in planes and sinks. However, Michaela despises wounds. By day, Michaela works as a simple zoo keeper. By night, it enjoys acting. \n\nMichaela’s secret is that it lays bad eggs. It has a hat that cares for plants. The hat’s name is Everette.",
   "image": "https://bhgc-dev.github.io/test/images/83.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background white"
+      "value": "background blue"
     },
     {
       "trait_type": "bodies",
-      "value": "body fantail"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
-      "value": "eye green"
+      "value": "eye angry red"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "duck"
+      "value": "corvid"
     },
     {
       "trait_type": "glasses",
@@ -45,27 +45,23 @@
     },
     {
       "trait_type": "clothes",
-      "value": "tie hearts"
-    },
-    {
-      "trait_type": "sketchy",
-      "value": "sketchy"
+      "value": "tie bubbles"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy blue"
+      "value": "farm brown"
     },
     {
       "trait_type": "Gender",
-      "value": "Pi"
+      "value": "Tau"
     },
     {
       "trait_type": "Hat",
-      "value": 3
+      "value": 4
     },
     {
       "trait_type": "Heart",
-      "value": 4
+      "value": 6
     },
     {
       "trait_type": "Magic",
@@ -77,13 +73,27 @@
     },
     {
       "trait_type": "Speed",
-      "value": 4
+      "value": 8
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "B+"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Job",
+      "value": "zoo keeper"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Marchwiel"
     }
   ],
-  "dna": "b11e34a1b2e76a1fed0d772355d19d1ecc7ea782",
+  "dna": "ad3d5f57ee5cec79439416577efe00586eab7edf",
   "edition": 83,
-  "external_url": "https://BHGC.no",
-  "date": 1652054007494,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748014495,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

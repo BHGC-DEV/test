@@ -1,6 +1,6 @@
 {
-  "name": "Aldo",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Aldo’s. \n\nThis bird's full name is Aldo W Adela, but everyone calls it Aldo. It is the most limp bird in Otumoetai North. \n\nIt loves to eat ginger although it will partake of nearly anything.\n\nAldo is a Ophiuchus with a blood type of AB- who appreciates bites and crops. However, Aldo is averse to gyms. By day, Aldo is a simple Employment. By night, it enjoys Baseball. \n\nAldo’s secret is that it disappoints. It has a hat that has walked five thousand miles and will walk five thousand more. The hat’s name is Lera. \n",
+  "name": "Stephany",
+  "description": "This bird is called Stephany. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Stephany B Roy, but her best friends call her by her poor nickname, Curg. She is the most lumpy bird in Ellerslie South. \n\nStephany loves to eat yams, although she will gulp nearly anything that it considers sufficiently courageous. \n\nStephany is a Sagittarius with a blood type of AB-, who relishes softballs and scissors. However, Stephany is averse to pastas. By day, Stephany works as a simple law clerk. By night, she enjoys rock climbing. \n\nStephany’s secret is that she is never gonna tell a lie and hurt you. She has a hat that recycles assiduously. The hat’s name is Elsie.",
   "image": "https://bhgc-dev.github.io/test/images/56.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body fantail"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
@@ -21,23 +21,23 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit"
+      "value": "legs fantail"
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye black"
+      "value": "eye spiral"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle fantail"
+      "value": "wattle tomtit"
     },
     {
       "trait_type": "beaks",
-      "value": "corvid blood"
+      "value": "fantail"
     },
     {
       "trait_type": "glasses",
@@ -45,19 +45,19 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf black blue stripes"
+      "value": "clothes scarf purple"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy purple"
+      "value": "wizard blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Non-binary"
+      "value": "Female"
     },
     {
       "trait_type": "Hat",
-      "value": 3
+      "value": 8
     },
     {
       "trait_type": "Heart",
@@ -65,7 +65,7 @@
     },
     {
       "trait_type": "Magic",
-      "value": 4
+      "value": 8
     },
     {
       "trait_type": "Size",
@@ -73,13 +73,27 @@
     },
     {
       "trait_type": "Speed",
-      "value": 2
+      "value": 3
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "AB-"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Job",
+      "value": "law clerk"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Ellerslie South"
     }
   ],
-  "dna": "01e3cbe3432e4fbbffbbefabff15d79133dfaa66",
+  "dna": "39f51ea72436689500cc3c62fd41c32a7b31548c",
   "edition": 56,
-  "external_url": "https://BHGC.no",
-  "date": 1652054003360,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "N"
+  "date": 1652748019340,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

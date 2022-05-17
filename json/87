@@ -1,6 +1,6 @@
 {
-  "name": "Aldo",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Aldo’s. \n\nThis bird's full name is Aldo M Leontine, but everyone calls it Aldo. It is the most utilized bird in Ngauranga West. \n\nIt loves to eat salmonberries although it will eat nearly anything.\n\nAldo is a Virgo with a blood type of Yaas who freaks out about rewards and crops. However, Aldo does not take kindly to pastries. By day, Aldo is a simple Literary Agent. By night, it enjoys Mountaineering. \n\nAldo’s secret is that it taps along to the beat of the music. It has a hat that cannot keep secrets. The hat’s name is Mamie. \n",
+  "name": "Baron",
+  "description": "This bird is called Baron. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Baron X Ernesto, but their best friends call them by their gregarious nickname, Fina. They is the most needy bird in Chedworth. \n\nBaron loves to eat parfait, although they will scoff nearly anything that it considers sufficiently flawless. \n\nBaron is a Capricorn with a blood type of B+, who adores ships and swans. However, Baron loathes hoods. By day, Baron works as a simple administration clerk. By night, they enjoys pet. \n\nBaron’s secret is that they lives, loves, laughs.. They has a hat that has too many kinks. The hat’s name is Avis.",
   "image": "https://bhgc-dev.github.io/test/images/87.png",
   "attributes": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
@@ -17,11 +17,11 @@
     },
     {
       "trait_type": "chests",
-      "value": "chest white"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail"
+      "value": "legs tomtit spats"
     },
     {
       "trait_type": "wings",
@@ -45,27 +45,27 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf blue"
+      "value": "bowtie black"
     },
     {
       "trait_type": "hats",
-      "value": "farm brown"
+      "value": "farm blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Unknown"
     },
     {
       "trait_type": "Hat",
-      "value": 1
+      "value": 5
     },
     {
       "trait_type": "Heart",
-      "value": 1
+      "value": 4
     },
     {
       "trait_type": "Magic",
-      "value": 2
+      "value": 8
     },
     {
       "trait_type": "Size",
@@ -73,13 +73,27 @@
     },
     {
       "trait_type": "Speed",
-      "value": 3
+      "value": 7
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "B+"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Job",
+      "value": "administration clerk"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Chedworth"
     }
   ],
-  "dna": "31ce3060a9e95aaafea0a95fd6c6220a393a1515",
+  "dna": "a45a60dec8f507a0a1abe224a6f0c6d1f680c3ec",
   "edition": 87,
-  "external_url": "https://BHGC.no",
-  "date": 1652054013822,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748013129,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

@@ -1,19 +1,19 @@
 {
-  "name": "Averie",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Averie’s. \n\nThis bird's full name is Averie K Valerie, but everyone calls it Averie. It is the most lined bird in Grenada North. \n\nIt loves to eat nuts although it will nom nom nom nearly anything.\n\nAverie is a Gemini with a blood type of B+ who loves brothers and whips. However, Averie disapproves of zippers. By day, Averie is a simple Metallurgist. By night, it enjoys Glassblowing. \n\nAverie’s secret is that it speaks truth. It has a hat that is a bad influence. The hat’s name is Johnie. \n",
+  "name": "King",
+  "description": "This bird is called King. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is King D Hassie, but their best friends call them by their jolly nickname, Del. They is the most agitated bird in Sandymount. \n\nKing loves to eat candies, although they will polish off nearly anything that it considers sufficiently foolish. \n\nKing is a Cancer with a blood type of A-, who freaks out about swallows and CDs. However, King does not take kindly to grills. By day, King works as a simple horticultural consultant. By night, they enjoys magic. \n\nKing’s secret is that they virtue signals. They has a hat that is the living avatar of Truth. The hat’s name is Dennis.",
   "image": "https://bhgc-dev.github.io/test/images/16.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background proud"
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit spats"
+      "value": "legs tomtit"
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
-      "value": "eye normal"
+      "value": "eye angry red"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "fantail"
+      "value": "beak kiwi"
     },
     {
       "trait_type": "glasses",
@@ -45,41 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "tie hearts"
+      "value": "tie purple"
     },
     {
       "trait_type": "hats",
-      "value": "hat tophat symbol b"
+      "value": "wizard blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Pi"
+      "value": "Unknown"
     },
     {
       "trait_type": "Hat",
-      "value": 4
+      "value": 8
     },
     {
       "trait_type": "Heart",
-      "value": 5
+      "value": 4
     },
     {
       "trait_type": "Magic",
-      "value": 5
+      "value": 7
     },
     {
       "trait_type": "Size",
-      "value": 5
+      "value": 8
     },
     {
       "trait_type": "Speed",
-      "value": 2
+      "value": 4
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "A-"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Job",
+      "value": "horticultural consultant"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Sandymount"
     }
   ],
-  "dna": "bb2ea026fc8e7ff8700f5d0f0391c9de495aed0e",
+  "dna": "e34c52bed84105393767136627e8c5192cdf3c20",
   "edition": 16,
-  "external_url": "https://BHGC.no",
-  "date": 1652054005085,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748012489,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

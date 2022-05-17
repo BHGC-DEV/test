@@ -1,11 +1,11 @@
 {
-  "name": "Mekhi",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Mekhi’s. \n\nThis bird's full name is Mekhi H Amie, but everyone calls it Mekhi. It is the most repulsive bird in New Lynn North. \n\nIt loves to eat weed although it will gulp nearly anything.\n\nMekhi is a Virgo with a blood type of Halfling who delights in horns and planes. However, Mekhi loathes names. By day, Mekhi is a simple Pipe Inspector. By night, it enjoys Rock climbing. \n\nMekhi’s secret is that it is a Boomer. It has a hat that tips generously. The hat’s name is Serena. \n",
+  "name": "Laney",
+  "description": "This bird is called Laney. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Laney Q Stuart, but its best friends call it by its other nickname, Yoshi. It is the most sarcastic bird in Otago University. \n\nLaney loves to eat corn, although it will scoff nearly anything that it considers sufficiently international. \n\nLaney is a Taurus with a blood type of AB-, who goes crazy for chimpanzees and armies. However, Laney abhors wheels. By day, Laney works as a simple podiatrist. By night, it enjoys stand-up comedy. \n\nLaney’s secret is that it just does it. It has a hat that wasted three wishes on frivolous things. The hat’s name is Drucilla.",
   "image": "https://bhgc-dev.github.io/test/images/11.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
@@ -13,11 +13,11 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail kiwi"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
@@ -25,39 +25,39 @@
     },
     {
       "trait_type": "wings",
-      "value": "wing human"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye fantail"
+      "value": "eye black"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle fantail"
+      "value": "wattle tomtit"
     },
     {
       "trait_type": "beaks",
-      "value": "duck"
+      "value": "corvid blood"
     },
     {
       "trait_type": "glasses",
-      "value": "aviators"
+      "value": "glasses none"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf pink purple stripes"
+      "value": "clothes scarf black red stripes"
     },
     {
       "trait_type": "hats",
-      "value": "pirate pink"
+      "value": "farm blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Yes"
+      "value": "Pi"
     },
     {
       "trait_type": "Hat",
-      "value": 4
+      "value": 7
     },
     {
       "trait_type": "Heart",
@@ -65,21 +65,35 @@
     },
     {
       "trait_type": "Magic",
-      "value": 4
+      "value": 7
     },
     {
       "trait_type": "Size",
-      "value": 2
+      "value": 7
     },
     {
       "trait_type": "Speed",
-      "value": 1
+      "value": 2
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "AB-"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Job",
+      "value": "podiatrist"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Otago University"
     }
   ],
-  "dna": "77a3005d6d233ce50003bfc10a574edc10787921",
+  "dna": "fe588611650bdcf4bffa8c686c9e2faf8bd115de",
   "edition": 11,
-  "external_url": "https://BHGC.no",
-  "date": 1652054008069,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748024235,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

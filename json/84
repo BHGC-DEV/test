@@ -1,6 +1,6 @@
 {
-  "name": "Evelyn",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Evelyn’s. \n\nThis bird's full name is Evelyn I Jake, but everyone calls it Evelyn. It is the most short bird in Wyndham. \n\nIt loves to eat olive although it will destroy nearly anything.\n\nEvelyn is a Pisces with a blood type of Choleric who enjoys mouths and groups. However, Evelyn disapproves of beaches. By day, Evelyn is a simple Catering Manager. By night, it enjoys Mycology. \n\nEvelyn’s secret is that it looks at cat pictures on the internet. It has a hat that is the chad of all chads. The hat’s name is Kelley. \n",
+  "name": "Drake",
+  "description": "This bird is called Drake. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Drake J Mabelle, but their best friends call them by their fussy nickname, Senie. They is the most bad bird in Miramar South. \n\nDrake loves to eat pickles, although they will nom nearly anything that it considers sufficiently long-term. \n\nDrake is a Libra with a blood type of AB-, who freaks out about libraries and energies. However, Drake scorns mailboxes. By day, Drake works as a simple mooring contractor. By night, they enjoys kabaddi. \n\nDrake’s secret is that they takes ice-cream baths. They has a hat that is part of the immutable, eternal blockchain, forever and ever, amen. The hat’s name is Alda.",
   "image": "https://bhgc-dev.github.io/test/images/84.png",
   "attributes": [
     {
@@ -13,11 +13,11 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail tomtit"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye green"
+      "value": "eye human"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle fantail"
+      "value": "wattle tomtit"
     },
     {
       "trait_type": "beaks",
-      "value": "fantail"
+      "value": "beak kiwi"
     },
     {
       "trait_type": "glasses",
@@ -45,41 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf pink"
+      "value": "tie stars"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy maroon"
+      "value": "cowboy simple corks"
     },
     {
       "trait_type": "Gender",
-      "value": "Dilettante"
+      "value": "Unknown"
     },
     {
       "trait_type": "Hat",
-      "value": 2
+      "value": 7
     },
     {
       "trait_type": "Heart",
-      "value": 3
+      "value": 7
     },
     {
       "trait_type": "Magic",
-      "value": 2
-    },
-    {
-      "trait_type": "Size",
       "value": 5
     },
     {
+      "trait_type": "Size",
+      "value": 8
+    },
+    {
       "trait_type": "Speed",
-      "value": 4
+      "value": 5
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "AB-"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Job",
+      "value": "mooring contractor"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Miramar South"
     }
   ],
-  "dna": "13c13cb35b31f7e1adec07629be404ae7c0e4ad0",
+  "dna": "53e711a58b1af4f43366c4cb3e86fa7a209b4f5f",
   "edition": 84,
-  "external_url": "https://BHGC.no",
-  "date": 1652054000569,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "N"
+  "date": 1652748016209,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

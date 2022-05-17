@@ -1,6 +1,6 @@
 {
-  "name": "Christina",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Christina’s. \n\nThis bird's full name is Christina E Raphael, but everyone calls it Christina. It is the most popular bird in Mahoenui. \n\nIt loves to eat natto although it will destroy nearly anything.\n\nChristina is a Ophiuchus with a blood type of Retiring who revels in groups and octopuses. However, Christina scorns soups. By day, Christina is a simple Decorator. By night, it enjoys Worldbuilding. \n\nChristina’s secret is that it goes bonk. It has a hat that has a gravitational mass of a million suns. The hat’s name is Pat. \n",
+  "name": "Dominique",
+  "description": "This bird is called Dominique. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Dominique V Lester, but their best friends call them by their thin nickname, Lloyd. They is the most rewarding bird in Weld Pass. \n\nDominique loves to eat triticale, although they will ingest nearly anything that it considers sufficiently actual. \n\nDominique is a Virgo with a blood type of Wizard, who freaks out about volcanoes and gardens. However, Dominique detests refrigerators. By day, Dominique works as a simple it consultant. By night, they enjoys fishing. \n\nDominique’s secret is that they is the Harbinger. They has a hat that owns several rental properties which are poorly maintained. The hat’s name is Joy.",
   "image": "https://bhgc-dev.github.io/test/images/4.png",
   "attributes": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
@@ -17,27 +17,27 @@
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit"
+      "value": "legs kiwi"
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye normal"
+      "value": "eye black"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "fantail scold"
+      "value": "corvid"
     },
     {
       "trait_type": "glasses",
@@ -45,41 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "tie red"
+      "value": "bowtie black"
     },
     {
       "trait_type": "hats",
-      "value": "hat tophat symbol e"
+      "value": "pirate blue png"
     },
     {
       "trait_type": "Gender",
-      "value": "Miscellaneous"
+      "value": "Unknown"
     },
     {
       "trait_type": "Hat",
-      "value": 4
+      "value": 2
     },
     {
       "trait_type": "Heart",
-      "value": 1
+      "value": 8
     },
     {
       "trait_type": "Magic",
-      "value": 3
+      "value": 1
     },
     {
       "trait_type": "Size",
-      "value": 2
+      "value": 1
     },
     {
       "trait_type": "Speed",
-      "value": 2
+      "value": 8
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Job",
+      "value": "it consultant"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Weld Pass"
     }
   ],
-  "dna": "82c91964be333696e2c769095b7c9b41ac52bd32",
+  "dna": "bc23b66def3558d61ca8889b1fe012bc90a75f36",
   "edition": 4,
-  "external_url": "https://BHGC.no",
-  "date": 1652054002525,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "N"
+  "date": 1652748021835,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

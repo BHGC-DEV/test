@@ -1,6 +1,6 @@
 {
-  "name": "Zackery",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Zackery’s. \n\nThis bird's full name is Zackery [ Esco, but everyone calls it Zackery. It is the most caring bird in Oriental Bay. \n\nIt loves to eat refried beans although it will inhale nearly anything.\n\nZackery is a Libra with a blood type of O+ who enjoys stomachs and hats. However, Zackery objects to lands. By day, Zackery is a simple Art Historian. By night, it enjoys Singing. \n\nZackery’s secret is that it searches without stopping. It has a hat that serves the One True God. The hat’s name is Irma. \n",
+  "name": "Zariah",
+  "description": "This bird is called Zariah. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Zariah Y Antonio, but their best friends call them by their studious nickname, Trannie. They is the most other bird in Te Wharau. \n\nZariah loves to eat patties, although they will bolt nearly anything that it considers sufficiently delectable. \n\nZariah is a Ophiuchus with a blood type of NaCl, who relishes boats and seashores. However, Zariah antipathizes boats. By day, Zariah works as a simple student teacher. By night, they enjoys community. \n\nZariah’s secret is that they risks it all on one turn of pitch-and-toss. They has a hat that grants a wish. The hat’s name is Frances.",
   "image": "https://bhgc-dev.github.io/test/images/15.png",
   "attributes": [
     {
@@ -9,19 +9,19 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail tomtit"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit spats"
+      "value": "legs fantail boots"
     },
     {
       "trait_type": "wings",
@@ -33,11 +33,11 @@
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "beak kiwi"
+      "value": "corvid blood"
     },
     {
       "trait_type": "glasses",
@@ -45,41 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "tie black"
+      "value": "clothes scarf black"
     },
     {
       "trait_type": "hats",
-      "value": "farm blue"
+      "value": "farm"
     },
     {
       "trait_type": "Gender",
-      "value": "Yes"
+      "value": "Unknown"
     },
     {
       "trait_type": "Hat",
-      "value": 3
+      "value": 1
     },
     {
       "trait_type": "Heart",
-      "value": 3
+      "value": 6
     },
     {
       "trait_type": "Magic",
-      "value": 2
+      "value": 1
     },
     {
       "trait_type": "Size",
-      "value": 4
+      "value": 6
     },
     {
       "trait_type": "Speed",
-      "value": 5
+      "value": 6
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "NaCl"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Ophiuchus"
+    },
+    {
+      "trait_type": "Job",
+      "value": "student teacher"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Te Wharau"
     }
   ],
-  "dna": "70ad8918320bc479497edf38e8500ce2f35083a1",
+  "dna": "4358c9f3dec553d04ceea6cfc7e1edd536214111",
   "edition": 15,
-  "external_url": "https://BHGC.no",
-  "date": 1652054001718,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748015317,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

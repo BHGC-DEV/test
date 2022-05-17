@@ -1,6 +1,6 @@
 {
-  "name": "Cade",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Cade’s. \n\nThis bird's full name is Cade F Allie, but everyone calls it Cade. It is the most blue bird in Oceanic-Tasman Region. \n\nIt loves to eat bars although it will destroy nearly anything.\n\nCade is a Aries with a blood type of Choleric who revels in animals and homes. However, Cade deplores wildernesses. By day, Cade is a simple Marine Pilot. By night, it enjoys Sudoku. \n\nCade’s secret is that it spends too much time scrolling. It has a hat that enhances eyes. The hat’s name is Lona. \n",
+  "name": "Azul",
+  "description": "This bird is called Azul. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Azul O Iris, but its best friends call it by its squeaky nickname, Fifi. It is the most blind bird in Bethlehem East. \n\nAzul loves to eat agutuk, although it will tuck into nearly anything that it considers sufficiently entire. \n\nAzul is a Cancer with a blood type of A-, who rejoices in horns and mists. However, Azul deplores flowers. By day, Azul works as a simple print finisher. By night, it enjoys ghost hunting. \n\nAzul’s secret is that it has the second personality of a ruthless bully. It has a hat that is an enormous chad. The hat’s name is Leo.",
   "image": "https://bhgc-dev.github.io/test/images/18.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs kiwi"
+      "value": "legs tomtit spats"
     },
     {
       "trait_type": "wings",
-      "value": "wing kiwi"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye normal"
+      "value": "eye white"
     },
     {
       "trait_type": "wattles",
@@ -37,23 +37,23 @@
     },
     {
       "trait_type": "beaks",
-      "value": "beak kiwi"
+      "value": "corvid"
     },
     {
       "trait_type": "glasses",
-      "value": "glasses none"
+      "value": "aviators"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf black blue stripes"
+      "value": "clothes scarf purple"
     },
     {
       "trait_type": "hats",
-      "value": "hat tophat"
+      "value": "cowboy blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Unassigned"
     },
     {
       "trait_type": "Hat",
@@ -61,25 +61,39 @@
     },
     {
       "trait_type": "Heart",
-      "value": 4
+      "value": 7
     },
     {
       "trait_type": "Magic",
-      "value": 1
+      "value": 5
     },
     {
       "trait_type": "Size",
-      "value": 3
+      "value": 2
     },
     {
       "trait_type": "Speed",
-      "value": 4
+      "value": 2
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "A-"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Job",
+      "value": "print finisher"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Bethlehem East"
     }
   ],
-  "dna": "f05ee996e617fb71cf6fb345e6ae6a3ed4ed3938",
+  "dna": "6f39cd49ff50a8b07f7c77cfbf14a3af92c98e8c",
   "edition": 18,
-  "external_url": "https://BHGC.no",
-  "date": 1652054009832,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748021710,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

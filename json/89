@@ -1,6 +1,6 @@
 {
-  "name": "Cade",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Cade’s. \n\nThis bird's full name is Cade L Cleo, but everyone calls it Cade. It is the most virtuous bird in Manunui. \n\nIt loves to eat nance although it will snack nearly anything.\n\nCade is a Pisces with a blood type of Halfling who appreciates sides and medicines. However, Cade loathes hardware. By day, Cade is a simple Recruitment Consultant. By night, it enjoys Mountaineering. \n\nCade’s secret is that it is just going through the motions. It has a hat that is stronger than the foundations of the earth. The hat’s name is Jimmie. \n",
+  "name": "Charlotte",
+  "description": "This bird is called Charlotte. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Charlotte [ Orville, but its best friends call it by its austere nickname, Mae. It is the most wee bird in Wade Heads. \n\nCharlotte loves to eat formulated formula, although it will polish off nearly anything that it considers sufficiently private. \n\nCharlotte is a Pisces with a blood type of High, who appreciates magazines and gears. However, Charlotte detests earths. By day, Charlotte works as a simple motor dealer. By night, it enjoys rappelling. \n\nCharlotte’s secret is that it recommends obscure music. It has a hat that always disappoints. The hat’s name is Fritz.",
   "image": "https://bhgc-dev.github.io/test/images/89.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body fantail"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit spats"
+      "value": "legs kiwi"
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye gormless"
+      "value": "eye fantail"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "beak tomtit"
+      "value": "corvid"
     },
     {
       "trait_type": "glasses",
@@ -45,19 +45,19 @@
     },
     {
       "trait_type": "clothes",
-      "value": "tie bubbles"
+      "value": "clothes none"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy simple corks"
+      "value": "farm blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Agender"
+      "value": "Miscellaneous"
     },
     {
       "trait_type": "Hat",
-      "value": 4
+      "value": 5
     },
     {
       "trait_type": "Heart",
@@ -65,21 +65,35 @@
     },
     {
       "trait_type": "Magic",
-      "value": 3
+      "value": 8
     },
     {
       "trait_type": "Size",
-      "value": 1
+      "value": 3
     },
     {
       "trait_type": "Speed",
-      "value": 3
+      "value": 8
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "High"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Job",
+      "value": "motor dealer"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Wade Heads"
     }
   ],
-  "dna": "3dfa402962d0466b01d168eeee8885633faccb3f",
+  "dna": "24fb04b19215a55ab7648c6d396b029fc7644d17",
   "edition": 89,
-  "external_url": "https://BHGC.no",
-  "date": 1652054012503,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748024531,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

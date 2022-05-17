@@ -1,6 +1,6 @@
 {
-  "name": "Ruby",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Ruby’s. \n\nThis bird's full name is Ruby C Bert, but everyone calls it Ruby. She is the most conscious bird in Springvale West. \n\nIt loves to eat edamame although it will polish off nearly anything.\n\nRuby is a Pisces with a blood type of Choleric who revels in words and trails. However, Ruby despises Internets. By day, Ruby is a simple Lighting Designer. By night, she enjoys Mountaineering. \n\nRuby’s secret is that she longs to burrow underground. She has a hat that cares for plants. The hat’s name is Ted. \n",
+  "name": "Autumn",
+  "description": "This bird is called Autumn. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Autumn D Tena, but its best friends call it by its outlying nickname, Tempy. It is the most coordinated bird in Mill Road-Woodend. \n\nAutumn loves to eat mutton, although it will nom nearly anything that it considers sufficiently stark. \n\nAutumn is a Sagittarius with a blood type of A-, who appreciates beaches and playgrounds. However, Autumn does not take kindly to signs. By day, Autumn works as a simple steward. By night, it enjoys acting. \n\nAutumn’s secret is that it has unpopular opinions. It has a hat that doesn't care. The hat’s name is Annetta.",
   "image": "https://bhgc-dev.github.io/test/images/75.png",
   "attributes": [
     {
@@ -9,35 +9,35 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body stars"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
-      "value": "legs kiwi"
+      "value": "legs fantail"
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye fantail"
+      "value": "eye human"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "fantail scold"
+      "value": "duck"
     },
     {
       "trait_type": "glasses",
@@ -45,41 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf green"
+      "value": "tie purple"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy maroon"
+      "value": "cowboy simple corks"
     },
     {
       "trait_type": "Gender",
-      "value": "Unassigned"
+      "value": "Yes"
     },
     {
       "trait_type": "Hat",
-      "value": 3
+      "value": 4
     },
     {
       "trait_type": "Heart",
-      "value": 5
+      "value": 6
     },
     {
       "trait_type": "Magic",
-      "value": 1
+      "value": 8
     },
     {
       "trait_type": "Size",
-      "value": 1
+      "value": 8
     },
     {
       "trait_type": "Speed",
-      "value": 2
+      "value": 6
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "A-"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Job",
+      "value": "steward"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Mill Road-Woodend"
     }
   ],
-  "dna": "ea8b6a2594b945254b516a1083f5f4d3bfc9af41",
+  "dna": "e39f0d6587c7bb95b92cc1b587deec17099d7bb4",
   "edition": 75,
-  "external_url": "https://BHGC.no",
-  "date": 1652054008216,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748024936,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

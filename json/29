@@ -1,19 +1,19 @@
 {
-  "name": "Alexandra",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Alexandra’s. \n\nThis bird's full name is Alexandra O Melissa, but everyone calls it Alexandra. It is the most immense bird in Otaki Forks. \n\nIt loves to eat apricot although it will chew nearly anything.\n\nAlexandra is a Aquarius with a blood type of O- who fancies necks and lines. However, Alexandra eschews knots. By day, Alexandra is a simple Astrologer. By night, it enjoys Rafting. \n\nAlexandra’s secret is that it can spell Kwisatz Haderach without needing to look it up. It has a hat that will never give you up and never let you down. The hat’s name is Pat. \n",
+  "name": "Summer",
+  "description": "This bird is called Summer. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Summer M Kay, but her best friends call her by her thankful nickname, Benjamin. She is the most awful bird in Karori East. \n\nSummer loves to eat dough, although she will wolf nearly anything that it considers sufficiently handsome. \n\nSummer is a Aquarius with a blood type of Zoinks, who adores trips and spikes. However, Summer avoids crates. By day, Summer works as a simple climate-change activist. By night, she enjoys base jumping. \n\nSummer’s secret is that she enjoys contemporary art. She has a hat that won't stop talking about electric cars. The hat’s name is Orin.",
   "image": "https://bhgc-dev.github.io/test/images/29.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
-      "value": "body fantail"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail"
+      "value": "legs tomtit spats"
     },
     {
       "trait_type": "wings",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye human"
+      "value": "eye normal"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "fantail"
+      "value": "fantail scold"
     },
     {
       "trait_type": "glasses",
@@ -45,27 +45,27 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf pink purple stripes"
+      "value": "tie hearts"
     },
     {
       "trait_type": "hats",
-      "value": "wizard blue"
+      "value": "hat tophat"
     },
     {
       "trait_type": "Gender",
-      "value": "No"
+      "value": "Female"
     },
     {
       "trait_type": "Hat",
-      "value": 3
+      "value": 6
     },
     {
       "trait_type": "Heart",
-      "value": 4
+      "value": 3
     },
     {
       "trait_type": "Magic",
-      "value": 4
+      "value": 2
     },
     {
       "trait_type": "Size",
@@ -73,13 +73,27 @@
     },
     {
       "trait_type": "Speed",
-      "value": 5
+      "value": 8
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "Zoinks"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Job",
+      "value": "climate-change activist"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Karori East"
     }
   ],
-  "dna": "3c72066c9d178b2bf754c426e50fd25006a81d41",
+  "dna": "592cd19d66f4edd44a1a8059aa24c844fe9ee498",
   "edition": 29,
-  "external_url": "https://BHGC.no",
-  "date": 1652054005884,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748013983,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

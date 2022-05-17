@@ -1,6 +1,6 @@
 {
-  "name": "Taliyah",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Taliyah’s. \n\nThis bird's full name is Taliyah K Hannah, but everyone calls it Taliyah. It is the most oblong bird in Huntly East. \n\nIt loves to eat quail although it will make short work of nearly anything.\n\nTaliyah is a Scorpio with a blood type of Dark Red who loves staircases and fans. However, Taliyah disesteems ducklings. By day, Taliyah is a simple Legal Secretary. By night, it enjoys Inline skating. \n\nTaliyah’s secret is that it can moo. It has a hat that kills houseplants through neglect. The hat’s name is Louvenia. \n",
+  "name": "Desiree",
+  "description": "This bird is called Desiree. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Desiree U Susanna, but its best friends call it by its upset nickname, Hannah. It is the most excitable bird in Brockville. \n\nDesiree loves to eat wocas, although it will snack nearly anything that it considers sufficiently winged. \n\nDesiree is a Pisces with a blood type of Yaas, who adores prisons and wrinkles. However, Desiree eschews drills. By day, Desiree works as a simple smallholder. By night, it enjoys taxidermy. \n\nDesiree’s secret is that it can't tell the difference between its and it's. It has a hat that roams the house at night in search of flesh. The hat’s name is Sue.",
   "image": "https://bhgc-dev.github.io/test/images/55.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body fantail"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit spats"
+      "value": "legs kiwi"
     },
     {
       "trait_type": "wings",
@@ -29,57 +29,71 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye black"
+      "value": "eye normal"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle fantail"
+      "value": "wattle tomtit"
     },
     {
       "trait_type": "beaks",
-      "value": "corvid blood"
+      "value": "fantail"
     },
     {
       "trait_type": "glasses",
-      "value": "glasses none"
+      "value": "aviators"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf pink"
+      "value": "tie hearts"
     },
     {
       "trait_type": "hats",
-      "value": "wizard blue"
+      "value": "pirate black"
     },
     {
       "trait_type": "Gender",
-      "value": "Dilettante"
+      "value": "Non-binary"
     },
     {
       "trait_type": "Hat",
-      "value": 1
+      "value": 5
     },
     {
       "trait_type": "Heart",
-      "value": 2
-    },
-    {
-      "trait_type": "Magic",
-      "value": 2
-    },
-    {
-      "trait_type": "Size",
       "value": 1
     },
     {
+      "trait_type": "Magic",
+      "value": 5
+    },
+    {
+      "trait_type": "Size",
+      "value": 3
+    },
+    {
       "trait_type": "Speed",
-      "value": 4
+      "value": 8
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "Yaas"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Job",
+      "value": "smallholder"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Brockville"
     }
   ],
-  "dna": "5f5ae2d81b06d77147816ce465f8902209cf52ee",
+  "dna": "fd1aa0d804082fba09e3fe19d185d1d88fb3090d",
   "edition": 55,
-  "external_url": "https://BHGC.no",
-  "date": 1652054007233,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748012988,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

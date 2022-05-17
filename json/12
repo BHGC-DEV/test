@@ -1,6 +1,6 @@
 {
-  "name": "Kade",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Kade’s. \n\nThis bird's full name is Kade V Nannie, but everyone calls it Kade. It is the most unlucky bird in Otorohanga Rural East. \n\nIt loves to eat toddlers although it will tuck into nearly anything.\n\nKade is a Leo with a blood type of Useful who fancies yards and caterpillars. However, Kade avoids coffees. By day, Kade is a simple Upholsterer. By night, it enjoys Cooking. \n\nKade’s secret is that it wishes it was a mole. It has a hat that slacks off during video meetings. The hat’s name is Charlotte. \n",
+  "name": "Cameron",
+  "description": "This bird is called Cameron. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Cameron O Meredith, but her best friends call her by her villainous nickname, Levy. She is the most lavish bird in Seatoun. \n\nCameron loves to eat naranjilla, although she will consume nearly anything that it considers sufficiently fake. \n\nCameron is a Aquarius with a blood type of B+, who enjoys ankles and pants. However, Cameron loathes bees. By day, Cameron works as a simple milklady. By night, she enjoys listening to music. \n\nCameron’s secret is that she is the living avatar of Truth. She has a hat that hits the \"I'm Feeling Lucky\" button. The hat’s name is Avery.",
   "image": "https://bhgc-dev.github.io/test/images/12.png",
   "attributes": [
     {
@@ -9,15 +9,15 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
-      "value": "eye fantail"
+      "value": "eye green"
     },
     {
       "trait_type": "wattles",
@@ -45,41 +45,59 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf purple"
+      "value": "tie hearts"
+    },
+    {
+      "trait_type": "sketchy",
+      "value": "sketchy"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy simple corks"
+      "value": "pirate blue gold red"
     },
     {
       "trait_type": "Gender",
-      "value": "Non-binary"
+      "value": "Female"
     },
     {
       "trait_type": "Hat",
-      "value": 5
+      "value": 8
     },
     {
       "trait_type": "Heart",
-      "value": 4
-    },
-    {
-      "trait_type": "Magic",
       "value": 5
     },
     {
+      "trait_type": "Magic",
+      "value": 3
+    },
+    {
       "trait_type": "Size",
-      "value": 4
+      "value": 3
     },
     {
       "trait_type": "Speed",
-      "value": 4
+      "value": 7
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "B+"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Job",
+      "value": "milklady"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Seatoun"
     }
   ],
-  "dna": "6713e23d61a97212bdbfa8281cb468fd57e5ebc2",
+  "dna": "db9f0902538c7c9de9dfe2f30b4aa33ef08f76d7",
   "edition": 12,
-  "external_url": "https://BHGC.no",
-  "date": 1652054006456,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748024797,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

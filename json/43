@@ -1,6 +1,6 @@
 {
-  "name": "Alex",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Alex’s. \n\nThis bird's full name is Alex L Alyce, but everyone calls it Alex. It is the most oily bird in Hillmorton. \n\nIt loves to eat sesbania although it will partake of nearly anything.\n\nAlex is a Pisces with a blood type of A+ who appreciates ants and breakfasts. However, Alex shuns stopwatches. By day, Alex is a simple Laboratory Analyst. By night, it enjoys Glassblowing. \n\nAlex’s secret is that it is always on time. It has a hat that can't concentrate. The hat’s name is Euna. \n",
+  "name": "Adeline",
+  "description": "This bird is called Adeline. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Adeline T Melvin, but its best friends call it by its unlined nickname, Nada. It is the most considerate bird in Lake Alice. \n\nAdeline loves to eat corn, although it will eet nearly anything that it considers sufficiently husky. \n\nAdeline is a Gemini with a blood type of A-, who relishes nuts and bulbs. However, Adeline detests wedges. By day, Adeline works as a simple project leader. By night, it enjoys handball. \n\nAdeline’s secret is that it has an appetite for destruction. It has a hat that bathes in blood. The hat’s name is Vito.",
   "image": "https://bhgc-dev.github.io/test/images/43.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body fantail"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
-      "value": "eye fantail"
+      "value": "eye gormless"
     },
     {
       "trait_type": "wattles",
@@ -41,23 +41,23 @@
     },
     {
       "trait_type": "glasses",
-      "value": "glasses none"
+      "value": "aviators"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf black red stripes"
+      "value": "clothes scarf pink purple stripes"
     },
     {
       "trait_type": "hats",
-      "value": "hat tophat"
+      "value": "farm blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Unknown"
+      "value": "Tau"
     },
     {
       "trait_type": "Hat",
-      "value": 3
+      "value": 2
     },
     {
       "trait_type": "Heart",
@@ -69,17 +69,31 @@
     },
     {
       "trait_type": "Size",
-      "value": 4
+      "value": 2
     },
     {
       "trait_type": "Speed",
-      "value": 5
+      "value": 2
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "A-"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Job",
+      "value": "project leader"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Lake Alice"
     }
   ],
-  "dna": "5c7f6353363fdd8d8cdb1e9132651fc6f48975cc",
+  "dna": "433231b8ce43bd9bd2e085aa2a9adf7b73356596",
   "edition": 43,
-  "external_url": "https://BHGC.no",
-  "date": 1652054006977,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748014113,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

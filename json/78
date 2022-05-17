@@ -1,11 +1,11 @@
 {
-  "name": "Diamond",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Diamond’s. \n\nThis bird's full name is Diamond H Novella, but everyone calls it Diamond. It is the most gross bird in Allenton West. \n\nIt loves to eat pork although it will dispose of nearly anything.\n\nDiamond is a Cancer with a blood type of AB- who likes buss and sinks. However, Diamond avoids stopwatches. By day, Diamond is a simple Beautician. By night, it enjoys Fashion. \n\nDiamond’s secret is that it doesn't use Oxford commas. It has a hat that blows. The hat’s name is Vella. \n",
+  "name": "Jamarcus",
+  "description": "This bird is called Jamarcus. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Jamarcus M Delmar, but its best friends call it by its grimy nickname, Britt. It is the most unwitting bird in Ohura. \n\nJamarcus loves to eat caribou, although it will gulp nearly anything that it considers sufficiently warm. \n\nJamarcus is a Virgo with a blood type of Yeet, who enjoys sentences and magicians. However, Jamarcus does not take kindly to cereals. By day, Jamarcus works as a simple professional snowboarder. By night, it enjoys macrame. \n\nJamarcus’s secret is that it howls at the sun. It has a hat that simply cannot. The hat’s name is Elmer.",
   "image": "https://bhgc-dev.github.io/test/images/78.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background white"
+      "value": "background blue"
     },
     {
       "trait_type": "bodies",
@@ -13,15 +13,15 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail kiwi"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit"
+      "value": "legs fantail boots"
     },
     {
       "trait_type": "wings",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye black"
+      "value": "eye white"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle fantail"
+      "value": "wattle tomtit"
     },
     {
       "trait_type": "beaks",
-      "value": "corvid blood"
+      "value": "beak tomtit"
     },
     {
       "trait_type": "glasses",
@@ -45,11 +45,11 @@
     },
     {
       "trait_type": "clothes",
-      "value": "bowtie black"
+      "value": "clothes scarf black blue stripes"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy simple corks"
+      "value": "cowboy maroon"
     },
     {
       "trait_type": "Gender",
@@ -57,29 +57,43 @@
     },
     {
       "trait_type": "Hat",
-      "value": 5
+      "value": 3
     },
     {
       "trait_type": "Heart",
-      "value": 1
+      "value": 5
     },
     {
       "trait_type": "Magic",
-      "value": 5
+      "value": 3
     },
     {
       "trait_type": "Size",
-      "value": 5
+      "value": 8
     },
     {
       "trait_type": "Speed",
-      "value": 1
+      "value": 2
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "Yeet"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Job",
+      "value": "professional snowboarder"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Ohura"
     }
   ],
-  "dna": "94a1b4126cd8f0b22550ffe36076a88183c54b9b",
+  "dna": "593dcd52b7c862a464f48b16bf373c051d372bd6",
   "edition": 78,
-  "external_url": "https://BHGC.no",
-  "date": 1652054006314,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748015754,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

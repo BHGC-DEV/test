@@ -1,6 +1,6 @@
 {
-  "name": "Muhammad",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Muhammad’s. \n\nThis bird's full name is Muhammad [ Sister, but everyone calls it Muhammad. It is the most portly bird in Lake Alice. \n\nIt loves to eat besan although it will annihilate nearly anything.\n\nMuhammad is a Taurus with a blood type of O+ who revels in dungeons and dreams. However, Muhammad disapproves of Turkeys. By day, Muhammad is a simple Tennis Coach. By night, it enjoys Acting. \n\nMuhammad’s secret is that it knows you better than you know yourself. It has a hat that buys limited-edition box sets. The hat’s name is Toney. \n",
+  "name": "Richard",
+  "description": "This bird is called Richard. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Richard R Ernesto, but its best friends call it by its gorgeous nickname, Elbert. It is the most closed bird in Governors Bay. \n\nRichard loves to eat puree, although it will ingurgitate nearly anything that it considers sufficiently this. \n\nRichard is a Scorpio with a blood type of A+, who adores hamsters and instruments. However, Richard abhors women. By day, Richard works as a simple storeman. By night, it enjoys water sports. \n\nRichard’s secret is that it wishes it was a mole. It has a hat that believes in false gods. The hat’s name is Isabel.",
   "image": "https://bhgc-dev.github.io/test/images/57.png",
   "attributes": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail tomtit"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail boots"
+      "value": "legs tomtit spats"
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing kiwi"
     },
     {
       "trait_type": "eyes",
-      "value": "eye normal"
+      "value": "eye black"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "corvid"
+      "value": "corvid blood"
     },
     {
       "trait_type": "glasses",
@@ -45,41 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "tie black"
+      "value": "clothes scarf black purple stripes"
     },
     {
       "trait_type": "hats",
-      "value": "farm blue"
+      "value": "farm brown"
     },
     {
       "trait_type": "Gender",
-      "value": "Yes"
+      "value": "No"
     },
     {
       "trait_type": "Hat",
-      "value": 5
+      "value": 1
     },
     {
       "trait_type": "Heart",
-      "value": 4
+      "value": 6
     },
     {
       "trait_type": "Magic",
-      "value": 3
+      "value": 5
     },
     {
       "trait_type": "Size",
-      "value": 4
+      "value": 1
     },
     {
       "trait_type": "Speed",
-      "value": 4
+      "value": 2
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "A+"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Job",
+      "value": "storeman"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Governors Bay"
     }
   ],
-  "dna": "d7cf932604e7e40404444911b55195d5e6eefadb",
+  "dna": "b2b4685e44bc6c6160dd2345cc2f872cfc674f7f",
   "edition": 57,
-  "external_url": "https://BHGC.no",
-  "date": 1652054006704,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748024377,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

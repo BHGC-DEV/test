@@ -1,6 +1,6 @@
 {
-  "name": "Azaria",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Azaria’s. \n\nThis bird's full name is Azaria O Mollie, but everyone calls it Azaria. It is the most sad bird in Inland Water-Lake Rotorua. \n\nIt loves to eat quarters although it will eat nearly anything.\n\nAzaria is a Pisces with a blood type of ZX Spectral who fancies litters and cups. However, Azaria scorns cloths. By day, Azaria is a simple Plant Operator. By night, it enjoys Slacklining. \n\nAzaria’s secret is that it wasted three wishes on frivolous things. It has a hat that has walked five thousand miles and will walk five thousand more. The hat’s name is Kirk. \n",
+  "name": "Rene",
+  "description": "This bird is called Rene. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Rene A Anita, but his best friends call him by his leading nickname, Theo. He is the most both bird in Kahutara. \n\nRene loves to eat elderberries, although he will annihilate nearly anything that it considers sufficiently dense. \n\nRene is a Cancer with a blood type of H, who likes gyms and tops. However, Rene despises toes. By day, Rene works as a simple marine engineer. By night, he enjoys crocheting. \n\nRene’s secret is that he cares too much. He has a hat that seems to be listening but is actually asleep. The hat’s name is Melba.",
   "image": "https://bhgc-dev.github.io/test/images/66.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit"
+      "value": "legs fantail boots"
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
-      "value": "eye human"
+      "value": "eye white"
     },
     {
       "trait_type": "wattles",
@@ -37,23 +37,23 @@
     },
     {
       "trait_type": "beaks",
-      "value": "corvid blood"
+      "value": "beak kiwi"
     },
     {
       "trait_type": "glasses",
-      "value": "aviators"
+      "value": "glasses none"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf black red stripes"
+      "value": "tie bubbles"
     },
     {
       "trait_type": "hats",
-      "value": "wizard blue"
+      "value": "cowboy simple"
     },
     {
       "trait_type": "Gender",
-      "value": "No"
+      "value": "Male"
     },
     {
       "trait_type": "Hat",
@@ -61,7 +61,7 @@
     },
     {
       "trait_type": "Heart",
-      "value": 4
+      "value": 1
     },
     {
       "trait_type": "Magic",
@@ -69,17 +69,31 @@
     },
     {
       "trait_type": "Size",
-      "value": 5
+      "value": 6
     },
     {
       "trait_type": "Speed",
-      "value": 1
+      "value": 4
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "H"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Job",
+      "value": "marine engineer"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Kahutara"
     }
   ],
-  "dna": "3954b7a77eda917e89b927752dce92958e4a02aa",
+  "dna": "48ba27330b88de3ff523fef0e81e2d37231e8fdf",
   "edition": 66,
-  "external_url": "https://BHGC.no",
-  "date": 1652054001309,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748018176,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

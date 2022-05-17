@@ -1,6 +1,6 @@
 {
-  "name": "Addisyn",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Addisyn’s. \n\nThis bird's full name is Addisyn E Erwin, but everyone calls it Addisyn. She is the most small bird in Whangarei Central. \n\nIt loves to eat cone although it will devour nearly anything.\n\nAddisyn is a Virgo with a blood type of Melancholic who freaks out about airports and pedestrians. However, Addisyn disesteems ladybugs. By day, Addisyn is a simple Charge Hand. By night, she enjoys Lego building. \n\nAddisyn’s secret is that she can travel faster than light. She has a hat that spends time on pointless things. The hat’s name is Electa. \n",
+  "name": "Branson",
+  "description": "This bird is called Branson. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Branson U Lawson, but its best friends call it by its welcome nickname, Edny. It is the most fake bird in Okaihau. \n\nBranson loves to eat quinoa, although it will gobble nearly anything that it considers sufficiently intentional. \n\nBranson is a Scorpio with a blood type of B+, who adores pears and pollutions. However, Branson antipathizes eels. By day, Branson works as a simple local government. By night, it enjoys cycling. \n\nBranson’s secret is that it sings really well actually. It has a hat that secretly aspires to become a surgeon. The hat’s name is Joan.",
   "image": "https://bhgc-dev.github.io/test/images/17.png",
   "attributes": [
     {
@@ -9,27 +9,27 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body fantail"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
-      "value": "tail tomtit"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
-      "value": "chest white"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit spats"
+      "value": "legs fantail"
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
-      "value": "eye gormless"
+      "value": "eye green"
     },
     {
       "trait_type": "wattles",
@@ -45,19 +45,19 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf black"
+      "value": "clothes scarf white"
     },
     {
       "trait_type": "hats",
-      "value": "farm brown"
+      "value": "farm"
     },
     {
       "trait_type": "Gender",
-      "value": "Unassigned"
+      "value": "Yes"
     },
     {
       "trait_type": "Hat",
-      "value": 5
+      "value": 1
     },
     {
       "trait_type": "Heart",
@@ -65,21 +65,35 @@
     },
     {
       "trait_type": "Magic",
-      "value": 5
-    },
-    {
-      "trait_type": "Size",
       "value": 2
     },
     {
+      "trait_type": "Size",
+      "value": 6
+    },
+    {
       "trait_type": "Speed",
-      "value": 1
+      "value": 5
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "B+"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Job",
+      "value": "local government"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Okaihau"
     }
   ],
-  "dna": "0760436acee2310b76c93210d2997ad7d2004c2f",
+  "dna": "09d34797dc16efc4cb368e9a06062bb72cf439ab",
   "edition": 17,
-  "external_url": "https://BHGC.no",
-  "date": 1652054013167,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "N"
+  "date": 1652748023189,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

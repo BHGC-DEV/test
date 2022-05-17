@@ -1,11 +1,11 @@
 {
-  "name": "Ethan",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Ethan’s. \n\nThis bird's full name is Ethan K Viola, but everyone calls it Ethan. It is the most lined bird in Mairtown. \n\nIt loves to eat croissants although it will devour nearly anything.\n\nEthan is a Leo with a blood type of Retiring who rejoices in forks and pizzas. However, Ethan antipathizes knots. By day, Ethan is a simple Butcher. By night, it enjoys Scouting. \n\nEthan’s secret is that it longs to burrow underground. It has a hat that strains the ocean for krill with a mouth full of baleen. The hat’s name is Joe. \n",
+  "name": "Julissa",
+  "description": "This bird is called Julissa. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Julissa P Rocco, but its best friends call it by its silver nickname, Della. It is the most trivial bird in Titahi Bay South. \n\nJulissa loves to eat beverages, although it will put away nearly anything that it considers sufficiently tough. \n\nJulissa is a Cancer with a blood type of Dark Red, who delights in needles and powers. However, Julissa disesteems pastries. By day, Julissa works as a simple toy trader. By night, it enjoys jewelry making. \n\nJulissa’s secret is that it is never gonna run around and desert you. It has a hat that once belonged to a God. The hat’s name is Donnie.",
   "image": "https://bhgc-dev.github.io/test/images/67.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background white"
+      "value": "background blue"
     },
     {
       "trait_type": "bodies",
@@ -17,11 +17,11 @@
     },
     {
       "trait_type": "chests",
-      "value": "chest white"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail boots"
+      "value": "legs tomtit"
     },
     {
       "trait_type": "wings",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye fantail"
+      "value": "eye normal"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "fantail scold"
+      "value": "corvid"
     },
     {
       "trait_type": "glasses",
@@ -45,19 +45,19 @@
     },
     {
       "trait_type": "clothes",
-      "value": "tie hearts"
+      "value": "clothes scarf black purple stripes"
     },
     {
       "trait_type": "hats",
-      "value": "pirate pink"
+      "value": "pirate blue gold red"
     },
     {
       "trait_type": "Gender",
-      "value": "Non-binary"
+      "value": "Dilettante"
     },
     {
       "trait_type": "Hat",
-      "value": 4
+      "value": 8
     },
     {
       "trait_type": "Heart",
@@ -65,21 +65,35 @@
     },
     {
       "trait_type": "Magic",
-      "value": 1
+      "value": 3
     },
     {
       "trait_type": "Size",
-      "value": 4
+      "value": 7
     },
     {
       "trait_type": "Speed",
-      "value": 2
+      "value": 8
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "Dark Red"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Job",
+      "value": "toy trader"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Titahi Bay South"
     }
   ],
-  "dna": "b1c4e727b9d03e647f16b129669fc5ff64e69ac0",
+  "dna": "1b3fa425081f0b4eff738b85851c608de3602064",
   "edition": 67,
-  "external_url": "https://BHGC.no",
-  "date": 1652054011820,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748014620,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

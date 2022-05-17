@@ -1,6 +1,6 @@
 {
-  "name": "Demarion",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Demarion’s. \n\nThis bird's full name is Demarion V Oris, but everyone calls it Demarion. It is the most knowledgeable bird in Kennedys Bush. \n\nIt loves to eat bison although it will snack nearly anything.\n\nDemarion is a Taurus with a blood type of B+ who revels in sailboats and snowmen. However, Demarion despises beats. By day, Demarion is a simple Meat Inspector. By night, it enjoys LARPing. \n\nDemarion’s secret is that it can sing, but only songs you hate. It has a hat that knows why purple is. The hat’s name is Alvera. \n",
+  "name": "Todd",
+  "description": "This bird is called Todd. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Todd W Marcella, but its best friends call it by its amusing nickname, Suzie. It is the most strident bird in Orana Park. \n\nTodd loves to eat amaranth, although it will chew nearly anything that it considers sufficiently decent. \n\nTodd is a Scorpio with a blood type of O+, who revels in wedges and owls. However, Todd scorns straws. By day, Todd works as a simple art historian. By night, it enjoys role-playing games. \n\nTodd’s secret is that it has too many kinks. It has a hat that longs for the skies. The hat’s name is Louvenia.",
   "image": "https://bhgc-dev.github.io/test/images/48.png",
   "attributes": [
     {
@@ -9,19 +9,19 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
-      "value": "chest white"
+      "value": "fantail chest"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit"
+      "value": "legs fantail boots"
     },
     {
       "trait_type": "wings",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye black"
+      "value": "eye green"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "duck"
+      "value": "corvid"
     },
     {
       "trait_type": "glasses",
@@ -45,11 +45,11 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes none"
+      "value": "tie sunflowers"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy black"
+      "value": "cowboy purple"
     },
     {
       "trait_type": "Gender",
@@ -57,29 +57,43 @@
     },
     {
       "trait_type": "Hat",
-      "value": 5
+      "value": 1
     },
     {
       "trait_type": "Heart",
-      "value": 4
+      "value": 1
     },
     {
       "trait_type": "Magic",
-      "value": 3
+      "value": 8
     },
     {
       "trait_type": "Size",
-      "value": 3
+      "value": 8
     },
     {
       "trait_type": "Speed",
-      "value": 3
+      "value": 8
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "O+"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Job",
+      "value": "art historian"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Orana Park"
     }
   ],
-  "dna": "7a12d02ed6a88f404a35bcb4ab25a71a0905efde",
+  "dna": "0bfb999044ce99140ee1ac6945ab751190d134f1",
   "edition": 48,
-  "external_url": "https://BHGC.no",
-  "date": 1652054004133,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748015889,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

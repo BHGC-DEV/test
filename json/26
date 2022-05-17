@@ -1,15 +1,15 @@
 {
-  "name": "Jamir",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Jamir’s. \n\nThis bird's full name is Jamir E Artie, but everyone calls it Jamir. It is the most international bird in Tauhoa-Puhoi. \n\nIt loves to eat maraschino although it will tuck into nearly anything.\n\nJamir is a Ophiuchus with a blood type of AB+ who enjoys ankles and hamsters. However, Jamir objects to pens. By day, Jamir is a simple Servant. By night, it enjoys Swimming. \n\nJamir’s secret is that it doesn't stop, never gives up, holds its head high and reaches the top. It has a hat that is more than the sum of its parts. The hat’s name is Hosie. \n",
+  "name": "Avah",
+  "description": "This bird is called Avah. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Avah Q Onie, but its best friends call it by its piercing nickname, Nada. It is the most livid bird in Omarama. \n\nAvah loves to eat cheese, although it will scoff nearly anything that it considers sufficiently bubbly. \n\nAvah is a Scorpio with a blood type of Phlegmatic, who appreciates raviolis and stomachs. However, Avah shuns pancakes. By day, Avah works as a simple marine broker. By night, it enjoys taxidermy. \n\nAvah’s secret is that it eavesdrops. It has a hat that talks too wise. The hat’s name is Sanford.",
   "image": "https://bhgc-dev.github.io/test/images/26.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
-      "value": "body fantail"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
@@ -17,11 +17,11 @@
     },
     {
       "trait_type": "chests",
-      "value": "chest white"
+      "value": "fantail chest"
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail"
+      "value": "legs tomtit"
     },
     {
       "trait_type": "wings",
@@ -29,31 +29,31 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye human"
+      "value": "eye gormless"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "corvid blood"
+      "value": "beak kiwi"
     },
     {
       "trait_type": "glasses",
-      "value": "aviators"
+      "value": "glasses none"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf pink blue stripes"
+      "value": "clothes none"
     },
     {
       "trait_type": "hats",
-      "value": "hat tophat"
+      "value": "farm blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Unknown"
+      "value": "No"
     },
     {
       "trait_type": "Hat",
@@ -61,25 +61,39 @@
     },
     {
       "trait_type": "Heart",
-      "value": 4
+      "value": 8
     },
     {
       "trait_type": "Magic",
-      "value": 3
+      "value": 4
     },
     {
       "trait_type": "Size",
-      "value": 4
+      "value": 5
     },
     {
       "trait_type": "Speed",
       "value": 4
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "Phlegmatic"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Job",
+      "value": "marine broker"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Omarama"
     }
   ],
-  "dna": "002dcd148e9c5a862e1fa6851c9ad42a8331e40c",
+  "dna": "e4e728dd43952eede7ebdd06292bbc93a06b6895",
   "edition": 26,
-  "external_url": "https://BHGC.no",
-  "date": 1652054010561,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748015004,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

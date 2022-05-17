@@ -1,11 +1,11 @@
 {
-  "name": "Deja",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Deja’s. \n\nThis bird's full name is Deja G Zola, but everyone calls it Deja. It is the most winged bird in Crown Hill. \n\nIt loves to eat onions although it will gulp nearly anything.\n\nDeja is a Aquarius with a blood type of Melancholic who freaks out about sides and kettles. However, Deja disapproves of daisies. By day, Deja is a simple Cab Driver. By night, it enjoys Creative writing. \n\nDeja’s secret is that it doesn't stop, never gives up, holds its head high and reaches the top. It has a hat that enables the wearer to grow or shrink at will. The hat’s name is Dexter. \n",
+  "name": "Celia",
+  "description": "This bird is called Celia. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Celia R Gilbert, but her best friends call her by her roasted nickname, Kill. She is the most grubby bird in Nuhaka. \n\nCelia loves to eat burdock, although she will destroy nearly anything that it considers sufficiently gracious. \n\nCelia is a Capricorn with a blood type of A+, who loves tickets and candles. However, Celia objects to mustards. By day, Celia works as a simple software consultant. By night, she enjoys sailing. \n\nCelia’s secret is that she serves the One True God. She has a hat that has another, smaller bird inside it. The hat’s name is Unknown.",
   "image": "https://bhgc-dev.github.io/test/images/22.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
@@ -13,15 +13,15 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail kiwi"
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "fantail chest"
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail"
+      "value": "legs kiwi"
     },
     {
       "trait_type": "wings",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye white"
+      "value": "eye normal"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "fantail scold"
+      "value": "fantail"
     },
     {
       "trait_type": "glasses",
@@ -45,41 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "tie blue"
+      "value": "bowtie pink"
     },
     {
       "trait_type": "hats",
-      "value": "pirate blue gold pink"
+      "value": "wizard grey"
     },
     {
       "trait_type": "Gender",
-      "value": "Agender"
+      "value": "Female"
     },
     {
       "trait_type": "Hat",
-      "value": 4
+      "value": 6
     },
     {
       "trait_type": "Heart",
-      "value": 3
+      "value": 6
     },
     {
       "trait_type": "Magic",
-      "value": 1
+      "value": 6
     },
     {
       "trait_type": "Size",
-      "value": 1
+      "value": 8
     },
     {
       "trait_type": "Speed",
-      "value": 4
+      "value": 3
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "A+"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Job",
+      "value": "software consultant"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Nuhaka"
     }
   ],
-  "dna": "9311e9222623559393d0fa7c561ca94007f2222f",
+  "dna": "6d9f29f119c10dd07ef927f751dedc798a0eea06",
   "edition": 22,
-  "external_url": "https://BHGC.no",
-  "date": 1652054010834,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "N"
+  "date": 1652748016018,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

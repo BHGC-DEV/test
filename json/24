@@ -1,35 +1,35 @@
 {
-  "name": "Bria",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Bria’s. \n\nThis bird's full name is Bria D Elwood, but everyone calls it Bria. It is the most whimsical bird in Vinetown. \n\nIt loves to eat grapefruit although it will chow down nearly anything.\n\nBria is a Capricorn with a blood type of Bold who adores bats and energies. However, Bria disapproves of fishes. By day, Bria is a simple Telephonist. By night, it enjoys Fishing. \n\nBria’s secret is that it is a lumberjack. It has a hat that is a motherflippin' wizard. The hat’s name is Lawerence. \n",
+  "name": "Amiah",
+  "description": "This bird is called Amiah. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Amiah J Sol, but its best friends call it by its foolhardy nickname, Julie. It is the most hungry bird in Point Chevalier South. \n\nAmiah loves to eat biscuits, although it will nom nom nom nearly anything that it considers sufficiently courageous. \n\nAmiah is a Pisces with a blood type of NaCl, who appreciates bookcases and magazines. However, Amiah is averse to pains. By day, Amiah works as a simple barmaid. By night, it enjoys hooping. \n\nAmiah’s secret is that it has the second personality of a ruthless bully. It has a hat that audibly sighs when a bad email comes in. The hat’s name is Marie.",
   "image": "https://bhgc-dev.github.io/test/images/24.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail"
+      "value": "legs tomtit"
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
-      "value": "eye green"
+      "value": "eye white"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "human mouth"
+      "value": "beak kiwi"
     },
     {
       "trait_type": "glasses",
@@ -45,15 +45,15 @@
     },
     {
       "trait_type": "clothes",
-      "value": "bowtie blue"
+      "value": "clothes scarf black blue stripes"
     },
     {
       "trait_type": "hats",
-      "value": "hat tophat"
+      "value": "cowboy maroon"
     },
     {
       "trait_type": "Gender",
-      "value": "Agender"
+      "value": "Dilettante"
     },
     {
       "trait_type": "Hat",
@@ -61,25 +61,39 @@
     },
     {
       "trait_type": "Heart",
-      "value": 3
+      "value": 5
     },
     {
       "trait_type": "Magic",
-      "value": 2
+      "value": 4
     },
     {
       "trait_type": "Size",
-      "value": 3
+      "value": 1
     },
     {
       "trait_type": "Speed",
-      "value": 3
+      "value": 4
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "NaCl"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Job",
+      "value": "barmaid"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Point Chevalier South"
     }
   ],
-  "dna": "d4684c1e15494a6a2bcdbed28917535be01d3493",
+  "dna": "6e69945449f06f14ef81937cd196c7de2dca9c7e",
   "edition": 24,
-  "external_url": "https://BHGC.no",
-  "date": 1652054012099,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748012345,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

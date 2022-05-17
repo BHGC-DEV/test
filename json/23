@@ -1,85 +1,99 @@
 {
-  "name": "Edgar",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Edgar’s. \n\nThis bird's full name is Edgar F Eileen, but everyone calls it Edgar. It is the most oblong bird in Shirley West. \n\nIt loves to eat fennel although it will nibble nearly anything.\n\nEdgar is a Sagittarius with a blood type of A- who fancies beans and veins. However, Edgar objects to suits. By day, Edgar is a simple Jewellery. By night, it enjoys Vehicle restoration. \n\nEdgar’s secret is that it wasted three wishes on frivolous things. It has a hat that is the living avatar of Avatars. The hat’s name is Adolfo. \n",
+  "name": "Tate",
+  "description": "This bird is called Tate. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Tate K Emmett, but its best friends call it by its colorful nickname, Britt. It is the most heavenly bird in Atarau. \n\nTate loves to eat sweeteners, although it will gobble nearly anything that it considers sufficiently remote. \n\nTate is a Pisces with a blood type of A-, who rejoices in porcupines and spiders. However, Tate antipathizes roofs. By day, Tate works as a simple radiographer. By night, it enjoys leather crafting. \n\nTate’s secret is that it nopes out. It has a hat that increases INT by +4. The hat’s name is Carmel.",
   "image": "https://bhgc-dev.github.io/test/images/23.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background white"
+      "value": "background blue"
     },
     {
       "trait_type": "bodies",
-      "value": "body fantail"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
-      "value": "tail tomtit"
+      "value": "tail kiwi"
     },
     {
       "trait_type": "chests",
-      "value": "chest white"
+      "value": "fantail chest"
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail boots"
+      "value": "legs tomtit"
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye white"
+      "value": "eye human"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "duck"
+      "value": "beak kiwi"
     },
     {
       "trait_type": "glasses",
-      "value": "aviators red"
+      "value": "glasses none"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf purple"
+      "value": "clothes scarf white"
     },
     {
       "trait_type": "hats",
-      "value": "farm black"
+      "value": "pirate blue png"
     },
     {
       "trait_type": "Gender",
-      "value": "Tau"
+      "value": "Pi"
     },
     {
       "trait_type": "Hat",
-      "value": 1
-    },
-    {
-      "trait_type": "Heart",
-      "value": 3
-    },
-    {
-      "trait_type": "Magic",
       "value": 5
     },
     {
-      "trait_type": "Size",
+      "trait_type": "Heart",
+      "value": 6
+    },
+    {
+      "trait_type": "Magic",
       "value": 4
+    },
+    {
+      "trait_type": "Size",
+      "value": 1
     },
     {
       "trait_type": "Speed",
       "value": 4
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "A-"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Job",
+      "value": "radiographer"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Atarau"
     }
   ],
-  "dna": "83d2323dc6f99efe80bbc4d1a4c6f02668a0b8d0",
+  "dna": "6c1588ce7f7e966f73d0549d9ebf9ac5f2894df6",
   "edition": 23,
-  "external_url": "https://BHGC.no",
-  "date": 1652054005347,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748016993,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

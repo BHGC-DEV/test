@@ -1,6 +1,6 @@
 {
-  "name": "Elle",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Elle’s. \n\nThis bird's full name is Elle [ Ezekiel, but everyone calls it Elle. It is the most cold bird in Allandale-Mokorua. \n\nIt loves to eat eggs although it will destroy nearly anything.\n\nElle is a Gemini with a blood type of High who likes carpenters and shops. However, Elle dislikes cacti. By day, Elle is a simple Software Engineer. By night, it enjoys Basketball. \n\nElle’s secret is that it can't tell the difference between its and it's. It has a hat that memes. The hat’s name is Rocco. \n",
+  "name": "Bryce",
+  "description": "This bird is called Bryce. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Bryce N Gretchen, but their best friends call them by their brilliant nickname, Athy. They is the most candid bird in Berhampore East. \n\nBryce loves to eat besan, although they will ingest nearly anything that it considers sufficiently weary. \n\nBryce is a Sagittarius with a blood type of AB-, who fancies footballs and squids. However, Bryce shuns lettuces. By day, Bryce works as a simple television engineer. By night, they enjoys crocheting. \n\nBryce’s secret is that they is a motherflippin' wizard. They has a hat that contains other, smaller hats. The hat’s name is Sofia.",
   "image": "https://bhgc-dev.github.io/test/images/9.png",
   "attributes": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
@@ -17,7 +17,7 @@
     },
     {
       "trait_type": "chests",
-      "value": "chest white"
+      "value": "fantail chest"
     },
     {
       "trait_type": "legs",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye black"
+      "value": "eye fantail"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "corvid"
+      "value": "corvid blood"
     },
     {
       "trait_type": "glasses",
@@ -45,19 +45,19 @@
     },
     {
       "trait_type": "clothes",
-      "value": "bowtie black"
+      "value": "bowtie blue"
     },
     {
       "trait_type": "hats",
-      "value": "farm blue"
+      "value": "cowboy maroon"
     },
     {
       "trait_type": "Gender",
-      "value": "Dilettante"
+      "value": "Unknown"
     },
     {
       "trait_type": "Hat",
-      "value": 1
+      "value": 7
     },
     {
       "trait_type": "Heart",
@@ -65,7 +65,7 @@
     },
     {
       "trait_type": "Magic",
-      "value": 3
+      "value": 2
     },
     {
       "trait_type": "Size",
@@ -73,13 +73,27 @@
     },
     {
       "trait_type": "Speed",
-      "value": 5
+      "value": 3
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "AB-"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Job",
+      "value": "television engineer"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Berhampore East"
     }
   ],
-  "dna": "7321153688468dde96bdafb9274f28943a7cb61c",
+  "dna": "efd3b0dfe60795f112a10bc90fb5a235dadaea8e",
   "edition": 9,
-  "external_url": "https://BHGC.no",
-  "date": 1652054013960,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "N"
+  "date": 1652748017115,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "Bryson",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Bryson’s. \n\nThis bird's full name is Bryson B Houston, but everyone calls it Bryson. It is the most tiny bird in Mangawhai. \n\nIt loves to eat thuringer although it will destroy nearly anything.\n\nBryson is a Leo with a blood type of Biff who delights in jars and vests. However, Bryson loathes snails. By day, Bryson is a simple Repairer. By night, it enjoys Yo-yoing. \n\nBryson’s secret is that it doesn't stop, never gives up, holds its head high and reaches the top. It has a hat that fades out, again. The hat’s name is Bertie. \n",
+  "name": "Paityn",
+  "description": "This bird is called Paityn. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Paityn M Aline, but its best friends call it by its essential nickname, Doda. It is the most graceful bird in Weston. \n\nPaityn loves to eat lambs, although it will annihilate nearly anything that it considers sufficiently drab. \n\nPaityn is a Gemini with a blood type of Halfling, who freaks out about blocks and teas. However, Paityn detests wheels. By day, Paityn works as a simple typist. By night, it enjoys skateboarding. \n\nPaityn’s secret is that it cries over anime. It has a hat that lives in a giant bucket. The hat’s name is Newell.",
   "image": "https://bhgc-dev.github.io/test/images/7.png",
   "attributes": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
@@ -17,15 +17,15 @@
     },
     {
       "trait_type": "chests",
-      "value": "chest white"
+      "value": "fantail chest"
     },
     {
       "trait_type": "legs",
-      "value": "legs kiwi"
+      "value": "legs tomtit spats"
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
@@ -33,31 +33,31 @@
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "corvid blood"
+      "value": "fantail scold"
     },
     {
       "trait_type": "glasses",
-      "value": "glasses none"
+      "value": "aviators pink"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf pink"
+      "value": "clothes scarf purple"
     },
     {
       "trait_type": "hats",
-      "value": "pirate blue gold pink"
+      "value": "hat tophat"
     },
     {
       "trait_type": "Gender",
-      "value": "No"
+      "value": "Dilettante"
     },
     {
       "trait_type": "Hat",
-      "value": 4
+      "value": 2
     },
     {
       "trait_type": "Heart",
@@ -65,21 +65,35 @@
     },
     {
       "trait_type": "Magic",
-      "value": 5
+      "value": 7
     },
     {
       "trait_type": "Size",
-      "value": 5
+      "value": 1
     },
     {
       "trait_type": "Speed",
-      "value": 1
+      "value": 8
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "Halfling"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Job",
+      "value": "typist"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Weston"
     }
   ],
-  "dna": "2b4d2a1dddb2dd6d37012bcd01700ac6e4a3fc2c",
+  "dna": "5b1e9569b3d7e7d36f4782e36ae2c587cbf6ecc0",
   "edition": 7,
-  "external_url": "https://BHGC.no",
-  "date": 1652054002380,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "F"
+  "date": 1652748021571,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }

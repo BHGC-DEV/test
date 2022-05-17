@@ -1,15 +1,15 @@
 {
-  "name": "Audrey",
-  "description": "This bird is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. This is Audrey’s. \n\nThis bird's full name is Audrey D Phil, but everyone calls it Audrey. It is the most superior bird in Kaiwharawhara. \n\nIt loves to eat shells although it will dispose of nearly anything.\n\nAudrey is a Cancer with a blood type of ZX who appreciates wrinkles and cemeteries. However, Audrey detests trains. By day, Audrey is a simple Technical Instructor. By night, it enjoys Scuba diving. \n\nAudrey’s secret is that it has recursive secrets. It has a hat that isn't interested. The hat’s name is Kate. \n",
+  "name": "Roland",
+  "description": "This bird is called Roland. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Roland H Luke, but its best friends call it by its profuse nickname, Tibbie. It is the most scented bird in Kilbirnie West-Hataitai South. \n\nRoland loves to eat phyllo, although it will nom nom nom nearly anything that it considers sufficiently frivolous. \n\nRoland is a Sagittarius with a blood type of Halfling, who goes crazy for pens and matches. However, Roland avoids jaws. By day, Roland works as a simple quality engineer. By night, it enjoys geocaching. \n\nRoland’s secret is that it needs to take a chill pill. It has a hat that knows The Secret. The hat’s name is Ara.",
   "image": "https://bhgc-dev.github.io/test/images/36.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
@@ -17,11 +17,11 @@
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail"
+      "value": "legs fantail boots"
     },
     {
       "trait_type": "wings",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye human"
+      "value": "eye green"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "corvid"
+      "value": "duck"
     },
     {
       "trait_type": "glasses",
@@ -45,23 +45,19 @@
     },
     {
       "trait_type": "clothes",
-      "value": "bowtie blue"
-    },
-    {
-      "trait_type": "sketchy",
-      "value": "sketchy"
+      "value": "clothes scarf white"
     },
     {
       "trait_type": "hats",
-      "value": "pirate pink"
+      "value": "pirate purple"
     },
     {
       "trait_type": "Gender",
-      "value": "Non-binary"
+      "value": "Miscellaneous"
     },
     {
       "trait_type": "Hat",
-      "value": 4
+      "value": 8
     },
     {
       "trait_type": "Heart",
@@ -69,21 +65,35 @@
     },
     {
       "trait_type": "Magic",
-      "value": 3
+      "value": 4
     },
     {
       "trait_type": "Size",
-      "value": 2
+      "value": 5
     },
     {
       "trait_type": "Speed",
-      "value": 1
+      "value": 6
+    },
+    {
+      "trait_type": "Blood Type",
+      "value": "Halfling"
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Job",
+      "value": "quality engineer"
+    },
+    {
+      "trait_type": "Habitat",
+      "value": "Kilbirnie West-Hataitai South"
     }
   ],
-  "dna": "89688bdf72a31bf512175eca05f88cc968cfc3e2",
+  "dna": "53f1cd4c6cddef73ae3a3b1e84f6f62ff55535c4",
   "edition": 36,
-  "external_url": "https://BHGC.no",
-  "date": 1652054010120,
-  "compiler": "HashLips Art Engine - BHGC Modified",
-  "gender": "M"
+  "date": 1652748024117,
+  "compiler": "HashLips Art Engine - BHGC Modified"
 }
