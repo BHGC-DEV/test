@@ -1,11 +1,11 @@
 {
-  "name": "Azul",
-  "description": "This bird is called Azul. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Azul O Iris, but its best friends call it by its squeaky nickname, Fifi. It is the most blind bird in Bethlehem East. \n\nAzul loves to eat agutuk, although it will tuck into nearly anything that it considers sufficiently entire. \n\nAzul is a Cancer with a blood type of A-, who rejoices in horns and mists. However, Azul deplores flowers. By day, Azul works as a simple print finisher. By night, it enjoys ghost hunting. \n\nAzul’s secret is that it has the second personality of a ruthless bully. It has a hat that is an enormous chad. The hat’s name is Leo.",
+  "name": "Sammy",
+  "description": "This bird is called Sammy. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Sammy K. Vida, but her best friends call her by her flippant nickname, Sha. She is the most important bird in Maungataniwha. \n\nSammy loves to eat biltong, although she will obliterate nearly anything that it considers sufficiently weary. \n\nSammy’s star sign is Libra, and her blood type is A+. This bird delights in trails and yards. However, Sammy detests chickens. By day, Sammy works as a simple gas mechanic. By night, she enjoys role-playing games. \n\nSammy’s secret is that she uses hacks. She has a hat that knows you better than you know yourself. The hat’s name is Aileen.",
   "image": "https://bhgc-dev.github.io/test/images/18.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail kiwi"
     },
     {
       "trait_type": "chests",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit spats"
+      "value": "legs fantail boots"
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
-      "value": "eye white"
+      "value": "eye human"
     },
     {
       "trait_type": "wattles",
@@ -37,23 +37,23 @@
     },
     {
       "trait_type": "beaks",
-      "value": "corvid"
+      "value": "beak tomtit"
     },
     {
       "trait_type": "glasses",
-      "value": "aviators"
+      "value": "glasses none"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf purple"
+      "value": "clothes scarf pink"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy blue"
+      "value": "farm brown"
     },
     {
       "trait_type": "Gender",
-      "value": "Unassigned"
+      "value": "Female"
     },
     {
       "trait_type": "Hat",
@@ -61,15 +61,15 @@
     },
     {
       "trait_type": "Heart",
-      "value": 7
+      "value": 3
     },
     {
       "trait_type": "Magic",
-      "value": 5
+      "value": 2
     },
     {
       "trait_type": "Size",
-      "value": 2
+      "value": 5
     },
     {
       "trait_type": "Speed",
@@ -77,23 +77,23 @@
     },
     {
       "trait_type": "Blood Type",
-      "value": "A-"
+      "value": "A+"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Cancer"
+      "value": "Libra"
     },
     {
       "trait_type": "Job",
-      "value": "print finisher"
+      "value": "gas mechanic"
     },
     {
       "trait_type": "Habitat",
-      "value": "Bethlehem East"
+      "value": "Maungataniwha"
     }
   ],
-  "dna": "6f39cd49ff50a8b07f7c77cfbf14a3af92c98e8c",
+  "dna": "ad6e12c82e795dd9890e44aaff42597472c5d8d6",
   "edition": 18,
-  "date": 1652748021710,
+  "date": 1652756492832,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

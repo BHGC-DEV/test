@@ -1,23 +1,23 @@
 {
-  "name": "Brenden",
-  "description": "This bird is called Brenden. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Brenden C Sibyl, but his best friends call him by his speedy nickname, Gertrude. He is the most untidy bird in Hospital Hill. \n\nBrenden loves to eat hydrolyzed cats, although he will chaw nearly anything that it considers sufficiently suspicious. \n\nBrenden is a Gemini with a blood type of O-, who relishes dryers and creams. However, Brenden dislikes chickens. By day, Brenden works as a simple stationer. By night, he enjoys hooping. \n\nBrenden’s secret is that he is never gonna run around and desert you. He has a hat that hangs around in bars. The hat’s name is Dexter.",
+  "name": "Edwin",
+  "description": "This bird is called Edwin. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Edwin A. Bennie, but his best friends call him by his severe nickname, Jon. He is the most idealistic bird in Taharua. \n\nEdwin loves to eat refried beans, although he will guzzle nearly anything that it considers sufficiently admired. \n\nEdwin’s star sign is Virgo, and his blood type is Yaas. This bird freaks out about lifts and knots. However, Edwin scorns mittens. By day, Edwin works as a simple secretary. By night, he enjoys crocheting. \n\nEdwin’s secret is that he hangs upside down to sleep. He has a hat that stans too hard. The hat’s name is Corene.",
   "image": "https://bhgc-dev.github.io/test/images/31.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body stars"
     },
     {
       "trait_type": "tails",
-      "value": "tail tomtit"
+      "value": "tail kiwi"
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye white"
+      "value": "eye black"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "corvid blood"
+      "value": "beak kiwi"
     },
     {
       "trait_type": "glasses",
@@ -45,11 +45,11 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf purple"
+      "value": "clothes scarf blue yellow stripes"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy maroon"
+      "value": "hat tophat"
     },
     {
       "trait_type": "Gender",
@@ -57,43 +57,43 @@
     },
     {
       "trait_type": "Hat",
-      "value": 2
-    },
-    {
-      "trait_type": "Heart",
-      "value": 8
-    },
-    {
-      "trait_type": "Magic",
-      "value": 1
-    },
-    {
-      "trait_type": "Size",
       "value": 3
     },
     {
+      "trait_type": "Heart",
+      "value": 6
+    },
+    {
+      "trait_type": "Magic",
+      "value": 6
+    },
+    {
+      "trait_type": "Size",
+      "value": 5
+    },
+    {
       "trait_type": "Speed",
-      "value": 2
+      "value": 8
     },
     {
       "trait_type": "Blood Type",
-      "value": "O-"
+      "value": "Yaas"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Gemini"
+      "value": "Virgo"
     },
     {
       "trait_type": "Job",
-      "value": "stationer"
+      "value": "secretary"
     },
     {
       "trait_type": "Habitat",
-      "value": "Hospital Hill"
+      "value": "Taharua"
     }
   ],
-  "dna": "74456d9447904e567a6a192b6861f65a946010df",
+  "dna": "c09344e5482383ac6b2c5e36b2752029fb3bbd6d",
   "edition": 31,
-  "date": 1652748021444,
+  "date": 1652756493493,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

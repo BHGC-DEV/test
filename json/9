@@ -1,6 +1,6 @@
 {
-  "name": "Bryce",
-  "description": "This bird is called Bryce. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Bryce N Gretchen, but their best friends call them by their brilliant nickname, Athy. They is the most candid bird in Berhampore East. \n\nBryce loves to eat besan, although they will ingest nearly anything that it considers sufficiently weary. \n\nBryce is a Sagittarius with a blood type of AB-, who fancies footballs and squids. However, Bryce shuns lettuces. By day, Bryce works as a simple television engineer. By night, they enjoys crocheting. \n\nBryce’s secret is that they is a motherflippin' wizard. They has a hat that contains other, smaller hats. The hat’s name is Sofia.",
+  "name": "Miguel",
+  "description": "This bird is called Miguel. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Miguel W. Margueritta, but his best friends call him by his aggravating nickname, Judith. He is the most sturdy bird in Wakeling. \n\nMiguel loves to eat water, although he will destroy nearly anything that it considers sufficiently chief. \n\nMiguel’s star sign is Leo, and his blood type is B+. This bird relishes potatoes and judges. However, Miguel avoids eyes. By day, Miguel works as a simple lighterman. By night, he enjoys graffiti. \n\nMiguel’s secret is that he has another, smaller bird inside it. He has a hat that sniffs paint. The hat’s name is Johnnie.",
   "image": "https://bhgc-dev.github.io/test/images/9.png",
   "attributes": [
     {
@@ -13,11 +13,11 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
@@ -25,7 +25,7 @@
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "corvid blood"
+      "value": "beak kiwi"
     },
     {
       "trait_type": "glasses",
@@ -45,55 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "bowtie blue"
+      "value": "tie bubbles"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy maroon"
+      "value": "farm blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Unknown"
+      "value": "Male"
     },
     {
       "trait_type": "Hat",
-      "value": 7
+      "value": 3
     },
     {
       "trait_type": "Heart",
-      "value": 3
+      "value": 6
     },
     {
       "trait_type": "Magic",
-      "value": 2
+      "value": 8
     },
     {
       "trait_type": "Size",
-      "value": 2
+      "value": 6
     },
     {
       "trait_type": "Speed",
-      "value": 3
+      "value": 4
     },
     {
       "trait_type": "Blood Type",
-      "value": "AB-"
+      "value": "B+"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Sagittarius"
+      "value": "Leo"
     },
     {
       "trait_type": "Job",
-      "value": "television engineer"
+      "value": "lighterman"
     },
     {
       "trait_type": "Habitat",
-      "value": "Berhampore East"
+      "value": "Wakeling"
     }
   ],
-  "dna": "efd3b0dfe60795f112a10bc90fb5a235dadaea8e",
+  "dna": "eab1bf6878007239c2d0e86c2d41f366a5a7d4ea",
   "edition": 9,
-  "date": 1652748017115,
+  "date": 1652756493783,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

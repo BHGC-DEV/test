@@ -1,11 +1,11 @@
 {
-  "name": "Celia",
-  "description": "This bird is called Celia. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Celia R Gilbert, but her best friends call her by her roasted nickname, Kill. She is the most grubby bird in Nuhaka. \n\nCelia loves to eat burdock, although she will destroy nearly anything that it considers sufficiently gracious. \n\nCelia is a Capricorn with a blood type of A+, who loves tickets and candles. However, Celia objects to mustards. By day, Celia works as a simple software consultant. By night, she enjoys sailing. \n\nCelia’s secret is that she serves the One True God. She has a hat that has another, smaller bird inside it. The hat’s name is Unknown.",
+  "name": "Turner",
+  "description": "This bird is called Turner. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Turner Y. Gwen, but her best friends call her by her faint nickname, Bree. She is the most favorable bird in Poets Block. \n\nTurner loves to eat gelatin, although she will nyam nearly anything that it considers sufficiently spirited. \n\nTurner’s star sign is Cancer, and her blood type is Melancholic. This bird adores dressers and pamphlets. However, Turner despises lists. By day, Turner works as a simple mechanic. By night, she enjoys glassblowing. \n\nTurner’s secret is that she has powers that could shatter the foundations of the earth. She has a hat that treats retail workers well. The hat’s name is Chalmer.",
   "image": "https://bhgc-dev.github.io/test/images/22.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background white"
+      "value": "background blue"
     },
     {
       "trait_type": "bodies",
@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs kiwi"
+      "value": "legs fantail boots"
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
-      "value": "eye normal"
+      "value": "eye black"
     },
     {
       "trait_type": "wattles",
@@ -37,19 +37,19 @@
     },
     {
       "trait_type": "beaks",
-      "value": "fantail"
+      "value": "corvid blood"
     },
     {
       "trait_type": "glasses",
-      "value": "aviators"
+      "value": "glasses none"
     },
     {
       "trait_type": "clothes",
-      "value": "bowtie pink"
+      "value": "tie red"
     },
     {
       "trait_type": "hats",
-      "value": "wizard grey"
+      "value": "pirate pink"
     },
     {
       "trait_type": "Gender",
@@ -57,19 +57,19 @@
     },
     {
       "trait_type": "Hat",
-      "value": 6
+      "value": 2
     },
     {
       "trait_type": "Heart",
-      "value": 6
+      "value": 2
     },
     {
       "trait_type": "Magic",
-      "value": 6
+      "value": 1
     },
     {
       "trait_type": "Size",
-      "value": 8
+      "value": 1
     },
     {
       "trait_type": "Speed",
@@ -77,23 +77,23 @@
     },
     {
       "trait_type": "Blood Type",
-      "value": "A+"
+      "value": "Melancholic"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Capricorn"
+      "value": "Cancer"
     },
     {
       "trait_type": "Job",
-      "value": "software consultant"
+      "value": "mechanic"
     },
     {
       "trait_type": "Habitat",
-      "value": "Nuhaka"
+      "value": "Poets Block"
     }
   ],
-  "dna": "6d9f29f119c10dd07ef927f751dedc798a0eea06",
+  "dna": "6d004696847d3d49b8c6ff98f10685706b31135e",
   "edition": 22,
-  "date": 1652748016018,
+  "date": 1652756491820,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

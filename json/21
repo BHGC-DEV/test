@@ -1,11 +1,11 @@
 {
-  "name": "Abril",
-  "description": "This bird is called Abril. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Abril C Dannie, but its best friends call it by its powerless nickname, Horry. It is the most scaly bird in Kaipara Harbour North. \n\nAbril loves to eat butter, although it will guzzle nearly anything that it considers sufficiently valuable. \n\nAbril is a Cancer with a blood type of B-, who rejoices in clouds and skins. However, Abril loathes macaronies. By day, Abril works as a simple tax manager. By night, it enjoys board games. \n\nAbril’s secret is that it yeets. It has a hat that contains other, smaller hats. The hat’s name is Jeanette.",
+  "name": "Casey",
+  "description": "This bird is called Casey. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Casey D. Reva, but his best friends call him by his oval nickname, Eliza. He is the most melodic bird in Buckland South. \n\nCasey loves to eat purslane, although he will nibble nearly anything that it considers sufficiently rare. \n\nCasey’s star sign is Aquarius, and his blood type is Phlegmatic. This bird freaks out about caterpillars and bulldozers. However, Casey dislikes mechanics. By day, Casey works as a simple purchasing assistant. By night, he enjoys scouting. \n\nCasey’s secret is that he yeets. He has a hat that eats bees. The hat’s name is Chas.",
   "image": "https://bhgc-dev.github.io/test/images/21.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
@@ -17,11 +17,11 @@
     },
     {
       "trait_type": "chests",
-      "value": "chest white"
+      "value": "fantail chest"
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail boots"
+      "value": "legs tomtit"
     },
     {
       "trait_type": "wings",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye fantail"
+      "value": "eye white"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "corvid blood"
+      "value": "corvid"
     },
     {
       "trait_type": "glasses",
@@ -45,55 +45,59 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf black blue stripes"
+      "value": "clothes scarf black purple stripes"
+    },
+    {
+      "trait_type": "sketchy",
+      "value": "sketchy"
     },
     {
       "trait_type": "hats",
-      "value": "pirate purple"
+      "value": "pirate blue gold pink"
     },
     {
       "trait_type": "Gender",
-      "value": "Tau"
+      "value": "Male"
     },
     {
       "trait_type": "Hat",
-      "value": 6
+      "value": 3
     },
     {
       "trait_type": "Heart",
-      "value": 5
+      "value": 7
     },
     {
       "trait_type": "Magic",
-      "value": 8
+      "value": 3
     },
     {
       "trait_type": "Size",
-      "value": 6
+      "value": 8
     },
     {
       "trait_type": "Speed",
-      "value": 4
+      "value": 2
     },
     {
       "trait_type": "Blood Type",
-      "value": "B-"
+      "value": "Phlegmatic"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Cancer"
+      "value": "Aquarius"
     },
     {
       "trait_type": "Job",
-      "value": "tax manager"
+      "value": "purchasing assistant"
     },
     {
       "trait_type": "Habitat",
-      "value": "Kaipara Harbour North"
+      "value": "Buckland South"
     }
   ],
-  "dna": "71b9bb31f0be51d07f9fcd5e79fd1139f44e18d6",
+  "dna": "74adbf2a9671f961a1d10e71eb5f1bd1f5203820",
   "edition": 21,
-  "date": 1652748015460,
+  "date": 1652756492182,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

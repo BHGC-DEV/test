@@ -1,6 +1,6 @@
 {
-  "name": "Summer",
-  "description": "This bird is called Summer. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Summer M Kay, but her best friends call her by her thankful nickname, Benjamin. She is the most awful bird in Karori East. \n\nSummer loves to eat dough, although she will wolf nearly anything that it considers sufficiently handsome. \n\nSummer is a Aquarius with a blood type of Zoinks, who adores trips and spikes. However, Summer avoids crates. By day, Summer works as a simple climate-change activist. By night, she enjoys base jumping. \n\nSummer’s secret is that she enjoys contemporary art. She has a hat that won't stop talking about electric cars. The hat’s name is Orin.",
+  "name": "Chase",
+  "description": "This bird is called Chase. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Chase Y. Guss, but its best friends call it by its submissive nickname, Marianna. It is the most sinful bird in Edmonton. \n\nChase loves to eat rocks, although it will tuck into nearly anything that it considers sufficiently constant. \n\nChase’s star sign is Virgo, and its blood type is AB-. This bird delights in fruits and recorders. However, Chase shuns kisses. By day, Chase works as a simple administration manager. By night, it enjoys kayaking. \n\nChase’s secret is that it is intelligent to the point of never knowing happiness. It has a hat that wishes it was a cat. The hat’s name is Courtney.",
   "image": "https://bhgc-dev.github.io/test/images/29.png",
   "attributes": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body rainbow gradient"
     },
     {
       "trait_type": "tails",
@@ -17,11 +17,11 @@
     },
     {
       "trait_type": "chests",
-      "value": "chest white"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit spats"
+      "value": "legs fantail"
     },
     {
       "trait_type": "wings",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye normal"
+      "value": "eye human"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle fantail"
+      "value": "wattle tomtit"
     },
     {
       "trait_type": "beaks",
-      "value": "fantail scold"
+      "value": "fantail"
     },
     {
       "trait_type": "glasses",
@@ -45,7 +45,7 @@
     },
     {
       "trait_type": "clothes",
-      "value": "tie hearts"
+      "value": "clothes scarf black"
     },
     {
       "trait_type": "hats",
@@ -53,11 +53,11 @@
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Dilettante"
     },
     {
       "trait_type": "Hat",
-      "value": 6
+      "value": 8
     },
     {
       "trait_type": "Heart",
@@ -65,35 +65,35 @@
     },
     {
       "trait_type": "Magic",
-      "value": 2
+      "value": 5
     },
     {
       "trait_type": "Size",
-      "value": 2
+      "value": 4
     },
     {
       "trait_type": "Speed",
-      "value": 8
+      "value": 6
     },
     {
       "trait_type": "Blood Type",
-      "value": "Zoinks"
+      "value": "AB-"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Aquarius"
+      "value": "Virgo"
     },
     {
       "trait_type": "Job",
-      "value": "climate-change activist"
+      "value": "administration manager"
     },
     {
       "trait_type": "Habitat",
-      "value": "Karori East"
+      "value": "Edmonton"
     }
   ],
-  "dna": "592cd19d66f4edd44a1a8059aa24c844fe9ee498",
+  "dna": "f589ea35faa17eca6adcfc0cab6ec89a55a406ff",
   "edition": 29,
-  "date": 1652748013983,
+  "date": 1652756490778,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

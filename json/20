@@ -1,11 +1,11 @@
 {
-  "name": "Kadyn",
-  "description": "This bird is called Kadyn. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Kadyn C Jeanette, but its best friends call it by its extra-large nickname, Jane. It is the most growing bird in Eltham. \n\nKadyn loves to eat carrot, although it will annihilate nearly anything that it considers sufficiently secret. \n\nKadyn is a Gemini with a blood type of O+, who loves ponds and tails. However, Kadyn scorns tulips. By day, Kadyn works as a simple tea blender. By night, it enjoys pottery. \n\nKadyn’s secret is that it spreads butter. It has a hat that enthuses over jelly wrestling. The hat’s name is Louisa.",
+  "name": "Ingrid",
+  "description": "This bird is called Ingrid. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Ingrid T. Tiny, but its best friends call it by its writhing nickname, Vester. It is the most little bird in Richmond North. \n\nIngrid loves to eat butter, although it will ingurgitate nearly anything that it considers sufficiently open. \n\nIngrid’s star sign is Sagittarius, and its blood type is ZX Spectral. This bird goes crazy for glasses and lunches. However, Ingrid disesteems rowboats. By day, Ingrid works as a simple smallholder. By night, it enjoys puzzles. \n\nIngrid’s secret is that it has an untouched video game backlog stretching back to 2005. It has a hat that screams and screams and screams and screams. The hat’s name is Magdalene.",
   "image": "https://bhgc-dev.github.io/test/images/20.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
@@ -17,11 +17,11 @@
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail"
+      "value": "legs rainbow gradient"
     },
     {
       "trait_type": "wings",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye black"
+      "value": "eye normal"
     },
     {
       "trait_type": "wattles",
@@ -41,7 +41,7 @@
     },
     {
       "trait_type": "glasses",
-      "value": "glasses none"
+      "value": "aviators"
     },
     {
       "trait_type": "clothes",
@@ -49,15 +49,15 @@
     },
     {
       "trait_type": "hats",
-      "value": "cowboy purple"
+      "value": "cowboy simple corks"
     },
     {
       "trait_type": "Gender",
-      "value": "Yes"
+      "value": "Tau"
     },
     {
       "trait_type": "Hat",
-      "value": 4
+      "value": 7
     },
     {
       "trait_type": "Heart",
@@ -69,31 +69,31 @@
     },
     {
       "trait_type": "Size",
-      "value": 2
+      "value": 4
     },
     {
       "trait_type": "Speed",
-      "value": 3
+      "value": 2
     },
     {
       "trait_type": "Blood Type",
-      "value": "O+"
+      "value": "ZX Spectral"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Gemini"
+      "value": "Sagittarius"
     },
     {
       "trait_type": "Job",
-      "value": "tea blender"
+      "value": "smallholder"
     },
     {
       "trait_type": "Habitat",
-      "value": "Eltham"
+      "value": "Richmond North"
     }
   ],
-  "dna": "cbb266802cf16792311c6777e8121cf26d7887dd",
+  "dna": "4e4722bab6c489e5e4cc064ad9022d5d55cd37dd",
   "edition": 20,
-  "date": 1652748018880,
+  "date": 1652756493954,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

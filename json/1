@@ -1,6 +1,6 @@
 {
-  "name": "Andy",
-  "description": "This bird is called Andy. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Andy Y Jeremiah, but its best friends call it by its growling nickname, Ernie. It is the most phony bird in Hinds. \n\nAndy loves to eat pomegranate, although it will gulp nearly anything that it considers sufficiently itchy. \n\nAndy is a Aquarius with a blood type of A+, who rejoices in goals and mascaras. However, Andy scorns rails. By day, Andy works as a simple riveter. By night, it enjoys sculpting. \n\nAndy’s secret is that it spreads rumours. It has a hat that gets distracted easily. The hat’s name is Francisco.",
+  "name": "Prince",
+  "description": "This bird is called Prince. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Prince W. Murl, but its best friends call it by its altruistic nickname, Indie. It is the most sweet bird in Langbein. \n\nPrince loves to eat sherbet, although it will get stuck into nearly anything that it considers sufficiently rash. \n\nPrince’s star sign is Libra, and its blood type is Savvy. This bird goes crazy for pastries and grapes. However, Prince is averse to letters. By day, Prince works as a simple bus company. By night, it enjoys jigsaw puzzles. \n\nPrince’s secret is that it is stronk. It has a hat that spreads disinformation. The hat’s name is Wilhelmina.",
   "image": "https://bhgc-dev.github.io/test/images/1.png",
   "attributes": [
     {
@@ -13,15 +13,15 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit spats"
+      "value": "legs kiwi"
     },
     {
       "trait_type": "wings",
@@ -45,11 +45,11 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf pink blue stripes"
+      "value": "tie blue"
     },
     {
       "trait_type": "hats",
-      "value": "hat tophat symbol e"
+      "value": "pirate pink"
     },
     {
       "trait_type": "Gender",
@@ -57,11 +57,11 @@
     },
     {
       "trait_type": "Hat",
-      "value": 1
+      "value": 5
     },
     {
       "trait_type": "Heart",
-      "value": 6
+      "value": 2
     },
     {
       "trait_type": "Magic",
@@ -69,31 +69,31 @@
     },
     {
       "trait_type": "Size",
-      "value": 8
+      "value": 2
     },
     {
       "trait_type": "Speed",
-      "value": 7
+      "value": 5
     },
     {
       "trait_type": "Blood Type",
-      "value": "A+"
+      "value": "Savvy"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Aquarius"
+      "value": "Libra"
     },
     {
       "trait_type": "Job",
-      "value": "riveter"
+      "value": "bus company"
     },
     {
       "trait_type": "Habitat",
-      "value": "Hinds"
+      "value": "Langbein"
     }
   ],
-  "dna": "7c841d9d4b23e11140ad3c38d648848ef8d8541b",
+  "dna": "aa9e79afa4b4d948ee19d1778c9a390f75529bc0",
   "edition": 1,
-  "date": 1652748019779,
+  "date": 1652756492975,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

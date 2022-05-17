@@ -1,6 +1,6 @@
 {
-  "name": "Cameron",
-  "description": "This bird is called Cameron. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Cameron O Meredith, but her best friends call her by her villainous nickname, Levy. She is the most lavish bird in Seatoun. \n\nCameron loves to eat naranjilla, although she will consume nearly anything that it considers sufficiently fake. \n\nCameron is a Aquarius with a blood type of B+, who enjoys ankles and pants. However, Cameron loathes bees. By day, Cameron works as a simple milklady. By night, she enjoys listening to music. \n\nCameron’s secret is that she is the living avatar of Truth. She has a hat that hits the \"I'm Feeling Lucky\" button. The hat’s name is Avery.",
+  "name": "Malia",
+  "description": "This bird is called Malia. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Malia G. Elena, but his best friends call him by his cheerful nickname, Allie. He is the most jaunty bird in Charlton. \n\nMalia loves to eat citrus, although he will consume nearly anything that it considers sufficiently lame. \n\nMalia’s star sign is Virgo, and his blood type is Yeet. This bird enjoys motorcycles and courts. However, Malia disapproves of vans. By day, Malia works as a simple medical assistant. By night, he enjoys rugby. \n\nMalia’s secret is that he has no clout. He has a hat that is rad. The hat’s name is Jennie.",
   "image": "https://bhgc-dev.github.io/test/images/12.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body fantail"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
-      "value": "tail tomtit"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
@@ -21,19 +21,19 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit spats"
+      "value": "legs tomtit"
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye green"
+      "value": "eye normal"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle fantail"
+      "value": "wattle tomtit"
     },
     {
       "trait_type": "beaks",
@@ -45,27 +45,23 @@
     },
     {
       "trait_type": "clothes",
-      "value": "tie hearts"
-    },
-    {
-      "trait_type": "sketchy",
-      "value": "sketchy"
+      "value": "clothes scarf white"
     },
     {
       "trait_type": "hats",
-      "value": "pirate blue gold red"
+      "value": "cowboy simple corks"
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Hat",
-      "value": 8
+      "value": 6
     },
     {
       "trait_type": "Heart",
-      "value": 5
+      "value": 7
     },
     {
       "trait_type": "Magic",
@@ -73,31 +69,31 @@
     },
     {
       "trait_type": "Size",
-      "value": 3
+      "value": 2
     },
     {
       "trait_type": "Speed",
-      "value": 7
+      "value": 3
     },
     {
       "trait_type": "Blood Type",
-      "value": "B+"
+      "value": "Yeet"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Aquarius"
+      "value": "Virgo"
     },
     {
       "trait_type": "Job",
-      "value": "milklady"
+      "value": "medical assistant"
     },
     {
       "trait_type": "Habitat",
-      "value": "Seatoun"
+      "value": "Charlton"
     }
   ],
-  "dna": "db9f0902538c7c9de9dfe2f30b4aa33ef08f76d7",
+  "dna": "946e1ea387b1f6772fd802672b5fad1780d58276",
   "edition": 12,
-  "date": 1652748024797,
+  "date": 1652756491445,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "Paityn",
-  "description": "This bird is called Paityn. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Paityn M Aline, but its best friends call it by its essential nickname, Doda. It is the most graceful bird in Weston. \n\nPaityn loves to eat lambs, although it will annihilate nearly anything that it considers sufficiently drab. \n\nPaityn is a Gemini with a blood type of Halfling, who freaks out about blocks and teas. However, Paityn detests wheels. By day, Paityn works as a simple typist. By night, it enjoys skateboarding. \n\nPaityn’s secret is that it cries over anime. It has a hat that lives in a giant bucket. The hat’s name is Newell.",
+  "name": "Callum",
+  "description": "This bird is called Callum. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Callum O. Jewel, but her best friends call her by her wretched nickname, Cage. She is the most tangible bird in Avondale South. \n\nCallum loves to eat sweet, although she will bolt nearly anything that it considers sufficiently tasty. \n\nCallum’s star sign is Libra, and her blood type is Oleaginous. This bird adores characters and ceilings. However, Callum avoids belts. By day, Callum works as a simple jewellery. By night, she enjoys lacemaking. \n\nCallum’s secret is that she secretly aspires to become a surgeon. She has a hat that is a giant chad. The hat’s name is Brooks.",
   "image": "https://bhgc-dev.github.io/test/images/7.png",
   "attributes": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body fantail"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
@@ -17,11 +17,11 @@
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit spats"
+      "value": "legs kiwi"
     },
     {
       "trait_type": "wings",
@@ -29,71 +29,71 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye black"
+      "value": "eye normal"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle fantail"
+      "value": "wattle tomtit"
     },
     {
       "trait_type": "beaks",
-      "value": "fantail scold"
+      "value": "duck"
     },
     {
       "trait_type": "glasses",
-      "value": "aviators pink"
+      "value": "glasses none"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf purple"
+      "value": "tie sunflowers"
     },
     {
       "trait_type": "hats",
-      "value": "hat tophat"
+      "value": "wizard blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Dilettante"
+      "value": "Female"
     },
     {
       "trait_type": "Hat",
-      "value": 2
+      "value": 6
     },
     {
       "trait_type": "Heart",
-      "value": 2
+      "value": 3
     },
     {
       "trait_type": "Magic",
-      "value": 7
+      "value": 2
     },
     {
       "trait_type": "Size",
-      "value": 1
+      "value": 4
     },
     {
       "trait_type": "Speed",
-      "value": 8
+      "value": 3
     },
     {
       "trait_type": "Blood Type",
-      "value": "Halfling"
+      "value": "Oleaginous"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Gemini"
+      "value": "Libra"
     },
     {
       "trait_type": "Job",
-      "value": "typist"
+      "value": "jewellery"
     },
     {
       "trait_type": "Habitat",
-      "value": "Weston"
+      "value": "Avondale South"
     }
   ],
-  "dna": "5b1e9569b3d7e7d36f4782e36ae2c587cbf6ecc0",
+  "dna": "797f5ce24a214de35b67273d9c4a55320dd54b91",
   "edition": 7,
-  "date": 1652748021571,
+  "date": 1652756493110,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

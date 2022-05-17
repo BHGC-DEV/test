@@ -1,6 +1,6 @@
 {
-  "name": "Wyatt",
-  "description": "This bird is called Wyatt. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Wyatt B Dannie, but its best friends call it by its well-lit nickname, Bo. It is the most unhappy bird in Broad Bay-Portobello. \n\nWyatt loves to eat knackwurst, although it will destroy nearly anything that it considers sufficiently failing. \n\nWyatt is a Sagittarius with a blood type of O-, who adores maps and fishes. However, Wyatt does not take kindly to silks. By day, Wyatt works as a simple classroom aide. By night, it enjoys sand art. \n\nWyatt’s secret is that it wants to put a dent in the world. It has a hat that sighs too loudly. The hat’s name is Marian.",
+  "name": "Sadie",
+  "description": "This bird is called Sadie. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Sadie L. Carlos, but its best friends call it by its bare nickname, Bessie. It is the most general bird in Stillwater. \n\nSadie loves to eat pretzels, although it will demolish nearly anything that it considers sufficiently oblong. \n\nSadie’s star sign is Scorpio, and its blood type is A-. This bird relishes dryers and eyes. However, Sadie objects to swordfishes. By day, Sadie works as a simple charge hand. By night, it enjoys drawing. \n\nSadie’s secret is that it can instantly point out the problematic part of any given movie or show. It has a hat that calls cats \"Fur Chickens\". The hat’s name is Clinton.",
   "image": "https://bhgc-dev.github.io/test/images/6.png",
   "attributes": [
     {
@@ -9,19 +9,19 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
-      "value": "chest white"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit spats"
+      "value": "legs kiwi"
     },
     {
       "trait_type": "wings",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye normal"
+      "value": "eye green"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "fantail scold"
+      "value": "beak kiwi"
     },
     {
       "trait_type": "glasses",
@@ -45,11 +45,11 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf black"
+      "value": "tie blue"
     },
     {
       "trait_type": "hats",
-      "value": "pirate blue png"
+      "value": "cowboy maroon"
     },
     {
       "trait_type": "Gender",
@@ -57,7 +57,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": 5
+      "value": 7
     },
     {
       "trait_type": "Heart",
@@ -65,7 +65,7 @@
     },
     {
       "trait_type": "Magic",
-      "value": 1
+      "value": 6
     },
     {
       "trait_type": "Size",
@@ -73,27 +73,27 @@
     },
     {
       "trait_type": "Speed",
-      "value": 5
+      "value": 6
     },
     {
       "trait_type": "Blood Type",
-      "value": "O-"
+      "value": "A-"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Sagittarius"
+      "value": "Scorpio"
     },
     {
       "trait_type": "Job",
-      "value": "classroom aide"
+      "value": "charge hand"
     },
     {
       "trait_type": "Habitat",
-      "value": "Broad Bay-Portobello"
+      "value": "Stillwater"
     }
   ],
-  "dna": "4b85803f25f3930183369e5a436cf13a0cdbf3ea",
+  "dna": "c7b1bd30e25240784a492ad3c92155bcb3bedcd9",
   "edition": 6,
-  "date": 1652748020450,
+  "date": 1652756494862,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

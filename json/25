@@ -1,6 +1,6 @@
 {
-  "name": "Addisyn",
-  "description": "This bird is called Addisyn. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Addisyn X Wilford, but its best friends call it by its sudden nickname, Sybill. It is the most scornful bird in Waiata. \n\nAddisyn loves to eat redditors, although it will get stuck into nearly anything that it considers sufficiently spotless. \n\nAddisyn is a Aries with a blood type of O+, who goes crazy for plots and gates. However, Addisyn scorns heavens. By day, Addisyn works as a simple jockey. By night, it enjoys painting. \n\nAddisyn’s secret is that it seeks immortality. It has a hat that has a power level of over 9000. The hat’s name is Hazel.",
+  "name": "Jade",
+  "description": "This bird is called Jade. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Jade E. Monroe, but her best friends call her by her stiff nickname, Vina. She is the most superior bird in Fairdene. \n\nJade loves to eat moose, although she will eat nearly anything that it considers sufficiently sharp. \n\nJade’s star sign is Aries, and her blood type is AB-. This bird adores elephants and ducks. However, Jade objects to creeks. By day, Jade works as a simple caulker. By night, she enjoys model building. \n\nJade’s secret is that she messes around in boats. She has a hat that knows who's who. The hat’s name is Nick.",
   "image": "https://bhgc-dev.github.io/test/images/25.png",
   "attributes": [
     {
@@ -9,35 +9,35 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
-      "value": "chest white"
+      "value": "fantail chest"
     },
     {
       "trait_type": "legs",
-      "value": "legs kiwi"
+      "value": "legs fantail"
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing kiwi"
     },
     {
       "trait_type": "eyes",
-      "value": "eye fantail"
+      "value": "eye green"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "fantail scold"
+      "value": "beak kiwi"
     },
     {
       "trait_type": "glasses",
@@ -45,31 +45,31 @@
     },
     {
       "trait_type": "clothes",
-      "value": "bowtie pink"
+      "value": "tie black"
     },
     {
       "trait_type": "hats",
-      "value": "farm brown"
+      "value": "wizard grey"
     },
     {
       "trait_type": "Gender",
-      "value": "Unassigned"
+      "value": "Female"
     },
     {
       "trait_type": "Hat",
-      "value": 2
+      "value": 3
     },
     {
       "trait_type": "Heart",
-      "value": 1
+      "value": 2
     },
     {
       "trait_type": "Magic",
-      "value": 1
+      "value": 4
     },
     {
       "trait_type": "Size",
-      "value": 8
+      "value": 7
     },
     {
       "trait_type": "Speed",
@@ -77,7 +77,7 @@
     },
     {
       "trait_type": "Blood Type",
-      "value": "O+"
+      "value": "AB-"
     },
     {
       "trait_type": "Zodiac",
@@ -85,15 +85,15 @@
     },
     {
       "trait_type": "Job",
-      "value": "jockey"
+      "value": "caulker"
     },
     {
       "trait_type": "Habitat",
-      "value": "Waiata"
+      "value": "Fairdene"
     }
   ],
-  "dna": "96bce3649e4d6eef085f19d90cc18ea186590e8c",
+  "dna": "244bc5480056bf46277514a7afc9e878e95f4c11",
   "edition": 25,
-  "date": 1652748025196,
+  "date": 1652756493369,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

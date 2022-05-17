@@ -1,27 +1,27 @@
 {
-  "name": "Aydin",
-  "description": "This bird is called Aydin. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Aydin X Marvel, but its best friends call it by its decisive nickname, Rhynie. It is the most roasted bird in Rotoorangi. \n\nAydin loves to eat broth, although it will make short work of nearly anything that it considers sufficiently well-informed. \n\nAydin is a Taurus with a blood type of Zoinks, who relishes soybeans and sands. However, Aydin objects to ducks. By day, Aydin works as a simple medical supplier. By night, it enjoys rugby. \n\nAydin’s secret is that it whistles a few bars of an earworm and then you have to live with it for the rest of the day. It has a hat that owns property. The hat’s name is Alma.",
+  "name": "Coleman",
+  "description": "This bird is called Coleman. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Coleman W. Lura, but his best friends call him by his dimpled nickname, Dyer. He is the most negligible bird in Te Puke East. \n\nColeman loves to eat groats, although he will tuck into nearly anything that it considers sufficiently gifted. \n\nColeman’s star sign is Sagittarius, and his blood type is Zoinks. This bird adores wolfs and reindeers. However, Coleman scorns horses. By day, Coleman works as a simple newsagent. By night, he enjoys computer programming. \n\nColeman’s secret is that he is inappropriate. He has a hat that has achieved enlightenment. The hat’s name is Josefa.",
   "image": "https://bhgc-dev.github.io/test/images/2.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
-      "value": "chest white"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit spats"
+      "value": "legs fantail"
     },
     {
       "trait_type": "wings",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye black"
+      "value": "eye normal"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "duck"
+      "value": "corvid blood"
     },
     {
       "trait_type": "glasses",
@@ -45,35 +45,35 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf purple"
+      "value": "tie purple"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy simple"
+      "value": "hat tophat symbol e"
     },
     {
       "trait_type": "Gender",
-      "value": "Yes"
+      "value": "Male"
     },
     {
       "trait_type": "Hat",
-      "value": 1
-    },
-    {
-      "trait_type": "Heart",
-      "value": 1
-    },
-    {
-      "trait_type": "Magic",
-      "value": 6
-    },
-    {
-      "trait_type": "Size",
       "value": 3
     },
     {
+      "trait_type": "Heart",
+      "value": 5
+    },
+    {
+      "trait_type": "Magic",
+      "value": 5
+    },
+    {
+      "trait_type": "Size",
+      "value": 8
+    },
+    {
       "trait_type": "Speed",
-      "value": 2
+      "value": 6
     },
     {
       "trait_type": "Blood Type",
@@ -81,19 +81,19 @@
     },
     {
       "trait_type": "Zodiac",
-      "value": "Taurus"
+      "value": "Sagittarius"
     },
     {
       "trait_type": "Job",
-      "value": "medical supplier"
+      "value": "newsagent"
     },
     {
       "trait_type": "Habitat",
-      "value": "Rotoorangi"
+      "value": "Te Puke East"
     }
   ],
-  "dna": "224b088c745acd849061f4243f09424fbbc228e7",
+  "dna": "f0878813fbe77338bc85a883f1186a73848d10f3",
   "edition": 2,
-  "date": 1652748018354,
+  "date": 1652756493245,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

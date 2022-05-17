@@ -1,6 +1,6 @@
 {
-  "name": "Ezequiel",
-  "description": "This bird is called Ezequiel. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Ezequiel F Pearl, but his best friends call him by his aware nickname, Tilly. He is the most powerless bird in Owairaka West. \n\nEzequiel loves to eat swisswurst, although he will make short work of nearly anything that it considers sufficiently snoopy. \n\nEzequiel is a Libra with a blood type of A+, who rejoices in drawers and swings. However, Ezequiel despises bedrooms. By day, Ezequiel works as a simple tour agent. By night, he enjoys mushroom hunting. \n\nEzequiel’s secret is that he collects stamps. He has a hat that drinks milk from the source. The hat’s name is Houston.",
+  "name": "Rigoberto",
+  "description": "This bird is called Rigoberto. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Rigoberto B. Wilson, but its best friends call it by its vibrant nickname, Dot. It is the most evil bird in Gracefield. \n\nRigoberto loves to eat dairy, although it will chomp nearly anything that it considers sufficiently corrupt. \n\nRigoberto’s star sign is Gemini, and its blood type is Melancholic. This bird enjoys chairs and recorders. However, Rigoberto antipathizes cobwebs. By day, Rigoberto works as a simple hygienist. By night, it enjoys machining. \n\nRigoberto’s secret is that it trusts the Free Market to sort everything out. It has a hat that is otherwise known as the tinder swindler. The hat’s name is Alverda.",
   "image": "https://bhgc-dev.github.io/test/images/10.png",
   "attributes": [
     {
@@ -9,27 +9,27 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail tomtit"
+      "value": "tail kiwi"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs kiwi"
+      "value": "legs tomtit"
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
-      "value": "eye spiral"
+      "value": "eye gormless"
     },
     {
       "trait_type": "wattles",
@@ -45,55 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf black blue stripes"
+      "value": "clothes scarf blue yellow stripes"
     },
     {
       "trait_type": "hats",
-      "value": "pirate black"
+      "value": "farm blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Yes"
     },
     {
       "trait_type": "Hat",
-      "value": 5
+      "value": 7
     },
     {
       "trait_type": "Heart",
-      "value": 8
+      "value": 2
     },
     {
       "trait_type": "Magic",
-      "value": 6
+      "value": 5
     },
     {
       "trait_type": "Size",
-      "value": 1
+      "value": 6
     },
     {
       "trait_type": "Speed",
-      "value": 3
+      "value": 2
     },
     {
       "trait_type": "Blood Type",
-      "value": "A+"
+      "value": "Melancholic"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Libra"
+      "value": "Gemini"
     },
     {
       "trait_type": "Job",
-      "value": "tour agent"
+      "value": "hygienist"
     },
     {
       "trait_type": "Habitat",
-      "value": "Owairaka West"
+      "value": "Gracefield"
     }
   ],
-  "dna": "39b1d144edcdf0080829e113463e03b9aabbb134",
+  "dna": "5eaccb0a813443f0bf4ed4ef7a96231e5ffc18bd",
   "edition": 10,
-  "date": 1652748019919,
+  "date": 1652756491168,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

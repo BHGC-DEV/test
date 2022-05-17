@@ -1,19 +1,19 @@
 {
-  "name": "Nyasia",
-  "description": "This bird is called Nyasia. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Nyasia U Fay, but its best friends call it by its wide-eyed nickname, Zachariah. It is the most tricky bird in Waimauku. \n\nNyasia loves to eat vinespinach, although it will tuck into nearly anything that it considers sufficiently treasured. \n\nNyasia is a Gemini with a blood type of B+, who fancies stools and deeds. However, Nyasia despises jumpers. By day, Nyasia works as a simple au pair. By night, it enjoys coffee roasting. \n\nNyasia’s secret is that it has boring kinks. It has a hat that is more fun than your mum. The hat’s name is Gail.",
+  "name": "Rebekah",
+  "description": "This bird is called Rebekah. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Rebekah X. Christopher, but her best friends call her by her happy nickname, Bartholomew. She is the most outgoing bird in Fruitvale. \n\nRebekah loves to eat flowers, although she will destroy nearly anything that it considers sufficiently bouncy. \n\nRebekah’s star sign is Taurus, and her blood type is O+. This bird relishes cardboards and pails. However, Rebekah shuns bonsais. By day, Rebekah works as a simple geologist. By night, she enjoys soapmaking. \n\nRebekah’s secret is that she strains the ocean for krill with a mouth full of baleen. She has a hat that has a six-foot long tongue. The hat’s name is Claudine.",
   "image": "https://bhgc-dev.github.io/test/images/8.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs kiwi"
+      "value": "legs fantail"
     },
     {
       "trait_type": "wings",
@@ -29,47 +29,47 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye normal"
+      "value": "eye rainbow gradient"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle fantail"
+      "value": "wattle tomtit"
     },
     {
       "trait_type": "beaks",
-      "value": "duck"
+      "value": "fantail scold"
     },
     {
       "trait_type": "glasses",
-      "value": "aviators"
+      "value": "glasses none"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf green"
+      "value": "tie blue"
     },
     {
       "trait_type": "hats",
-      "value": "hat tophat"
+      "value": "pirate blue png"
     },
     {
       "trait_type": "Gender",
-      "value": "Dilettante"
+      "value": "Female"
     },
     {
       "trait_type": "Hat",
-      "value": 8
+      "value": 1
     },
     {
       "trait_type": "Heart",
-      "value": 5
+      "value": 1
     },
     {
       "trait_type": "Magic",
-      "value": 6
+      "value": 2
     },
     {
       "trait_type": "Size",
-      "value": 5
+      "value": 2
     },
     {
       "trait_type": "Speed",
@@ -77,23 +77,23 @@
     },
     {
       "trait_type": "Blood Type",
-      "value": "B+"
+      "value": "O+"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Gemini"
+      "value": "Taurus"
     },
     {
       "trait_type": "Job",
-      "value": "au pair"
+      "value": "geologist"
     },
     {
       "trait_type": "Habitat",
-      "value": "Waimauku"
+      "value": "Fruitvale"
     }
   ],
-  "dna": "9ee85eb51e8275b2db633e31ef062827463a0ea1",
+  "dna": "86c7fc6f1a49b8bc94ea99d23f03d4f8caf71ee2",
   "edition": 8,
-  "date": 1652748023726,
+  "date": 1652756492720,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

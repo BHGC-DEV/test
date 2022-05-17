@@ -1,15 +1,15 @@
 {
-  "name": "Zariah",
-  "description": "This bird is called Zariah. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Zariah Y Antonio, but their best friends call them by their studious nickname, Trannie. They is the most other bird in Te Wharau. \n\nZariah loves to eat patties, although they will bolt nearly anything that it considers sufficiently delectable. \n\nZariah is a Ophiuchus with a blood type of NaCl, who relishes boats and seashores. However, Zariah antipathizes boats. By day, Zariah works as a simple student teacher. By night, they enjoys community. \n\nZariah’s secret is that they risks it all on one turn of pitch-and-toss. They has a hat that grants a wish. The hat’s name is Frances.",
+  "name": "Matias",
+  "description": "This bird is called Matias. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Matias W. Gene, but its best friends call it by its determined nickname, Cora. It is the most insubstantial bird in Pukekohe West. \n\nMatias loves to eat fennel, although it will nyam nearly anything that it considers sufficiently compassionate. \n\nMatias’s star sign is Pisces, and its blood type is B-. This bird appreciates winds and windscreens. However, Matias shuns pimples. By day, Matias works as a simple careers officer. By night, it enjoys lacemaking. \n\nMatias’s secret is that it owns property. It has a hat that causes excessive yeeting. The hat’s name is Hanna.",
   "image": "https://bhgc-dev.github.io/test/images/15.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background white"
+      "value": "background blue"
     },
     {
       "trait_type": "bodies",
-      "value": "body fantail"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "fantail chest"
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail boots"
+      "value": "legs tomtit spats"
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye normal"
+      "value": "eye white"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "corvid blood"
+      "value": "beak tomtit"
     },
     {
       "trait_type": "glasses",
@@ -45,7 +45,7 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf black"
+      "value": "clothes scarf yellow"
     },
     {
       "trait_type": "hats",
@@ -53,47 +53,47 @@
     },
     {
       "trait_type": "Gender",
-      "value": "Unknown"
+      "value": "Yes"
     },
     {
       "trait_type": "Hat",
-      "value": 1
+      "value": 4
     },
     {
       "trait_type": "Heart",
-      "value": 6
+      "value": 5
     },
     {
       "trait_type": "Magic",
-      "value": 1
+      "value": 8
     },
     {
       "trait_type": "Size",
-      "value": 6
+      "value": 2
     },
     {
       "trait_type": "Speed",
-      "value": 6
+      "value": 7
     },
     {
       "trait_type": "Blood Type",
-      "value": "NaCl"
+      "value": "B-"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Ophiuchus"
+      "value": "Pisces"
     },
     {
       "trait_type": "Job",
-      "value": "student teacher"
+      "value": "careers officer"
     },
     {
       "trait_type": "Habitat",
-      "value": "Te Wharau"
+      "value": "Pukekohe West"
     }
   ],
-  "dna": "4358c9f3dec553d04ceea6cfc7e1edd536214111",
+  "dna": "da4c3ef2e383da0628d631844e7c7fa2230a67a5",
   "edition": 15,
-  "date": 1652748015317,
+  "date": 1652756492562,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

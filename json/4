@@ -1,6 +1,6 @@
 {
-  "name": "Dominique",
-  "description": "This bird is called Dominique. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Dominique V Lester, but their best friends call them by their thin nickname, Lloyd. They is the most rewarding bird in Weld Pass. \n\nDominique loves to eat triticale, although they will ingest nearly anything that it considers sufficiently actual. \n\nDominique is a Virgo with a blood type of Wizard, who freaks out about volcanoes and gardens. However, Dominique detests refrigerators. By day, Dominique works as a simple it consultant. By night, they enjoys fishing. \n\nDominique’s secret is that they is the Harbinger. They has a hat that owns several rental properties which are poorly maintained. The hat’s name is Joy.",
+  "name": "Daisy",
+  "description": "This bird is called Daisy. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Daisy J. Elmore, but its best friends call it by its simplistic nickname, Sy. It is the most tart bird in Tairua. \n\nDaisy loves to eat lambsquarters, although it will obliterate nearly anything that it considers sufficiently grumpy. \n\nDaisy’s star sign is Taurus, and its blood type is Zoinks. This bird appreciates weapons and toothpastes. However, Daisy objects to ducks. By day, Daisy works as a simple bailiff. By night, it enjoys gambling. \n\nDaisy’s secret is that it can instantly point out the problematic part of any given movie or show. It has a hat that is the best bird. The hat’s name is Arlie.",
   "image": "https://bhgc-dev.github.io/test/images/4.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body fantail"
+      "value": "body tomtit"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
@@ -25,7 +25,7 @@
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing human"
     },
     {
       "trait_type": "eyes",
@@ -41,59 +41,59 @@
     },
     {
       "trait_type": "glasses",
-      "value": "glasses none"
+      "value": "aviators"
     },
     {
       "trait_type": "clothes",
-      "value": "bowtie black"
+      "value": "clothes none"
     },
     {
       "trait_type": "hats",
-      "value": "pirate blue png"
+      "value": "hat tophat symbol b"
     },
     {
       "trait_type": "Gender",
-      "value": "Unknown"
+      "value": "Yes"
     },
     {
       "trait_type": "Hat",
-      "value": 2
+      "value": 3
     },
     {
       "trait_type": "Heart",
-      "value": 8
+      "value": 7
     },
     {
       "trait_type": "Magic",
-      "value": 1
+      "value": 6
     },
     {
       "trait_type": "Size",
-      "value": 1
+      "value": 6
     },
     {
       "trait_type": "Speed",
-      "value": 8
+      "value": 4
     },
     {
       "trait_type": "Blood Type",
-      "value": "Wizard"
+      "value": "Zoinks"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Virgo"
+      "value": "Taurus"
     },
     {
       "trait_type": "Job",
-      "value": "it consultant"
+      "value": "bailiff"
     },
     {
       "trait_type": "Habitat",
-      "value": "Weld Pass"
+      "value": "Tairua"
     }
   ],
-  "dna": "bc23b66def3558d61ca8889b1fe012bc90a75f36",
+  "dna": "e78beefe62728e5912ad70a8b96b500bf97fabe1",
   "edition": 4,
-  "date": 1652748021835,
+  "date": 1652756493642,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

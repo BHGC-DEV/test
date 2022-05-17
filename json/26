@@ -1,6 +1,6 @@
 {
-  "name": "Avah",
-  "description": "This bird is called Avah. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Avah Q Onie, but its best friends call it by its piercing nickname, Nada. It is the most livid bird in Omarama. \n\nAvah loves to eat cheese, although it will scoff nearly anything that it considers sufficiently bubbly. \n\nAvah is a Scorpio with a blood type of Phlegmatic, who appreciates raviolis and stomachs. However, Avah shuns pancakes. By day, Avah works as a simple marine broker. By night, it enjoys taxidermy. \n\nAvah’s secret is that it eavesdrops. It has a hat that talks too wise. The hat’s name is Sanford.",
+  "name": "Hugh",
+  "description": "This bird is called Hugh. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Hugh V. Mallie, but his best friends call him by his putrid nickname, Clement. He is the most silent bird in Barrett. \n\nHugh loves to eat baby food, although he will put away nearly anything that it considers sufficiently minty. \n\nHugh’s star sign is Scorpio, and his blood type is O-. This bird freaks out about keys and furs. However, Hugh dislikes menus. By day, Hugh works as a simple youth worker. By night, he enjoys lacemaking. \n\nHugh’s secret is that he drinks milk from the source. He has a hat that doesn't stop, never gives up, holds its head high and reaches the top. The hat’s name is Carmel.",
   "image": "https://bhgc-dev.github.io/test/images/26.png",
   "attributes": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit"
+      "value": "legs tomtit spats"
     },
     {
       "trait_type": "wings",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye gormless"
+      "value": "eye human"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle fantail"
+      "value": "wattle tomtit"
     },
     {
       "trait_type": "beaks",
-      "value": "beak kiwi"
+      "value": "fantail"
     },
     {
       "trait_type": "glasses",
@@ -45,39 +45,39 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes none"
+      "value": "clothes scarf green"
     },
     {
       "trait_type": "hats",
-      "value": "farm blue"
+      "value": "cowboy purple"
     },
     {
       "trait_type": "Gender",
-      "value": "No"
+      "value": "Male"
     },
     {
       "trait_type": "Hat",
-      "value": 1
+      "value": 4
     },
     {
       "trait_type": "Heart",
-      "value": 8
-    },
-    {
-      "trait_type": "Magic",
-      "value": 4
-    },
-    {
-      "trait_type": "Size",
       "value": 5
     },
     {
+      "trait_type": "Magic",
+      "value": 3
+    },
+    {
+      "trait_type": "Size",
+      "value": 8
+    },
+    {
       "trait_type": "Speed",
-      "value": 4
+      "value": 2
     },
     {
       "trait_type": "Blood Type",
-      "value": "Phlegmatic"
+      "value": "O-"
     },
     {
       "trait_type": "Zodiac",
@@ -85,15 +85,15 @@
     },
     {
       "trait_type": "Job",
-      "value": "marine broker"
+      "value": "youth worker"
     },
     {
       "trait_type": "Habitat",
-      "value": "Omarama"
+      "value": "Barrett"
     }
   ],
-  "dna": "e4e728dd43952eede7ebdd06292bbc93a06b6895",
+  "dna": "c7dadc5f2ccdf068f19a798e6abe9c10ba7fb5a8",
   "edition": 26,
-  "date": 1652748015004,
+  "date": 1652756494171,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

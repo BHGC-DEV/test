@@ -1,23 +1,23 @@
 {
-  "name": "Riya",
-  "description": "This bird is called Riya. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Riya J Anna, but their best friends call them by their trustworthy nickname, Sid. They is the most great bird in Akaroa. \n\nRiya loves to eat cattail, although they will polish off nearly anything that it considers sufficiently comfortable. \n\nRiya is a Taurus with a blood type of AB+, who adores locusts and cherries. However, Riya loathes doors. By day, Riya works as a simple vehicle body worker. By night, they enjoys genealogy. \n\nRiya’s secret is that they says \"eyyyyy\". They has a hat that thinks the series peaked with Season 7. The hat’s name is Twila.",
+  "name": "Alicia",
+  "description": "This bird is called Alicia. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Alicia L. Courtland, but its best friends call it by its homely nickname, Freddie. It is the most piercing bird in Happy Valley-Owhiro Bay. \n\nAlicia loves to eat volteados, although it will dispose of nearly anything that it considers sufficiently coarse. \n\nAlicia’s star sign is Sagittarius, and its blood type is B+. This bird fancies sons and locks. However, Alicia loathes cottons. By day, Alicia works as a simple audit clerk. By night, it enjoys singing. \n\nAlicia’s secret is that it can spell Kwisatz Haderach without needing to look it up. It has a hat that thinks the series peaked with Season 7. The hat’s name is Alf.",
   "image": "https://bhgc-dev.github.io/test/images/27.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background white"
+      "value": "background proud"
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail kiwi"
     },
     {
       "trait_type": "chests",
-      "value": "chest white"
+      "value": "fantail chest"
     },
     {
       "trait_type": "legs",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
-      "value": "eye black"
+      "value": "eye fantail"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "corvid blood"
+      "value": "fantail scold"
     },
     {
       "trait_type": "glasses",
@@ -45,27 +45,27 @@
     },
     {
       "trait_type": "clothes",
-      "value": "tie sunflowers"
+      "value": "tie hearts"
     },
     {
       "trait_type": "hats",
-      "value": "farm blue"
+      "value": "pirate blue png"
     },
     {
       "trait_type": "Gender",
-      "value": "Unknown"
+      "value": "No"
     },
     {
       "trait_type": "Hat",
-      "value": 7
+      "value": 5
     },
     {
       "trait_type": "Heart",
-      "value": 2
+      "value": 3
     },
     {
       "trait_type": "Magic",
-      "value": 2
+      "value": 7
     },
     {
       "trait_type": "Size",
@@ -73,27 +73,27 @@
     },
     {
       "trait_type": "Speed",
-      "value": 5
+      "value": 1
     },
     {
       "trait_type": "Blood Type",
-      "value": "AB+"
+      "value": "B+"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Taurus"
+      "value": "Sagittarius"
     },
     {
       "trait_type": "Job",
-      "value": "vehicle body worker"
+      "value": "audit clerk"
     },
     {
       "trait_type": "Habitat",
-      "value": "Akaroa"
+      "value": "Happy Valley-Owhiro Bay"
     }
   ],
-  "dna": "f7f9cf662ad9191ec10e3a9730cf275c0d6e40e9",
+  "dna": "6871cfddaaec4ae7474931403c58dd103eca0253",
   "edition": 27,
-  "date": 1652748023857,
+  "date": 1652756492313,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

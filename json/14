@@ -1,39 +1,39 @@
 {
-  "name": "Javon",
-  "description": "This bird is called Javon. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Javon O Tressa, but its best friends call it by its unselfish nickname, Mat. It is the most meager bird in Mansfield. \n\nJavon loves to eat gum, although it will bolt nearly anything that it considers sufficiently elaborate. \n\nJavon is a Aquarius with a blood type of NaCl, who delights in bulldozers and bats. However, Javon scorns hamsters. By day, Javon works as a simple plant attendant. By night, it enjoys scrapbooking. \n\nJavon’s secret is that it can only concentrate on things it finds funny. It has a hat that serves the One True God. The hat’s name is Stephen.",
+  "name": "Terry",
+  "description": "This bird is called Terry. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Terry Q. Verdie, but its best friends call it by its bold nickname, Kay. It is the most made-up bird in Stanmore Bay West. \n\nTerry loves to eat loaf, although it will gulp nearly anything that it considers sufficiently lost. \n\nTerry’s star sign is Gemini, and its blood type is AB-. This bird adores shoes and dreams. However, Terry disapproves of courts. By day, Terry works as a simple stock manager. By night, it enjoys yoga. \n\nTerry’s secret is that it does tiny watercolours. It has a hat that gets distracted easily. The hat’s name is Willie.",
   "image": "https://bhgc-dev.github.io/test/images/14.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background white"
+      "value": "background blue"
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body stars"
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail tomtit"
     },
     {
       "trait_type": "chests",
-      "value": "chest white"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail boots"
+      "value": "legs fantail"
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye normal"
+      "value": "eye black"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
@@ -41,15 +41,15 @@
     },
     {
       "trait_type": "glasses",
-      "value": "aviators gold"
+      "value": "glasses none"
     },
     {
       "trait_type": "clothes",
-      "value": "bowtie red"
+      "value": "bowtie blue"
     },
     {
       "trait_type": "hats",
-      "value": "farm"
+      "value": "farm blue"
     },
     {
       "trait_type": "Gender",
@@ -57,43 +57,43 @@
     },
     {
       "trait_type": "Hat",
-      "value": 7
+      "value": 4
     },
     {
       "trait_type": "Heart",
-      "value": 7
-    },
-    {
-      "trait_type": "Magic",
-      "value": 7
-    },
-    {
-      "trait_type": "Size",
       "value": 5
     },
     {
+      "trait_type": "Magic",
+      "value": 6
+    },
+    {
+      "trait_type": "Size",
+      "value": 4
+    },
+    {
       "trait_type": "Speed",
-      "value": 8
+      "value": 2
     },
     {
       "trait_type": "Blood Type",
-      "value": "NaCl"
+      "value": "AB-"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Aquarius"
+      "value": "Gemini"
     },
     {
       "trait_type": "Job",
-      "value": "plant attendant"
+      "value": "stock manager"
     },
     {
       "trait_type": "Habitat",
-      "value": "Mansfield"
+      "value": "Stanmore Bay West"
     }
   ],
-  "dna": "659b86dfb0e625041e3e8f5df3bb984df95fea15",
+  "dna": "bff7a7f9abb1afff86341c23497d1587509001c4",
   "edition": 14,
-  "date": 1652748016851,
+  "date": 1652756490632,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

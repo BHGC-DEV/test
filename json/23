@@ -1,19 +1,19 @@
 {
-  "name": "Tate",
-  "description": "This bird is called Tate. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Tate K Emmett, but its best friends call it by its colorful nickname, Britt. It is the most heavenly bird in Atarau. \n\nTate loves to eat sweeteners, although it will gobble nearly anything that it considers sufficiently remote. \n\nTate is a Pisces with a blood type of A-, who rejoices in porcupines and spiders. However, Tate antipathizes roofs. By day, Tate works as a simple radiographer. By night, it enjoys leather crafting. \n\nTate’s secret is that it nopes out. It has a hat that increases INT by +4. The hat’s name is Carmel.",
+  "name": "Kara",
+  "description": "This bird is called Kara. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Kara O. Ambrose, but his best friends call him by his oddball nickname, Gussie. He is the most unwieldy bird in Glenavon. \n\nKara loves to eat sandwiches, although he will make short work of nearly anything that it considers sufficiently awful. \n\nKara’s star sign is Cancer, and his blood type is O+. This bird enjoys poisons and cloths. However, Kara scorns mistakes. By day, Kara works as a simple zoo manager. By night, he enjoys candle making. \n\nKara’s secret is that he wishes it was a dog. He has a hat that is a motherflippin' wizard. The hat’s name is Ralph.",
   "image": "https://bhgc-dev.github.io/test/images/23.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit"
+      "value": "legs fantail"
     },
     {
       "trait_type": "wings",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye human"
+      "value": "eye black"
     },
     {
       "trait_type": "wattles",
@@ -45,55 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf white"
+      "value": "clothes scarf pink purple stripes"
     },
     {
       "trait_type": "hats",
-      "value": "pirate blue png"
+      "value": "wizard grey"
     },
     {
       "trait_type": "Gender",
-      "value": "Pi"
+      "value": "Male"
     },
     {
       "trait_type": "Hat",
-      "value": 5
+      "value": 8
     },
     {
       "trait_type": "Heart",
-      "value": 6
-    },
-    {
-      "trait_type": "Magic",
-      "value": 4
-    },
-    {
-      "trait_type": "Size",
       "value": 1
     },
     {
+      "trait_type": "Magic",
+      "value": 1
+    },
+    {
+      "trait_type": "Size",
+      "value": 8
+    },
+    {
       "trait_type": "Speed",
-      "value": 4
+      "value": 2
     },
     {
       "trait_type": "Blood Type",
-      "value": "A-"
+      "value": "O+"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Pisces"
+      "value": "Cancer"
     },
     {
       "trait_type": "Job",
-      "value": "radiographer"
+      "value": "zoo manager"
     },
     {
       "trait_type": "Habitat",
-      "value": "Atarau"
+      "value": "Glenavon"
     }
   ],
-  "dna": "6c1588ce7f7e966f73d0549d9ebf9ac5f2894df6",
+  "dna": "23584eab696ae199b705241cce682f6a4eb0de5b",
   "edition": 23,
-  "date": 1652748016993,
+  "date": 1652756491309,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

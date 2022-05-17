@@ -1,11 +1,11 @@
 {
-  "name": "Branson",
-  "description": "This bird is called Branson. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Branson U Lawson, but its best friends call it by its welcome nickname, Edny. It is the most fake bird in Okaihau. \n\nBranson loves to eat quinoa, although it will gobble nearly anything that it considers sufficiently intentional. \n\nBranson is a Scorpio with a blood type of B+, who adores pears and pollutions. However, Branson antipathizes eels. By day, Branson works as a simple local government. By night, it enjoys cycling. \n\nBranson’s secret is that it sings really well actually. It has a hat that secretly aspires to become a surgeon. The hat’s name is Joan.",
+  "name": "Susan",
+  "description": "This bird is called Susan. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Susan Q. Stuart, but her best friends call her by her gummy nickname, Jettie. She is the most teeming bird in Waldronville. \n\nSusan loves to eat feijoa, although she will gulp nearly anything that it considers sufficiently assured. \n\nSusan’s star sign is Gemini, and her blood type is AB+. This bird enjoys planes and blouses. However, Susan abhors letters. By day, Susan works as a simple casual worker. By night, she enjoys mycology. \n\nSusan’s secret is that she will make you cry. She has a hat that doesn't recycle. The hat’s name is Lucinda.",
   "image": "https://bhgc-dev.github.io/test/images/17.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "fantail chest"
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail"
+      "value": "legs kiwi"
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye green"
+      "value": "eye human"
     },
     {
       "trait_type": "wattles",
@@ -37,27 +37,27 @@
     },
     {
       "trait_type": "beaks",
-      "value": "corvid blood"
+      "value": "beak tomtit"
     },
     {
       "trait_type": "glasses",
-      "value": "glasses none"
+      "value": "aviators"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf white"
+      "value": "tie black"
     },
     {
       "trait_type": "hats",
-      "value": "farm"
+      "value": "pirate blue gold red"
     },
     {
       "trait_type": "Gender",
-      "value": "Yes"
+      "value": "Female"
     },
     {
       "trait_type": "Hat",
-      "value": 1
+      "value": 2
     },
     {
       "trait_type": "Heart",
@@ -65,35 +65,35 @@
     },
     {
       "trait_type": "Magic",
-      "value": 2
+      "value": 4
     },
     {
       "trait_type": "Size",
-      "value": 6
+      "value": 1
     },
     {
       "trait_type": "Speed",
-      "value": 5
+      "value": 2
     },
     {
       "trait_type": "Blood Type",
-      "value": "B+"
+      "value": "AB+"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Scorpio"
+      "value": "Gemini"
     },
     {
       "trait_type": "Job",
-      "value": "local government"
+      "value": "casual worker"
     },
     {
       "trait_type": "Habitat",
-      "value": "Okaihau"
+      "value": "Waldronville"
     }
   ],
-  "dna": "09d34797dc16efc4cb368e9a06062bb72cf439ab",
+  "dna": "4906619596eb41dd38af80f65672524d428dafb4",
   "edition": 17,
-  "date": 1652748023189,
+  "date": 1652756490913,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

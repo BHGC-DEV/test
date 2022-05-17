@@ -1,27 +1,27 @@
 {
-  "name": "Dane",
-  "description": "This bird is called Dane. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Dane L Meta, but his best friends call him by his agitated nickname, Kimberly. He is the most dreary bird in Kohimarama East. \n\nDane loves to eat phyllo, although he will eat nearly anything that it considers sufficiently frivolous. \n\nDane is a Scorpio with a blood type of ZX Spectral, who freaks out about vests and forests. However, Dane disesteems triangles. By day, Dane works as a simple temperature time. By night, he enjoys shopping. \n\nDane’s secret is that he eavesdrops. He has a hat that did not participate in Gamergate. The hat’s name is Carson.",
+  "name": "Ava",
+  "description": "This bird is called Ava. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Ava E. Audra, but his best friends call him by his near nickname, Gus. He is the most enchanted bird in Takapuna Central. \n\nAva loves to eat cherries, although he will dispose of nearly anything that it considers sufficiently ragged. \n\nAva’s star sign is Taurus, and his blood type is Useful. This bird rejoices in swings and snakes. However, Ava loathes peaches. By day, Ava works as a simple sports commentator. By night, he enjoys kite flying. \n\nAva’s secret is that he talks about D&D. He has a hat that is a credit to its maker. The hat’s name is Nina.",
   "image": "https://bhgc-dev.github.io/test/images/28.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background white"
+      "value": "background blue"
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail kiwi"
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "chest white"
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail"
+      "value": "legs kiwi"
     },
     {
       "trait_type": "wings",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye rainbow gradient"
+      "value": "eye human"
     },
     {
       "trait_type": "wattles",
@@ -37,19 +37,19 @@
     },
     {
       "trait_type": "beaks",
-      "value": "corvid blood"
+      "value": "beak tomtit rainbow gradient"
     },
     {
       "trait_type": "glasses",
-      "value": "aviators"
+      "value": "glasses none"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf pink blue stripes"
+      "value": "bowtie red"
     },
     {
       "trait_type": "hats",
-      "value": "pirate blue png"
+      "value": "cowboy simple corks"
     },
     {
       "trait_type": "Gender",
@@ -57,43 +57,43 @@
     },
     {
       "trait_type": "Hat",
-      "value": 6
+      "value": 1
     },
     {
       "trait_type": "Heart",
-      "value": 3
+      "value": 7
     },
     {
       "trait_type": "Magic",
-      "value": 6
+      "value": 5
     },
     {
       "trait_type": "Size",
-      "value": 2
+      "value": 3
     },
     {
       "trait_type": "Speed",
-      "value": 8
+      "value": 3
     },
     {
       "trait_type": "Blood Type",
-      "value": "ZX Spectral"
+      "value": "Useful"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Scorpio"
+      "value": "Taurus"
     },
     {
       "trait_type": "Job",
-      "value": "temperature time"
+      "value": "sports commentator"
     },
     {
       "trait_type": "Habitat",
-      "value": "Kohimarama East"
+      "value": "Takapuna Central"
     }
   ],
-  "dna": "bb60d3f020b2af39cf4397298853d9e326fba7c6",
+  "dna": "5dc7ac130eb76d728b597fdfd97afbecb6ad4908",
   "edition": 28,
-  "date": 1652748019627,
+  "date": 1652756492061,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

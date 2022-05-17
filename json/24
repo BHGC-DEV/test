@@ -1,11 +1,11 @@
 {
-  "name": "Amiah",
-  "description": "This bird is called Amiah. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Amiah J Sol, but its best friends call it by its foolhardy nickname, Julie. It is the most hungry bird in Point Chevalier South. \n\nAmiah loves to eat biscuits, although it will nom nom nom nearly anything that it considers sufficiently courageous. \n\nAmiah is a Pisces with a blood type of NaCl, who appreciates bookcases and magazines. However, Amiah is averse to pains. By day, Amiah works as a simple barmaid. By night, it enjoys hooping. \n\nAmiah’s secret is that it has the second personality of a ruthless bully. It has a hat that audibly sighs when a bad email comes in. The hat’s name is Marie.",
+  "name": "Kamron",
+  "description": "This bird is called Kamron. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Kamron O. Junius, but its best friends call it by its bare nickname, Melo. It is the most informal bird in Moerewa. \n\nKamron loves to eat loquats, although it will gulp nearly anything that it considers sufficiently courageous. \n\nKamron’s star sign is Ophiuchus, and its blood type is O-. This bird fancies cements and CDs. However, Kamron dislikes bites. By day, Kamron works as a simple illustrator. By night, it enjoys pet. \n\nKamron’s secret is that it owes money. It has a hat that runs a tiny bird cult. The hat’s name is Vern.",
   "image": "https://bhgc-dev.github.io/test/images/24.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background white"
+      "value": "background blue"
     },
     {
       "trait_type": "bodies",
@@ -17,11 +17,11 @@
     },
     {
       "trait_type": "chests",
-      "value": "chest white"
+      "value": "fantail chest"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit"
+      "value": "legs fantail boots"
     },
     {
       "trait_type": "wings",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye white"
+      "value": "eye gormless"
     },
     {
       "trait_type": "wattles",
@@ -45,15 +45,15 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf black blue stripes"
+      "value": "tie hearts"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy maroon"
+      "value": "farm blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Dilettante"
+      "value": "Agender"
     },
     {
       "trait_type": "Hat",
@@ -65,35 +65,35 @@
     },
     {
       "trait_type": "Magic",
-      "value": 4
+      "value": 3
     },
     {
       "trait_type": "Size",
-      "value": 1
+      "value": 5
     },
     {
       "trait_type": "Speed",
-      "value": 4
+      "value": 8
     },
     {
       "trait_type": "Blood Type",
-      "value": "NaCl"
+      "value": "O-"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Pisces"
+      "value": "Ophiuchus"
     },
     {
       "trait_type": "Job",
-      "value": "barmaid"
+      "value": "illustrator"
     },
     {
       "trait_type": "Habitat",
-      "value": "Point Chevalier South"
+      "value": "Moerewa"
     }
   ],
-  "dna": "6e69945449f06f14ef81937cd196c7de2dca9c7e",
+  "dna": "dc702ec15b8aef332d30be8cf679ea4126f6343b",
   "edition": 24,
-  "date": 1652748012345,
+  "date": 1652756494329,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

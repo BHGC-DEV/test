@@ -1,43 +1,43 @@
 {
-  "name": "Danielle",
-  "description": "This bird is called Danielle. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Danielle B Margarita, but their best friends call them by their bowed nickname, Stephen. They is the most unacceptable bird in Esplanade. \n\nDanielle loves to eat popcorn, although they will chaw nearly anything that it considers sufficiently selfish. \n\nDanielle is a Libra with a blood type of H, who appreciates crocodiles and rolls. However, Danielle shuns weapons. By day, Danielle works as a simple airman. By night, they enjoys roller skating. \n\nDanielle’s secret is that they stans inappropriately. They has a hat that grants a wish. The hat’s name is Clare.",
+  "name": "Mollie",
+  "description": "This bird is called Mollie. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Mollie J. Allean, but her best friends call her by her darling nickname, Zadock. She is the most acrobatic bird in Cockle Bay. \n\nMollie loves to eat yambeans, although she will eet nearly anything that it considers sufficiently Spanish. \n\nMollie’s star sign is Aquarius, and her blood type is Phlegmatic. This bird goes crazy for relativess and mouths. However, Mollie despises windscreens. By day, Mollie works as a simple locum pharmacist. By night, she enjoys foraging. \n\nMollie’s secret is that she enjoys spreadsheets. She has a hat that messes around in boats. The hat’s name is Ora.",
   "image": "https://bhgc-dev.github.io/test/images/19.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
-      "value": "body stars"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "fantail chest"
     },
     {
       "trait_type": "legs",
-      "value": "legs kiwi"
+      "value": "legs tomtit"
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye spiral"
+      "value": "eye human"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "fantail"
+      "value": "fantail scold"
     },
     {
       "trait_type": "glasses",
@@ -45,55 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf white"
+      "value": "clothes scarf blue yellow stripes"
     },
     {
       "trait_type": "hats",
-      "value": "hat tophat symbol e"
+      "value": "wizard blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Unknown"
+      "value": "Female"
     },
     {
       "trait_type": "Hat",
-      "value": 8
-    },
-    {
-      "trait_type": "Heart",
-      "value": 6
-    },
-    {
-      "trait_type": "Magic",
-      "value": 8
-    },
-    {
-      "trait_type": "Size",
-      "value": 5
-    },
-    {
-      "trait_type": "Speed",
       "value": 1
     },
     {
+      "trait_type": "Heart",
+      "value": 1
+    },
+    {
+      "trait_type": "Magic",
+      "value": 7
+    },
+    {
+      "trait_type": "Size",
+      "value": 4
+    },
+    {
+      "trait_type": "Speed",
+      "value": 8
+    },
+    {
       "trait_type": "Blood Type",
-      "value": "H"
+      "value": "Phlegmatic"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Libra"
+      "value": "Aquarius"
     },
     {
       "trait_type": "Job",
-      "value": "airman"
+      "value": "locum pharmacist"
     },
     {
       "trait_type": "Habitat",
-      "value": "Esplanade"
+      "value": "Cockle Bay"
     }
   ],
-  "dna": "04a05c896b58b935a1354a14b4cdfaa5afde5bcc",
+  "dna": "335b329896e45edcffe497b74161ecc2bd64e617",
   "edition": 19,
-  "date": 1652748017379,
+  "date": 1652756494557,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

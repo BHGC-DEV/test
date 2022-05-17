@@ -1,11 +1,11 @@
 {
-  "name": "Jaiden",
-  "description": "This bird is called Jaiden. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Jaiden G Esco, but his best friends call him by his near nickname, Lish. He is the most burdensome bird in Brockville. \n\nJaiden loves to eat yams, although he will destroy nearly anything that it considers sufficiently alienated. \n\nJaiden is a Gemini with a blood type of A+, who goes crazy for monkeys and fights. However, Jaiden does not take kindly to woods. By day, Jaiden works as a simple professional wrestler. By night, he enjoys flying. \n\nJaiden’s secret is that he virtue signals. He has a hat that hangs around in bars. The hat’s name is Cynthia.",
+  "name": "Jane",
+  "description": "This bird is called Jane. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Jane B. Ammon, but their best friends call them by their testy nickname, Hester. They is the most shabby bird in Weiti River. \n\nJane loves to eat pimiento, although they will obliterate nearly anything that it considers sufficiently minor. \n\nJane’s star sign is Taurus, and their blood type is Dark Red. This bird fancies colleges and sneezes. However, Jane eschews cauliflowers. By day, Jane works as a simple applications programmer. By night, they enjoys sudoku. \n\nJane’s secret is that they has incorrect opinions. They has a hat that thinks they're a influencer (they're not). The hat’s name is Gene.",
   "image": "https://bhgc-dev.github.io/test/images/30.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background white"
+      "value": "background blue"
     },
     {
       "trait_type": "bodies",
@@ -13,11 +13,11 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail fantail"
+      "value": "tail kiwi"
     },
     {
       "trait_type": "chests",
-      "value": "chest kiwi"
+      "value": "fantail chest"
     },
     {
       "trait_type": "legs",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye fantail"
+      "value": "eye white"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle fantail"
+      "value": "wattle tomtit"
     },
     {
       "trait_type": "beaks",
-      "value": "human mouth"
+      "value": "corvid blood"
     },
     {
       "trait_type": "glasses",
@@ -45,23 +45,23 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf blue yellow stripes"
+      "value": "clothes none"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy maroon"
+      "value": "farm blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Unknown"
     },
     {
       "trait_type": "Hat",
-      "value": 4
+      "value": 7
     },
     {
       "trait_type": "Heart",
-      "value": 4
+      "value": 2
     },
     {
       "trait_type": "Magic",
@@ -73,27 +73,27 @@
     },
     {
       "trait_type": "Speed",
-      "value": 8
+      "value": 3
     },
     {
       "trait_type": "Blood Type",
-      "value": "A+"
+      "value": "Dark Red"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Gemini"
+      "value": "Taurus"
     },
     {
       "trait_type": "Job",
-      "value": "professional wrestler"
+      "value": "applications programmer"
     },
     {
       "trait_type": "Habitat",
-      "value": "Brockville"
+      "value": "Weiti River"
     }
   ],
-  "dna": "8eba10b77c492ef4c6204200c97994b4dc809d92",
+  "dna": "47accd64f060bc56bcaf0489f93960be62a9c3e9",
   "edition": 30,
-  "date": 1652748016566,
+  "date": 1652756491934,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

@@ -1,11 +1,11 @@
 {
-  "name": "Reid",
-  "description": "This bird is called Reid. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Reid E Santiago, but its best friends call it by its feminine nickname, Phoebe. It is the most gloomy bird in Birkdale South. \n\nReid loves to eat olives, although it will swallow nearly anything that it considers sufficiently easy-going. \n\nReid is a Scorpio with a blood type of H, who delights in troubles and alligators. However, Reid dislikes doors. By day, Reid works as a simple fossil-fuel executive. By night, it enjoys motor sports. \n\nReid’s secret is that it knows the meaning of life. It has a hat that is never late, nor early, arrives precisely when means to. The hat’s name is Janette.",
+  "name": "Joslyn",
+  "description": "This bird is called Joslyn. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Joslyn E. Pansy, but its best friends call it by its humming nickname, Lu. It is the most mountainous bird in Ngapuhi-Kaikou. \n\nJoslyn loves to eat sauerkraut, although it will dispose of nearly anything that it considers sufficiently virtuous. \n\nJoslyn’s star sign is Capricorn, and its blood type is Savvy. This bird likes wounds and forests. However, Joslyn disapproves of men. By day, Joslyn works as a simple merchant banker. By night, it enjoys digital arts. \n\nJoslyn’s secret is that it collects shells. It has a hat that creeps about at night. The hat’s name is Andrea.",
   "image": "https://bhgc-dev.github.io/test/images/3.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail boots"
+      "value": "legs fantail"
     },
     {
       "trait_type": "wings",
-      "value": "wing tomtit"
+      "value": "wing fantail"
     },
     {
       "trait_type": "eyes",
-      "value": "eye black"
+      "value": "eye normal"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "corvid"
+      "value": "beak tomtit"
     },
     {
       "trait_type": "glasses",
@@ -45,55 +45,55 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf pink"
+      "value": "bowtie black"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy purple"
+      "value": "cowboy blue"
     },
     {
       "trait_type": "Gender",
-      "value": "Agender"
+      "value": "Unassigned"
     },
     {
       "trait_type": "Hat",
-      "value": 4
+      "value": 8
     },
     {
       "trait_type": "Heart",
-      "value": 1
+      "value": 3
     },
     {
       "trait_type": "Magic",
-      "value": 1
+      "value": 3
     },
     {
       "trait_type": "Size",
-      "value": 4
+      "value": 6
     },
     {
       "trait_type": "Speed",
-      "value": 5
+      "value": 1
     },
     {
       "trait_type": "Blood Type",
-      "value": "H"
+      "value": "Savvy"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Scorpio"
+      "value": "Capricorn"
     },
     {
       "trait_type": "Job",
-      "value": "fossil-fuel executive"
+      "value": "merchant banker"
     },
     {
       "trait_type": "Habitat",
-      "value": "Birkdale South"
+      "value": "Ngapuhi-Kaikou"
     }
   ],
-  "dna": "88547d18de7b483ea728b7624da5da8ee2d53fea",
+  "dna": "0743b475bab959ccf905b5acf2d6cf1bd2f05e34",
   "edition": 3,
-  "date": 1652748014872,
+  "date": 1652756491697,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "Martha",
-  "description": "This bird is called Martha. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Martha P Luvenia, but its best friends call it by its handy nickname, Wil. It is the most nutty bird in Omata. \n\nMartha loves to eat pea, although it will chew nearly anything that it considers sufficiently idle. \n\nMartha is a Sagittarius with a blood type of O-, who relishes pansies and sandwiches. However, Martha does not take kindly to banks. By day, Martha works as a simple underwriter. By night, it enjoys skimboarding. \n\nMartha’s secret is that it spreads disinformation. It has a hat that is a different colour from the colour it appears to be. The hat’s name is Loren.",
+  "name": "Victoria",
+  "description": "This bird is called Victoria. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Victoria Z. Hunter, but her best friends call her by her velvety nickname, Ry. She is the most necessary bird in Mcleod. \n\nVictoria loves to eat cockles, although she will annihilate nearly anything that it considers sufficiently interesting. \n\nVictoria’s star sign is Leo, and her blood type is O-. This bird adores pies and messages. However, Victoria antipathizes collars. By day, Victoria works as a simple letting agent. By night, she enjoys lacemaking. \n\nVictoria’s secret is that she is an enormous chad. She has a hat that Is sadly a Canadian. The hat’s name is Green.",
   "image": "https://bhgc-dev.github.io/test/images/5.png",
   "attributes": [
     {
@@ -9,27 +9,27 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body fantail"
     },
     {
       "trait_type": "tails",
-      "value": "tail tomtit"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
-      "value": "chest white"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit"
+      "value": "legs fantail boots"
     },
     {
       "trait_type": "wings",
-      "value": "wing fantail"
+      "value": "wing tomtit"
     },
     {
       "trait_type": "eyes",
-      "value": "eye black"
+      "value": "eye green"
     },
     {
       "trait_type": "wattles",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "beaks",
-      "value": "duck"
+      "value": "corvid blood"
     },
     {
       "trait_type": "glasses",
@@ -45,35 +45,39 @@
     },
     {
       "trait_type": "clothes",
-      "value": "tie black"
+      "value": "tie blue"
+    },
+    {
+      "trait_type": "sketchy",
+      "value": "sketchy"
     },
     {
       "trait_type": "hats",
-      "value": "pirate purple"
+      "value": "cowboy simple corks"
     },
     {
       "trait_type": "Gender",
-      "value": "Agender"
+      "value": "Female"
     },
     {
       "trait_type": "Hat",
-      "value": 5
+      "value": 1
     },
     {
       "trait_type": "Heart",
-      "value": 8
-    },
-    {
-      "trait_type": "Magic",
-      "value": 5
-    },
-    {
-      "trait_type": "Size",
       "value": 3
     },
     {
+      "trait_type": "Magic",
+      "value": 6
+    },
+    {
+      "trait_type": "Size",
+      "value": 8
+    },
+    {
       "trait_type": "Speed",
-      "value": 7
+      "value": 2
     },
     {
       "trait_type": "Blood Type",
@@ -81,19 +85,19 @@
     },
     {
       "trait_type": "Zodiac",
-      "value": "Sagittarius"
+      "value": "Leo"
     },
     {
       "trait_type": "Job",
-      "value": "underwriter"
+      "value": "letting agent"
     },
     {
       "trait_type": "Habitat",
-      "value": "Omata"
+      "value": "Mcleod"
     }
   ],
-  "dna": "f00a3108ab2389d9d03a58b0bf3ea55916740086",
+  "dna": "6af824ab4514df2bb785ec2eb48cbbf38233dcf5",
   "edition": 5,
-  "date": 1652748019190,
+  "date": 1652756492428,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

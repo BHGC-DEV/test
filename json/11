@@ -1,6 +1,6 @@
 {
-  "name": "Laney",
-  "description": "This bird is called Laney. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Laney Q Stuart, but its best friends call it by its other nickname, Yoshi. It is the most sarcastic bird in Otago University. \n\nLaney loves to eat corn, although it will scoff nearly anything that it considers sufficiently international. \n\nLaney is a Taurus with a blood type of AB-, who goes crazy for chimpanzees and armies. However, Laney abhors wheels. By day, Laney works as a simple podiatrist. By night, it enjoys stand-up comedy. \n\nLaney’s secret is that it just does it. It has a hat that wasted three wishes on frivolous things. The hat’s name is Drucilla.",
+  "name": "Mia",
+  "description": "This bird is called Mia. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Mia R. Clement, but its best friends call it by its beneficial nickname, Mock. It is the most hard bird in North Gore. \n\nMia loves to eat guava, although it will ingurgitate nearly anything that it considers sufficiently delayed. \n\nMia’s star sign is Libra, and its blood type is H. This bird adores rubbers and ducks. However, Mia detests pizzas. By day, Mia works as a simple gas technician. By night, it enjoys beekeeping. \n\nMia’s secret is that it has the second personality of a ruthless bully. It has a hat that treats retail workers well. The hat’s name is Mandy.",
   "image": "https://bhgc-dev.github.io/test/images/11.png",
   "attributes": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "bodies",
-      "value": "body tomtit"
+      "value": "body stars"
     },
     {
       "trait_type": "tails",
@@ -17,11 +17,11 @@
     },
     {
       "trait_type": "chests",
-      "value": "chest white"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs fantail boots"
+      "value": "legs tomtit"
     },
     {
       "trait_type": "wings",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye black"
+      "value": "eye white"
     },
     {
       "trait_type": "wattles",
-      "value": "wattle tomtit"
+      "value": "wattle fantail"
     },
     {
       "trait_type": "beaks",
-      "value": "corvid blood"
+      "value": "beak tomtit"
     },
     {
       "trait_type": "glasses",
@@ -45,15 +45,15 @@
     },
     {
       "trait_type": "clothes",
-      "value": "clothes scarf black red stripes"
+      "value": "clothes none"
     },
     {
       "trait_type": "hats",
-      "value": "farm blue"
+      "value": "farm"
     },
     {
       "trait_type": "Gender",
-      "value": "Pi"
+      "value": "No"
     },
     {
       "trait_type": "Hat",
@@ -61,15 +61,15 @@
     },
     {
       "trait_type": "Heart",
-      "value": 1
+      "value": 3
     },
     {
       "trait_type": "Magic",
-      "value": 7
+      "value": 2
     },
     {
       "trait_type": "Size",
-      "value": 7
+      "value": 3
     },
     {
       "trait_type": "Speed",
@@ -77,23 +77,23 @@
     },
     {
       "trait_type": "Blood Type",
-      "value": "AB-"
+      "value": "H"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Taurus"
+      "value": "Libra"
     },
     {
       "trait_type": "Job",
-      "value": "podiatrist"
+      "value": "gas technician"
     },
     {
       "trait_type": "Habitat",
-      "value": "Otago University"
+      "value": "North Gore"
     }
   ],
-  "dna": "fe588611650bdcf4bffa8c686c9e2faf8bd115de",
+  "dna": "8d9708401ea9b3240d924e6d5f99417e70d616b5",
   "edition": 11,
-  "date": 1652748024235,
+  "date": 1652756494725,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }

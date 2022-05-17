@@ -1,11 +1,11 @@
 {
-  "name": "Rose",
-  "description": "This bird is called Rose. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Rose M Fairy, but its best friends call it by its adept nickname, Barby. It is the most wiggly bird in Woburn North. \n\nRose loves to eat dessert, although it will destroy nearly anything that it considers sufficiently angry. \n\nRose is a Aquarius with a blood type of Wizard, who enjoys bays and prices. However, Rose avoids bushes. By day, Rose works as a simple travel consultant. By night, it enjoys knitting. \n\nRose’s secret is that it longs for the ocean. It has a hat that thinks monkey JPGs are worth actual money. The hat’s name is Fay.",
+  "name": "Scarlett",
+  "description": "This bird is called Scarlett. It is part of the Bird Hat Grift Club, a collection of utterly unique, randomly generated birds (with hats.) Every bird has its own story. \n\nThis bird's full name is Scarlett Q. Blanche, but its best friends call it by its menacing nickname, Betsy. It is the most ecstatic bird in Rangatira. \n\nScarlett loves to eat lunch, although it will polish off nearly anything that it considers sufficiently foolish. \n\nScarlett’s star sign is Cancer, and its blood type is B+. This bird relishes cabbages and fires. However, Scarlett scorns sardines. By day, Scarlett works as a simple sheriff clerk. By night, it enjoys paintball. \n\nScarlett’s secret is that it cant stop singing the chorus of \"Stop Drop & Roll - Mareko feat. Deceptikonz\" but as \"Eat Sausage Rolls\". It has a hat that has the texture of jelly. The hat’s name is Fred.",
   "image": "https://bhgc-dev.github.io/test/images/13.png",
   "attributes": [
     {
       "trait_type": "backgrounds",
-      "value": "background blue"
+      "value": "background white"
     },
     {
       "trait_type": "bodies",
@@ -13,15 +13,15 @@
     },
     {
       "trait_type": "tails",
-      "value": "tail kiwi"
+      "value": "tail fantail"
     },
     {
       "trait_type": "chests",
-      "value": "fantail chest"
+      "value": "chest kiwi"
     },
     {
       "trait_type": "legs",
-      "value": "legs tomtit"
+      "value": "legs fantail"
     },
     {
       "trait_type": "wings",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "eyes",
-      "value": "eye normal"
+      "value": "eye white"
     },
     {
       "trait_type": "wattles",
@@ -41,19 +41,19 @@
     },
     {
       "trait_type": "glasses",
-      "value": "aviators blue"
+      "value": "glasses none"
     },
     {
       "trait_type": "clothes",
-      "value": "bowtie red"
+      "value": "tie blue"
     },
     {
       "trait_type": "hats",
-      "value": "cowboy maroon"
+      "value": "cowboy black"
     },
     {
       "trait_type": "Gender",
-      "value": "Miscellaneous"
+      "value": "Pi"
     },
     {
       "trait_type": "Hat",
@@ -61,39 +61,39 @@
     },
     {
       "trait_type": "Heart",
-      "value": 8
+      "value": 6
     },
     {
       "trait_type": "Magic",
-      "value": 4
+      "value": 3
     },
     {
       "trait_type": "Size",
-      "value": 2
+      "value": 5
     },
     {
       "trait_type": "Speed",
-      "value": 4
+      "value": 6
     },
     {
       "trait_type": "Blood Type",
-      "value": "Wizard"
+      "value": "B+"
     },
     {
       "trait_type": "Zodiac",
-      "value": "Aquarius"
+      "value": "Cancer"
     },
     {
       "trait_type": "Job",
-      "value": "travel consultant"
+      "value": "sheriff clerk"
     },
     {
       "trait_type": "Habitat",
-      "value": "Woburn North"
+      "value": "Rangatira"
     }
   ],
-  "dna": "c923c8351dffe59ee6367a29ccaa3412d843d601",
+  "dna": "e5688df55531cce3c47c2d70c07d5840b935de45",
   "edition": 13,
-  "date": 1652748017226,
+  "date": 1652756491560,
   "compiler": "HashLips Art Engine - BHGC Modified"
 }
